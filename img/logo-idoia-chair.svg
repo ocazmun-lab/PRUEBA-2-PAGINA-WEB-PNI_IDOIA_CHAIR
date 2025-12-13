@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <rect width="300" height="80" fill="none"/>
+  <g transform="translate(8,8)">
+    <circle cx="28" cy="28" r="24" fill="#b45a36"/>
+    <path d="M18 28c6-10 20-12 24-6c-6 2-10 8-12 12c-6 2-10 0-12-6z" fill="#fff3e9"/>
+    <text x="70" y="40" font-family="Nunito, sans-serif" font-size="20" fill="#3e2f25" font-weight="700">Idoia Chair</text>
+  </g>
+</svg>
