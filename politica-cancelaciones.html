@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Cancelaciones - Idoia Chair PNI</title>
+  <meta name="description" content="Política de cancelaciones, reembolsos y reprogramación de citas de Idoia Chair - PNI y Salud Integrativa.">
+  <meta name="robots" content="noindex, follow">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- COPIA AQUÍ EL NAV DE index.html CON HAMBURGUESA -->
+  <nav>
+    <div class="brand">
+      <a href="index.html">
+        <img src="img/logo-idoia-chair.png" alt="Logo Idoia Chair" style="width: 140px; height: auto;">
+      </a>
+      <div class="brand-text">
+        <p class="subtitle">PNI y Salud Integrativa</p>
+      </div>
+    </div>
+
+    <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+
+    <ul class="menu" id="menu">
+      <li><a href="index.html#inicio">Inicio</a></li>
+      <li><a href="index.html#servicios">Servicios</a></li>
+      <li><a href="index.html#contacto">Contacto</a></li>
+      <li><a href="politica-privacidad.html">Política de privacidad</a></li>
+      <li><a href="politica-cancelaciones.html">Política de cancelaciones</a></li>
+      <li><a href="aviso-legal.html">Aviso legal</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section class="section legal-page">
+      <h1>Política de Cancelaciones</h1>
+      <p class="last-update">Última actualización: Enero 2025</p>
+
+      <h2>1. Cancelaciones de Citas</h2>
+      <h3>Plazo de Aviso</h3>
+      <ul>
+        <li><strong>Mínimo 48 horas</strong> antes de la cita programada</li>
+        <li>Las cancelaciones realizadas con menos de 48 horas serán consideradas cancelaciones de última hora</li>
+      </ul>
+
+      <!-- ... RESTO DEL CONTENIDO ... -->
+
+      <div class="back-home">
+        <a href="index.html" class="btn">Volver al inicio</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>&copy; 2025 Idoia Chair PNI. Consulta online y presencial en Zaragoza.</p>
+      <nav class="footer-nav">
+        <a href="index.html">Inicio</a>
+        <a href="index.html#contacto">Contacto</a>
+        <a href="politica-privacidad.html">Política de privacidad</a>
+        <a href="politica-cancelaciones.html">Política de cancelaciones</a>
+        <a href="aviso-legal.html">Aviso legal</a>
+      </nav>
+    </div>
+  </footer>
+
+  <!-- SCRIPT DEL MENÚ HAMBURGUESA -->
+  <script>
+    const hamburger = document.getElementById('hamburger');
+    const menu = document.getElementById('menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        const isActive = menu.classList.contains('active');
+        if (isActive) {
+          menu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+          document.body.classList.remove('menu-open');
+        } else {
+          menu.classList.add('active');
+          hamburger.setAttribute('aria-expanded', 'true');
+          document.body.classList.add('menu-open');
+        }
+      });
+
+      menu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          menu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+          document.body.classList.remove('menu-open');
+        });
+      });
+    }
+  </script>
+</body>
+</html>
