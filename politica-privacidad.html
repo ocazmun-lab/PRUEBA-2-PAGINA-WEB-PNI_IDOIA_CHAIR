@@ -11,37 +11,48 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
+  <!-- COPIA AQUÍ EL NAV DE index.html CON HAMBURGUESA -->
+  <nav>
+    <div class="brand">
+      <a href="index.html">
+        <img src="img/logo-idoia-chair.png" alt="Logo Idoia Chair" style="width: 140px; height: auto;">
+      </a>
+      <div class="brand-text">
+        <p class="subtitle">PNI y Salud Integrativa</p>
+      </div>
+    </div>
 
-<header>
-    <nav>
-        <div class="brand">
-            <a href="index.html">
-                <img src="img/logo-idoia-chair.png" alt="Logo Idoia Chair" style="width: 140px; height: auto;">
-            </a>
-            <div class="brand-text">
-                <p class="subtitle">PNI y Salud Integrativa</p>
-            </div>
-        </div>
-        <ul class="menu">
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="index.html#servicios">Servicios</a></li>
-            <li><a href="index.html#contacto">Contacto</a></li>
-        </ul>
-    </nav>
-</header>
+    <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+
+    <ul class="menu" id="menu">
+      <li><a href="index.html#inicio">Inicio</a></li>
+      <li><a href="index.html#servicios">Servicios</a></li>
+      <li><a href="index.html#contacto">Contacto</a></li>
+      <li><a href="politica-privacidad.html">Política de privacidad</a></li>
+      <li><a href="politica-cancelaciones.html">Política de cancelaciones</a></li>
+      <li><a href="aviso-legal.html">Aviso legal</a></li>
+    </ul>
+  </nav>
+
 
 <main>
     <section class="section legal-page">
         <h1>Política de Privacidad</h1>
-        <p class="last-update">Última actualización: Noviembre 2025</p>
+        <p class="last-update">Última actualización: Enero 2026</p>
 
         <h2>1. Responsable del tratamiento</h2>
         <p>En cumplimiento del Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), le informamos que:</p>
         <ul>
-            <li><strong>Responsable:</strong> Idoia Chair</li>
-            <li><strong>Actividad:</strong> Consulta de Psiconeuroinmunología (PNI)</li>
-            <li><strong>Email de contacto:</strong> idoiachairpni@gmail.com</li>
-            <li><strong>Ubicación:</strong> Zaragoza, España</li>
+      <strong>Titular:</strong> Idoia Chair<br>
+        <strong>Actividad profesional:</strong> Consulta de Psiconeuroinmunología (PNI)<br>
+        <strong>Nº de colegiado:</strong> 2162<br>
+        <strong>Email:</strong> <a href="mailto:idoiachairpni@gmail.com">idoiachairpni@gmail.com</a><br>
+        <strong>Teléfono:</strong> <a href="tel:+34604811712">+34 604 811 712</a><br>
+        <strong>Ubicación:</strong> Zaragoza, España
         </ul>
 
         <h2>2. Datos que recopilamos</h2>
@@ -120,6 +131,33 @@
       </nav>
     </div>
 </footer>
+  <!-- SCRIPT DEL MENÚ HAMBURGUESA -->
+  <script>
+    const hamburger = document.getElementById('hamburger');
+    const menu = document.getElementById('menu');
 
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        const isActive = menu.classList.contains('active');
+        if (isActive) {
+          menu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+          document.body.classList.remove('menu-open');
+        } else {
+          menu.classList.add('active');
+          hamburger.setAttribute('aria-expanded', 'true');
+          document.body.classList.add('menu-open');
+        }
+      });
+
+      menu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          menu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+          document.body.classList.remove('menu-open');
+        });
+      });
+    }
+  </script>
 </body>
 </html>
