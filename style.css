@@ -313,39 +313,33 @@ footer{background:var(--primario);color:#fff;padding:1rem 0;margin-top:2rem}
   position:fixed;
   bottom:30px;
   right:30px;
-/* Para el elemento del link/botón de WhatsApp */
-a[href*="wa.me"] {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  width: 60px;
-  height: 60px;
-  background-color: #25D366;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none;
-  z-index: 999;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transition: all 0.3s ease;
+  background:#25D366;
+  color:white;
+  width:60px;
+  height:60px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  box-shadow:0 4px 12px rgba(37,211,102,0.4);
+  z-index:999;
+  transition:all 0.3s ease;
+  text-decoration:none;
 }
 
-/* Responsive para móviles pequeños */
-@media (max-width: 480px) {
-  a[href*="wa.me"] {
-    bottom: 15px;
-    right: 15px;
-    width: 50px;
-    height: 50px;
-  }
+.whatsapp-float:hover{
+  transform:scale(1.1);
+  box-shadow:0 6px 20px rgba(37,211,102,0.6);
 }
 
-/* Efecto hover */
-a[href*="wa.me"]:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+.whatsapp-float:active{
+  transform:scale(0.95);
 }
+/* Ocultar H1 visualmente pero mantenerlo para SEO */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
     padding: 0;
     margin: -1px;
     overflow: hidden;
@@ -487,4 +481,13 @@ a[href*="wa.me"]:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(180, 90, 54, 0.3);
 
+  /* Fix WhatsApp flotante en móviles */
+@media (max-width: 768px) {
+    .whatsapp-float {
+        bottom: 80px; /* Más arriba para evitar barra de navegación del navegador */
+        right: 15px; /* Más cerca del borde */
+        width: 55px; /* Ligeramente más pequeño */
+        height: 55px;
+    }
+}
 }
