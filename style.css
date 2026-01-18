@@ -480,4 +480,14 @@ footer{background:var(--primario);color:#fff;padding:1rem 0;margin-top:2rem}
     background: #8a3e28;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(180, 90, 54, 0.3);
+
+  /* Fix WhatsApp flotante en móviles */
+@media (max-width: 768px) {
+    .whatsapp-float {
+        bottom: 80px; /* Más arriba para evitar barra de navegación del navegador */
+        right: 15px; /* Más cerca del borde */
+        width: 55px; /* Ligeramente más pequeño */
+        height: 55px;
+    }
+}
 }
