@@ -335,6 +335,13 @@ footer{background:var(--primario);color:#fff;padding:1rem 0;margin-top:2rem}
 .whatsapp-float:active{
   transform:scale(0.95);
 }
+.social-links img,
+a img {
+  width: 48px;
+  height: 48px;
+  vertical-align: middle;
+}
+
 /* Ocultar H1 visualmente pero mantenerlo para SEO */
 .visually-hidden {
     position: absolute;
