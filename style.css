@@ -341,7 +341,6 @@ a img {
   height: 48px;
   vertical-align: middle;
 }
-
 /* Ocultar H1 visualmente pero mantenerlo para SEO */
 .visually-hidden {
     position: absolute;
@@ -497,4 +496,5 @@ a img {
         height: 55px;
     }
 }
+
 }
