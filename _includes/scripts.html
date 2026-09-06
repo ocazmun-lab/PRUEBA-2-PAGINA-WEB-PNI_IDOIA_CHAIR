@@ -45,5 +45,17 @@ if (hamburger && menu) {
       document.body.classList.remove('menu-open');
     });
   });
+
+  // Cerrar el menú al tocar fuera de él
+  document.addEventListener('click', (event) => {
+    const isClickInsideMenu = menu.contains(event.target);
+    const isClickOnHamburger = hamburger.contains(event.target);
+
+    if (menu.classList.contains('active') && !isClickInsideMenu && !isClickOnHamburger) {
+      menu.classList.remove('active');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.classList.remove('menu-open');
+    }
+  });
 }
 </script>
