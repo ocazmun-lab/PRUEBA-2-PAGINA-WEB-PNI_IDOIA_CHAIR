@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idoiachairpni.es/sitemap.xml
