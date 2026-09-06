@@ -303,6 +303,10 @@ footer{background:var(--primario);color:#fff;padding:1rem 0;margin-top:2rem}
   color:var(--primario);
 }
 
+.pricing-card .amount.amount-text{
+  font-size:1.5rem;
+}
+
 .pricing-card .description{
   color:var(--texto);
   font-size:0.95rem;
