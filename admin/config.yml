@@ -11,7 +11,7 @@ collections:
     label: "Blog"
     folder: "_posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     format: "frontmatter"
     extension: "md"
     fields:
@@ -27,7 +27,7 @@ collections:
         required: false
         options: ["Digestivo", "Hormonal", "Inmunológico", "Consulta y método"]
       - {label: "Etiquetas", name: "tags", widget: "list", required: false}
-      - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "Si lo dejas vacío se usa el título del artículo"}
+      - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "El texto exacto que aparecerá en Google. Si lo dejas vacío se usa el título del artículo + \"| Idoia Chair\""}
       - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
       - {label: "Publicado", name: "published", widget: "boolean", default: true, hint: "Desactívalo para guardar como borrador sin publicar"}
       - {label: "Contenido", name: "body", widget: "markdown"}

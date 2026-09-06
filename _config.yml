@@ -10,6 +10,15 @@ kramdown:
 plugins:
   - jekyll-sitemap
 
+permalink: /blog/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 exclude:
   - Gemfile
   - Gemfile.lock

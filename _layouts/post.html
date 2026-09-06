@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>{% if page.meta_title %}{{ page.meta_title }}{% else %}{{ page.title }} | Idoia Chair{% endif %}</title>
+  <meta name="description" content="{{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.meta_title | default: page.title }}">
+  <meta property="og:description" content="{{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 }}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/og-image.png' | absolute_url }}{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="article">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "Idoia Chair"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Idoia Chair - PNI y Salud Integrativa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/img/logo-idoia-chair.png' | absolute_url }}"
+      }
+    },
+    "description": {{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 | jsonify }},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }{% if page.image %},
+    "image": "{{ page.image | absolute_url }}"{% endif %}
+  }
+  </script>
+{% include head.html %}
+</head>
+<body>
+{% include nav-home.html %}
+
+<main class="blog-post">
+  <nav class="breadcrumb" aria-label="Migas de pan">
+    <a href="{{ '/' | relative_url }}">Inicio</a> ›
+    <a href="{{ '/blog/' | relative_url }}">Blog</a> ›
+    <span>{{ page.title }}</span>
+  </nav>
+
+  <article class="container">
+    {% if page.category %}<p class="post-category">{{ page.category }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
+
+    {% if page.image %}
+    <img class="post-featured-image" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+    {% endif %}
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <div class="post-cta">
+      <p>¿Quieres resolver esto en tu caso?</p>
+      <a href="{{ '/#contacto' | relative_url }}" class="btn">Reserva tu consulta</a>
+    </div>
+  </article>
+</main>
+
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>

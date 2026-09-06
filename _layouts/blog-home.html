@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:image" content="{{ '/img/og-image.png' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+{% include head.html %}
+</head>
+<body>
+{% include nav-home.html %}
+
+<main class="blog-index">
+  <section class="section blog-hero">
+    <h1>Blog</h1>
+    <p class="lead">{{ page.description }}</p>
+  </section>
+
+  <section class="section">
+    <div class="blog-grid">
+      {% for post in site.posts %}
+      <article class="blog-card">
+        <a href="{{ post.url | relative_url }}">
+          {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}">
+          {% endif %}
+          <div class="blog-card-body">
+            {% if post.category %}<span class="blog-card-category">{{ post.category }}</span>{% endif %}
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.excerpt }}</p>
+            <p class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</p>
+          </div>
+        </a>
+      </article>
+      {% else %}
+      <p class="blog-empty">Todavía no hay artículos publicados. Vuelve pronto.</p>
+      {% endfor %}
+    </div>
+  </section>
+</main>
+
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>
