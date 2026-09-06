@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+{% include analytics.html %}
   <title>{% if page.meta_title %}{{ page.meta_title }}{% else %}{{ page.title }} | Idoia Chair{% endif %}</title>
   <meta name="description" content="{{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 }}">
   <meta name="robots" content="index, follow">
