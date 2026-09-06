@@ -1,0 +1,13 @@
+items:
+  - question: "¿Qué es la PNI?"
+    answer: "La Psiconeuroinmunología (PNI) es una disciplina científica que estudia las interacciones entre el sistema nervioso, inmunitario, endocrino, digestivo y metabólico para entender con precisión qué está provocando los síntomas y desequilibrios en cada persona. No se basa en protocolos genéricos ni en poner parches sintomáticos, sino en una mirada integradora, que busca identificar los mecanismos fisiológicos, emocionales y contextuales que están en la raíz del problema."
+    active: true
+  - question: "¿Cómo es una consulta de PNI?"
+    answer: "La primera consulta es online, a través de videollamada, y tiene una duración aproximada de 60-90 minutos. Durante esta sesión, realizo una evaluación completa de tu caso: analizo tu historial clínico, hábitos de vida, alimentación, estado emocional, calidad del sueño, síntomas actuales y analíticas previas."
+    active: true
+  - question: "¿Qué incluye un tratamiento de PNI?"
+    answer: "Después de la primera consulta, diseño un plan terapéutico personalizado que puede incluir pautas nutricionales adaptadas, suplementación específica si es necesaria, recomendaciones de hábitos de vida (gestión del estrés, higiene del sueño), y seguimiento periódico para ajustar el tratamiento."
+    active: true
+  - question: "¿Cómo puede ayudarme la PNI si tengo una enfermedad autoinmune, problemas digestivos o desequilibrios hormonales?"
+    answer: "La Psiconeuroinmunología (PNI) aborda la salud de manera integral, relacionando los sistemas nervioso, inmune, endocrino y digestivo. Si sufres una enfermedad autoinmune, problemas digestivos o desequilibrios hormonales, la PNI estudia los factores que pueden estar afectando tu salud (alimentación, estrés, hábitos, entorno) y propone estrategias específicas para restaurar el equilibrio corporal. El objetivo es identificar las causas subyacentes y ayudarte a mejorar tu sintomatología, calidad de vida y bienestar general, combinando pautas nutricionales, de estilo de vida y suplementación si se precisa."
+    active: true

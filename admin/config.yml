@@ -31,3 +31,21 @@ collections:
       - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
       - {label: "Publicado", name: "published", widget: "boolean", default: true, hint: "Desactívalo para guardar como borrador sin publicar"}
       - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "faq"
+    label: "Preguntas frecuentes"
+    files:
+      - name: "faq"
+        label: "Preguntas frecuentes"
+        file: "_data/faq.yml"
+        fields:
+          - name: "items"
+            label: "Preguntas"
+            widget: "list"
+            label_singular: "Pregunta"
+            summary: "{{fields.question}}"
+            hint: "Arrastra para cambiar el orden en que aparecen en la web"
+            fields:
+              - {label: "Pregunta", name: "question", widget: "string"}
+              - {label: "Respuesta", name: "answer", widget: "text"}
+              - {label: "Activa", name: "active", widget: "boolean", default: true, hint: "Desactívala para ocultarla de la web sin borrarla"}

@@ -10,6 +10,24 @@
 {% endif %}{% if page.schema %}  <script type="application/ld+json">
 {{ page.schema }}
   </script>
+{% endif %}{% if page.faq_schema %}  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% assign active_faqs = site.data.faq.items | where_exp: "item", "item.active != false" %}{% for item in active_faqs %}
+      {
+        "@type": "Question",
+        "name": {{ item.question | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ item.answer | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
 {% endif %}{% if page.og_title %}    <!-- Open Graph para redes sociales -->
     <meta property="og:title" content="{{ page.og_title }}">
     <meta property="og:description" content="{{ page.og_description }}">
