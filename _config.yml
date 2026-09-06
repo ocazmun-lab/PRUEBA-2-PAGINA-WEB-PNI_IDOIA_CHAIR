@@ -1,0 +1,15 @@
+title: "Idoia Chair - PNI y Salud Integrativa"
+url: "https://idoiachairpni.es"
+lang: es
+theme: null
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README-mobile-menu-fix.md
+  - vendor
+  - node_modules

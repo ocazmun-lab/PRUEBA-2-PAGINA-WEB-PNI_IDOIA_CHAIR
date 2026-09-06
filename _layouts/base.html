@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+{% if page.keywords %}  <meta name="keywords" content="{{ page.keywords }}">
+{% endif %}{% if page.author %}  <meta name="author" content="{{ page.author }}">
+{% endif %}  <meta name="robots" content="{{ page.robots }}">
+{% if page.canonical %}  <link rel="canonical" href="{{ page.canonical }}">
+{% endif %}{% if page.schema %}  <script type="application/ld+json">
+{{ page.schema }}
+  </script>
+{% endif %}{% if page.og_title %}    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="{{ page.og_title }}">
+    <meta property="og:description" content="{{ page.og_description }}">
+    <meta property="og:image" content="{{ page.og_image }}">
+    <meta property="og:url" content="{{ page.og_url }}">
+    <meta property="og:type" content="{{ page.og_type }}">
+{% endif %}
+{% include head.html %}
+</head>
+<body>
+{{ content }}
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>

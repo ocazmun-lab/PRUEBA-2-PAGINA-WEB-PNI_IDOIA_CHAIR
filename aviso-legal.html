@@ -1,46 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Aviso Legal | Idoia Chair – PNI y Salud Integrativa</title>
-    <meta name="description" content="Aviso legal e información sobre el titular de la web Idoia Chair - PNI y Salud Integrativa.">
-    <meta name="robots" content="noindex, follow">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-</head>
-<body>
-  <nav>
-    <div class="brand">
-      <a href="index.html">
-       <img src="img/logo-idoia-chair.png"
-     alt="Idoia Chair - Psiconeuroinmunología y Salud Integrativa"
-     style="width: 140px; height: auto">
-      </a>
-      <div class="brand-text">
-        <p class="subtitle">PNI y Salud Integrativa</p>
-      </div>
-    </div>
-
-    <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-    </button>
-
-    <ul class="menu" id="menu">
-      <li><a href="index.html#inicio">Inicio</a></li>
-      <li><a href="index.html#servicios">Servicios</a></li>
-      <li><a href="index.html#contacto">Contacto</a></li>
-      <li><a href="politica-privacidad.html">Política de privacidad</a></li>
-      <li><a href="politica-cancelaciones.html">Política de cancelaciones</a></li>
-      <li><a href="aviso-legal.html">Aviso legal</a></li>
-    </ul>
-  </nav>
+---
+layout: base
+title: "Aviso Legal | Idoia Chair – PNI y Salud Integrativa"
+description: "Aviso legal e información sobre el titular de la web Idoia Chair - PNI y Salud Integrativa."
+robots: "noindex, follow"
+---
+{% include nav-legal.html %}
 
 <main class="legal-page">
   <section class="legal-hero">
@@ -168,45 +132,3 @@
     </div>
   </section>
 </main>
-
-<footer>
-    <div class="footer-inner">
-      <p>© 2026 Idoia Chair – PNI. Consulta online - Zaragoza.</p>
-      <nav class="footer-nav">
-        <a href="index.html">Inicio</a>
-        <a href="index.html#contacto">Contacto</a>
-        <a href="politica-privacidad.html">Política de privacidad</a>
-        <a href="politica-cancelaciones.html">Política de cancelaciones</a>
-        <a href="aviso-legal.html">Aviso legal</a>
-      </nav>
-    </div>
-      <!-- SCRIPT DEL MENÚ HAMBURGUESA -->
-  <script>
-    const hamburger = document.getElementById('hamburger');
-    const menu = document.getElementById('menu');
-
-    if (hamburger && menu) {
-      hamburger.addEventListener('click', function() {
-        const isActive = menu.classList.contains('active');
-        if (isActive) {
-          menu.classList.remove('active');
-          hamburger.setAttribute('aria-expanded', 'false');
-          document.body.classList.remove('menu-open');
-        } else {
-          menu.classList.add('active');
-          hamburger.setAttribute('aria-expanded', 'true');
-          document.body.classList.add('menu-open');
-        }
-      });
-
-      menu.querySelectorAll('a').forEach(link => {
-        link.addEventListener('click', () => {
-          menu.classList.remove('active');
-          hamburger.setAttribute('aria-expanded', 'false');
-          document.body.classList.remove('menu-open');
-        });
-      });
-    }
-  </script>
-
-</footer>
