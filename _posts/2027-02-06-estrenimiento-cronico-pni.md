@@ -3,6 +3,8 @@ title: "Estreñimiento crónico desde la PNI"
 excerpt: "Estreñimiento crónico: posibles causas y cómo la Psiconeuroinmunología aborda este síntoma de forma integral."
 date: 2027-02-06 10:00:00 +0100
 slug: "estrenimiento-cronico-pni"
+image: "/img/blog/estrenimiento-cronico-pni.jpg"
+image_alt: "Hidratación y estreñimiento crónico, enfoque PNI"
 category: "Digestivo"
 tags: ["estreñimiento", "digestivo", "microbiota"]
 meta_title: "Estreñimiento crónico desde la PNI | Idoia Chair"

@@ -3,6 +3,8 @@ title: "Dolor menstrual y desequilibrio hormonal: un enfoque integrador"
 excerpt: "Dolor menstrual y desequilibrio hormonal desde la Psiconeuroinmunología: qué factores pueden influir y cómo se aborda."
 date: 2027-01-20 10:00:00 +0100
 slug: "dolor-menstrual-desequilibrio-hormonal"
+image: "/img/blog/dolor-menstrual-desequilibrio-hormonal.jpg"
+image_alt: "Dolor menstrual y desequilibrio hormonal, enfoque PNI"
 category: "Hormonal"
 tags: ["dolor menstrual", "hormonal", "ciclo menstrual"]
 meta_title: "Dolor menstrual y desequilibrio hormonal | Idoia Chair"

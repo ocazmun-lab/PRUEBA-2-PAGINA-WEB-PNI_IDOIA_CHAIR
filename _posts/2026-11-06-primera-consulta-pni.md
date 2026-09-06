@@ -3,6 +3,8 @@ title: "Primera consulta de PNI: qué esperar y cómo prepararla"
 excerpt: "Qué esperar en tu primera consulta de Psiconeuroinmunología: cómo prepararla, qué llevar y cómo es el proceso paso a paso."
 date: 2026-11-06 10:00:00 +0200
 slug: "primera-consulta-pni"
+image: "/img/blog/primera-consulta-pni.jpg"
+image_alt: "Preparación de la primera consulta de PNI"
 category: "Consulta y método"
 tags: ["primera consulta", "PNI"]
 meta_title: "Primera consulta de PNI: qué esperar y cómo prepararla | Idoia Chair"

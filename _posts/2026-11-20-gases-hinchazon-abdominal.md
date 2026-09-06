@@ -3,6 +3,8 @@ title: "Gases e hinchazón abdominal: qué puede estar pasando"
 excerpt: "Causas frecuentes de gases e hinchazón abdominal y cómo la Psiconeuroinmunología aborda este síntoma de forma integral."
 date: 2026-11-20 10:00:00 +0200
 slug: "gases-hinchazon-abdominal"
+image: "/img/blog/gases-hinchazon-abdominal.jpg"
+image_alt: "Gases e hinchazón abdominal, enfoque PNI"
 category: "Digestivo"
 tags: ["gases", "hinchazón", "digestivo"]
 meta_title: "Gases e hinchazón abdominal: qué puede estar pasando | Idoia Chair"

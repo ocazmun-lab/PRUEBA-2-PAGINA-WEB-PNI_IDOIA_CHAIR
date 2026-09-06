@@ -3,6 +3,8 @@ title: "Reflujo y digestiones pesadas: qué mirar más allá del síntoma"
 excerpt: "Reflujo y digestiones pesadas: qué factores puede estar pasando por alto un abordaje solo sintomático, y qué mira la PNI."
 date: 2027-01-06 10:00:00 +0100
 slug: "reflujo-digestiones-pesadas"
+image: "/img/blog/reflujo-digestiones-pesadas.jpg"
+image_alt: "Reflujo y digestiones pesadas, enfoque PNI"
 category: "Digestivo"
 tags: ["reflujo", "digestivo", "Helicobacter"]
 meta_title: "Reflujo y digestiones pesadas: qué mirar más allá del síntoma | Idoia Chair"
