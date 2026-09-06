@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: ocazmun-lab/PRUEBA-2-PAGINA-WEB-PNI_IDOIA_CHAIR
+  branch: main
+
+media_folder: "img/blog"
+public_folder: "/img/blog"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
+      - {label: "Fecha de publicación", name: "date", widget: "datetime"}
+      - {label: "URL del artículo (slug)", name: "slug", widget: "string", required: false, hint: "Ej: sibo-y-pni. Si lo dejas vacío se genera automáticamente a partir del título"}
+      - {label: "Imagen destacada", name: "image", widget: "image", required: false}
+      - {label: "Texto alternativo de la imagen", name: "image_alt", widget: "string", required: false}
+      - label: "Categoría"
+        name: "category"
+        widget: "select"
+        required: false
+        options: ["Digestivo", "Hormonal", "Inmunológico", "Consulta y método"]
+      - {label: "Etiquetas", name: "tags", widget: "list", required: false}
+      - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "Si lo dejas vacío se usa el título del artículo"}
+      - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
+      - {label: "Publicado", name: "published", widget: "boolean", default: true, hint: "Desactívalo para guardar como borrador sin publicar"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
