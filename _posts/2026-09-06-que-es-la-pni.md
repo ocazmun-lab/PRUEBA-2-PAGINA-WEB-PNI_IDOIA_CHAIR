@@ -3,8 +3,8 @@ title: Qué es la Psiconeuroinmunología (PNI)
 excerpt: 'Una introducción clara a la PNI: qué estudia esta disciplina y cómo se diferencia de otros abordajes de salud.'
 date: 2026-09-06 10:00:00 +0200
 slug: que-es-la-pni
-image: /img/blog/que-es-la-pni.jpg
-image_alt: 'Consulta de Psiconeuroinmunología con diagrama de los sistemas del cuerpo'
+image: /img/blog/QUE ES LA PNI _ PSICONEUROINMUNOLOGÍA.png
+image_alt: Concepto de bienestar integral cuerpo-mente, PNI
 category: Consulta y método
 tags:
   - PNI
@@ -15,7 +15,7 @@ meta_description: Descubre qué es la Psiconeuroinmunología (PNI), qué estudia
 published: true
 ---
 
-## Psiconeuroinmunología: qué es, para qué sirve y qué síntomas puede tratar
+# Psiconeuroinmunología: qué es, para qué sirve y qué síntomas puede tratar
 
 La Psiconeuroinmunología (PNI) es una disciplina científica que estudia las interacciones entre el sistema nervioso, inmunitario, endocrino, digestivo y metabólico.
 
