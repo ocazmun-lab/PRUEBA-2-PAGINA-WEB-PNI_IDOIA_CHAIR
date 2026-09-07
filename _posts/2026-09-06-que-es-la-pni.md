@@ -15,7 +15,7 @@ meta_description: Descubre qué es la Psiconeuroinmunología (PNI), qué estudia
 published: true
 ---
 
-# Psiconeuroinmunología: qué es, para qué sirve y qué síntomas puede tratar
+## Psiconeuroinmunología: qué es, para qué sirve y qué síntomas puede tratar
 
 La Psiconeuroinmunología (PNI) es una disciplina científica que estudia las interacciones entre el sistema nervioso, inmunitario, endocrino, digestivo y metabólico.
 
