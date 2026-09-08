@@ -14,3 +14,18 @@ items:
   - question: "¿Ofreces consultas a domicilio?"
     answer: "Sí, ofrezco consultas de PNI a domicilio en Zaragoza y alrededores. El precio se consulta caso a caso, ya que depende de la zona y el desplazamiento. Escríbeme indicando tu localidad y te confirmo disponibilidad y presupuesto."
     active: true
+  - question: "¿La PNI sustituye a mi médico o a mi tratamiento actual?"
+    answer: "No. La PNI es un enfoque complementario que trabaja en paralelo a tu médico o especialista, nunca en su lugar. Si tienes un diagnóstico o tratamiento médico en curso, la consulta de PNI se adapta a él, no lo sustituye."
+    active: true
+  - question: "¿Necesito analíticas o pruebas antes de la primera consulta?"
+    answer: "No es imprescindible. Si tienes analíticas o pruebas previas, tráelas — ayudan a tener una visión más completa — pero no es un requisito para la primera consulta."
+    active: true
+  - question: "¿Cuánto dura un tratamiento y cuándo empiezo a notar cambios?"
+    answer: "Depende de cada caso, pero lo habitual es empezar a notar cambios en las primeras semanas y hacer una revisión más completa del progreso en la consulta de seguimiento. La PNI trabaja sobre hábitos, así que los resultados se consolidan con constancia, no de un día para otro."
+    active: true
+  - question: "¿Puedo hacer consulta si no vivo en Zaragoza?"
+    answer: "Sí. La consulta online funciona igual de bien vivas donde vivas — solo necesitas conexión a internet. La opción a domicilio sí está limitada a Zaragoza y alrededores."
+    active: true
+  - question: "¿En qué se diferencia la PNI de un nutricionista o de la nutrición funcional?"
+    answer: "Comparten la mirada integradora, pero la PNI amplía el foco más allá de la alimentación: incorpora también el sistema nervioso, el inmunitario y el componente emocional como piezas del mismo proceso."
+    active: true
