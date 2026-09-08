@@ -542,7 +542,7 @@ a img {
 .blog-card p{color:#5a4036;font-size:0.95rem;margin:0 0 0.6rem}
 .blog-empty{text-align:center;color:#5a4036;grid-column:1/-1}
 
-.post-meta{color:#8a7264;font-size:0.9rem}
+.post-meta{color:#7a6357;font-size:0.9rem}
 
 .breadcrumb{
   position:static;
@@ -556,7 +556,7 @@ a img {
 .blog-post .container{max-width:760px;margin:0 auto;padding:1rem 1rem 4rem}
 .blog-post h1{color:var(--primario);font-size:2.1rem;margin:0.6rem 0 0.4rem}
 .post-category{
-  color:var(--salvia);font-weight:700;font-size:0.85rem;
+  color:#4f7863;font-weight:700;font-size:0.85rem;
   text-transform:uppercase;letter-spacing:0.04em;margin:0;
 }
 .post-featured-image{

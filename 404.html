@@ -1,0 +1,22 @@
+---
+layout: base
+title: "Página no encontrada | Idoia Chair"
+description: "La página que buscas no existe o se ha movido."
+robots: "noindex, follow"
+sitemap: false
+permalink: /404.html
+---
+{% include nav-home.html %}
+
+<main>
+  <section class="section" style="text-align:center; padding-top:4rem; padding-bottom:4rem;">
+    <h1 style="color:var(--primario); font-size:2.4rem; margin-bottom:0.5rem;">Página no encontrada</h1>
+    <p class="lead" style="max-width:560px; margin:0 auto 2rem;">
+      Puede que el enlace esté desactualizado o que la página se haya movido. Prueba a volver al inicio o revisa el blog.
+    </p>
+    <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+      <a href="{{ '/' | relative_url }}" class="btn">Ir al inicio</a>
+      <a href="{{ '/blog/' | relative_url }}" class="btn" style="background:var(--salvia);">Ver el blog</a>
+    </div>
+  </section>
+</main>
