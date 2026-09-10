@@ -1,16 +1,20 @@
 ---
-title: "Hashimoto y PNI: qué se puede trabajar"
-excerpt: "Qué papel puede tener la Psiconeuroinmunología en la enfermedad de Hashimoto, en coordinación con el seguimiento médico habitual."
+title: 'Hashimoto y PNI: qué se puede trabajar'
+excerpt: Qué papel puede tener la Psiconeuroinmunología en la enfermedad de Hashimoto, en coordinación con el seguimiento médico habitual.
 date: 2026-12-06 10:00:00 +0200
-slug: "hashimoto-y-pni"
-image: "/img/desordenes-endocrinos-pni-idoia-chair.png"
-image_alt: "Hashimoto y desórdenes endocrinos, enfoque PNI"
-category: "Hormonal"
-tags: ["Hashimoto", "tiroides", "hormonal"]
-meta_title: "Hashimoto y PNI: qué se puede trabajar | Idoia Chair"
-meta_description: "Qué papel puede tener la Psiconeuroinmunología en la enfermedad de Hashimoto, en coordinación con el seguimiento médico habitual."
+slug: hashimoto-y-pni
+image: /img/blog/hashimoto-y-pni.jpg
+image_alt: Hashimoto y desórdenes endocrinos, enfoque PNI
+category: Hormonal
+tags:
+  - Hashimoto
+  - tiroides
+  - hormonal
+meta_title: 'Hashimoto y PNI: qué se puede trabajar | Idoia Chair'
+meta_description: Qué papel puede tener la Psiconeuroinmunología en la enfermedad de Hashimoto, en coordinación con el seguimiento médico habitual.
 published: false
 ---
+
 La enfermedad de Hashimoto es una de las consultas más habituales relacionadas con la tiroides, y cada vez más personas buscan un acompañamiento que vaya más allá de la analítica y la medicación. Ahí es donde la Psiconeuroinmunología puede sumar.
 
 ## Qué es Hashimoto en pocas palabras
