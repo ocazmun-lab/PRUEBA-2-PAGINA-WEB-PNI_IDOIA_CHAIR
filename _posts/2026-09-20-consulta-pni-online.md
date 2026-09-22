@@ -12,7 +12,7 @@ tags:
   - primera consulta
 meta_title: 'Consulta de PNI online: cómo funciona, qué incluye y precio | Idoia Chair'
 meta_description: 'Cómo es una consulta de Psiconeuroinmunología online con Idoia Chair: qué incluye, cuánto dura, precio y cómo reservar tu primera sesión.'
-published: false
+published: true
 ---
 
 Cada vez más personas buscan una consulta de Psiconeuroinmunología (PNI) online: no siempre es posible desplazarse, y una videollamada bien estructurada permite hacer una evaluación igual de completa que una consulta presencial. Aquí te cuento cómo funciona, paso a paso.
