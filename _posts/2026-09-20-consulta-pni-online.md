@@ -1,7 +1,7 @@
 ---
 title: 'Consulta de PNI online: cómo funciona, qué incluye y precio'
 excerpt: 'Cómo es una consulta de Psiconeuroinmunología online: qué incluye, cuánto dura y cómo reservar tu primera sesión.'
-date: 2026-09-22T14:11:00
+date: 2026-09-22T19:05:00
 slug: consulta-pni-online
 image: /img/blog/WhatsApp Image 2026-09-22 at 11.53.34.jpeg
 image_alt: Consulta de Psiconeuroinmunología online por videollamada
