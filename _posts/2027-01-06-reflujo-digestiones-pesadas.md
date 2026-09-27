@@ -28,4 +28,4 @@ Reducir la acidez con medicación puede aliviar a corto plazo, pero si la causa 
 
 En lugar de quedarnos solo en "tienes reflujo, toma esto", la evaluación de PNI busca entender qué combinación de estos factores está presente en tu caso, para diseñar un plan que trabaje sobre la causa y no solo sobre el síntoma.
 
-Si además notas gases o hinchazón, puede interesarte el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/), o si sospechas de sobrecrecimiento bacteriano, el de [SIBO y PNI](/blog/sibo-y-pni/).
+Si además notas gases o hinchazón, puede interesarte el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/), o si sospechas de sobrecrecimiento bacteriano, el de [SIBO](/blog/sibo-que-es-sintomas/).

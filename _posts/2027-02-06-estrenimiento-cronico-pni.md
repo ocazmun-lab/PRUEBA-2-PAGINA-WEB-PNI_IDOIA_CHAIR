@@ -28,4 +28,4 @@ El tránsito intestinal depende de mucho más que la dieta: el sistema nervioso,
 
 En lugar de repetir las recomendaciones genéricas que probablemente ya conoces, la evaluación de PNI busca identificar qué combinación específica de factores está manteniendo tu estreñimiento, para diseñar un plan realista y sostenible.
 
-Si el estreñimiento convive con gases o hinchazón, puede interesarte también [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/), o si sospechas de un desequilibrio bacteriano, [SIBO y PNI](/blog/sibo-y-pni/).
+Si el estreñimiento convive con gases o hinchazón, puede interesarte también [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/), o si sospechas de un desequilibrio bacteriano, [SIBO](/blog/sibo-que-es-sintomas/).

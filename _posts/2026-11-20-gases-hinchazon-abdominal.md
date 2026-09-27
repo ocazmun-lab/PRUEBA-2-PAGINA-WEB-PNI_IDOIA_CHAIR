@@ -32,4 +32,4 @@ En lugar de proponer una dieta genérica "anti-hinchazón", la evaluación de PN
 
 Si los gases y la hinchazón son frecuentes, afectan a tu día a día o llevas tiempo probando soluciones puntuales sin resultado sostenido, puede ser el momento de una evaluación más completa.
 
-Este síntoma está muy relacionado con el [SIBO](/blog/sibo-y-pni/), y si además notas digestiones pesadas, te puede interesar el artículo sobre [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
+Este síntoma está muy relacionado con el [SIBO](/blog/sibo-que-es-sintomas/), y si además notas digestiones pesadas, te puede interesar el artículo sobre [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
