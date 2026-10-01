@@ -1,15 +1,20 @@
 ---
-title: "SIBO: por qué tratar solo las bacterias no siempre es suficiente"
-excerpt: "¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo."
+title: 'SIBO: por qué tratar solo las bacterias no siempre es suficiente'
+excerpt: ¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo.
 date: 2026-10-01 10:00:00 +0200
-slug: "sibo-por-que-no-basta-tratar-bacterias"
-category: "Digestivo"
-tags: ["SIBO", "digestivo", "PNI", "hinchazón"]
-meta_title: "SIBO: por qué tratar solo las bacterias no basta (parte 2) | Idoia Chair"
-meta_description: "¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo."
+slug: sibo-por-que-no-basta-tratar-bacterias
+image: ''
+image_alt: ''
+category: Digestivo
+tags:
+  - SIBO
+  - digestivo
+  - PNI
+  - hinchazón
+meta_title: 'SIBO: por qué tratar solo las bacterias no basta (parte 2) | Idoia Chair'
+meta_description: ¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo.
 published: false
 ---
-*Lectura de unos 4 minutos*
 
 ¿Has hecho un tratamiento para el SIBO y a los pocos meses los síntomas han vuelto? Si te suena, este artículo es para ti.
 
@@ -56,8 +61,8 @@ Si llevas tiempo con hinchazón, gases o digestiones pesadas y sientes que los t
 
 **Si te has sentido identificada o identificado, puedo ayudarte a estudiar tu caso y valorar qué camino tiene sentido para ti.**
 
-👉 **[Reserva tu primera consulta](/#contacto)**
+👉 [**Reserva tu primera consulta**](/#contacto)
 
 Puedes conocer también [cómo es una consulta de PNI online](/blog/consulta-pni-online/).
 
-*Este artículo es informativo y no sustituye la valoración de un profesional sanitario. Consulta con tu médico antes de iniciar cualquier tratamiento o suplementación.*
+_Este artículo es informativo y no sustituye la valoración de un profesional sanitario. Consulta con tu médico antes de iniciar cualquier tratamiento o suplementación._
