@@ -16,8 +16,6 @@ meta_description: 'Hinchazón, gases y digestiones pesadas que no mejoran: te ex
 published: true
 ---
 
-*Lectura de unos 3 minutos*
-
 ## ¿Te suena esto?
 
 Desayunas algo "sano" y a la hora tu abdomen parece un globo. Por la tarde llevas el botón del pantalón desabrochado. Has probado a quitar el gluten, la lactosa o la fruta, y quizá te han dicho que es "colon irritable" o "estrés". Además, estás cansada o cansado, con la mente espesa, y sientes que cada comida es una apuesta.
@@ -26,7 +24,7 @@ Si te reconoces, no te lo estás inventando, y no eres la única persona. Muchas
 
 ## ¿Qué es el SIBO?
 
-Son las siglas de *Small Intestinal Bacterial Overgrowth*: **sobrecrecimiento bacteriano en el intestino delgado**.
+Son las siglas de _Small Intestinal Bacterial Overgrowth_: **sobrecrecimiento bacteriano en el intestino delgado**.
 
 Imagina tu digestión como una calle con dos zonas:
 
@@ -55,4 +53,4 @@ En la próxima entrada te cuento por qué tratar solo las bacterias no siempre e
 
 👉 **Lee la parte 2:** [SIBO: por qué tratar solo las bacterias no siempre es suficiente](/blog/sibo-por-que-no-basta-tratar-bacterias/)
 
-*Este artículo es informativo y no sustituye la valoración de un profesional sanitario.*
+_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
