@@ -1,7 +1,7 @@
 ---
 title: 'Duermes 8 horas y te levantas agotada: 5 cosas que pueden estar detrás'
 excerpt: 'Un cansancio que no se va con dormir no es "lo normal". Te explico, desde la Psiconeuroinmunología, cinco causas frecuentes y qué dice la ciencia de cada una.'
-date: 2026-10-16T10:00:00
+date: 2026-10-19T10:00:00
 slug: cansancio-que-hay-detras
 image: ''
 image_alt: ''
