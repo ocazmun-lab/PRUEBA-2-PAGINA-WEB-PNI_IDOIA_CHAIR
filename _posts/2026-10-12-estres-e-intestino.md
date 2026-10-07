@@ -29,14 +29,14 @@ El cerebro y el intestino se comunican **en los dos sentidos** a través de vari
 - **El sistema nervioso entérico**, la red de neuronas que tiene el propio intestino y que coordina su movimiento y sus secreciones.
 - **Las hormonas del estrés** y las sustancias que produce tu microbiota.
 
-Una revisión muy amplia publicada en *Physiological Reviews* describe este eje microbiota-intestino-cerebro y cómo el estrés influye en él en todas las etapas de la vida (Cryan et al., 2019).
+Una revisión muy amplia publicada en *Physiological Reviews* describe este eje microbiota-intestino-cerebro y cómo el estrés influye en él en todas las etapas de la vida.
 
 ## En modo alerta, tu cuerpo prioriza sobrevivir antes que digerir
 
 Tu sistema nervioso autónomo tiene dos grandes modos:
 
 - **Luchar o huir (simpático):** prepara al cuerpo para responder a una amenaza.
-- **Descansar y digerir (parasimpático):** predomina en reposo y es el que **aumenta el movimiento del intestino y las secreciones digestivas** (Tindle y Tadi, StatPearls).
+- **Descansar y digerir (parasimpático):** predomina en reposo y es el que **aumenta el movimiento del intestino y las secreciones digestivas**.
 
 Cuando tu cuerpo interpreta que hay una amenaza, sea un examen, un conflicto o una lista de tareas que no se acaba, digerir pasa a un segundo plano. Por eso los nervios "se van a la tripa".
 
@@ -44,17 +44,17 @@ Cuando tu cuerpo interpreta que hay una amenaza, sea un examen, un conflicto o u
 
 Un estrés puntual es normal y el cuerpo sabe gestionarlo. El problema aparece cuando se mantiene en el tiempo. Según la evidencia disponible, el estrés puede:
 
-- **Alterar el movimiento intestinal**, acelerándolo o frenándolo (Konturek et al., 2011). En humanos, distintos tipos de estrés alteran el complejo motor migratorio, el "barrido" que hace el intestino entre comidas (Valori et al., 1986).
-- **Cambiar la secreción del estómago** (Konturek et al., 2011).
-- **Aumentar la permeabilidad intestinal.** En un estudio con voluntarios sanos, hablar en público aumentó la permeabilidad del intestino delgado, a través de un mecanismo en el que intervienen la hormona liberadora de corticotropina (CRH) y los mastocitos (Vanuytsel et al., 2014).
-- **Hacer el intestino más sensible al dolor** (hipersensibilidad visceral) (Konturek et al., 2011).
-- **Influir en tu microbiota** (Cryan et al., 2019).
+- **Alterar el movimiento intestinal**, acelerándolo o frenándolo. En humanos, distintos tipos de estrés alteran el complejo motor migratorio, el "barrido" que hace el intestino entre comidas.
+- **Cambiar la secreción del estómago**.
+- **Aumentar la permeabilidad intestinal.** En un estudio con voluntarios sanos, hablar en público aumentó la permeabilidad del intestino delgado, a través de un mecanismo en el que intervienen la hormona liberadora de corticotropina (CRH) y los mastocitos.
+- **Hacer el intestino más sensible al dolor** (hipersensibilidad visceral).
+- **Influir en tu microbiota**.
 
-Por eso el estrés se relaciona con problemas como el reflujo, el colon irritable o la dispepsia funcional (digestiones pesadas sin una causa orgánica que lo explique) (Konturek et al., 2011).
+Por eso el estrés se relaciona con problemas como el reflujo, el colon irritable o la dispepsia funcional (digestiones pesadas sin una causa orgánica que lo explique).
 
 ### La cadena completa, vista desde la PNI
 
-El estudio de la permeabilidad intestinal muestra muy bien cómo trabajan juntos todos los sistemas (Vanuytsel et al., 2014):
+El estudio de la permeabilidad intestinal muestra muy bien cómo trabajan juntos todos los sistemas:
 
 1. **Psico:** una situación que vives como amenaza, como hablar en público.
 2. **Neuro-endocrino:** se libera CRH, la hormona que pone en marcha la respuesta de estrés, y sube el cortisol.
@@ -65,13 +65,13 @@ Cuando los investigadores bloquearon los mastocitos con un fármaco estabilizado
 
 ## Y funciona al revés
 
-Esta es quizá la parte más interesante. Un estudio australiano siguió a **1.002 personas durante 12 años**. Observó que quienes tenían niveles altos de ansiedad al principio tenían más probabilidad de desarrollar después problemas digestivos funcionales. Y, a la inversa, quienes empezaban con esos problemas digestivos desarrollaban más ansiedad y depresión con el tiempo (Koloski et al., 2012).
+Esta es quizá la parte más interesante. Un estudio australiano siguió a **1.002 personas durante 12 años**. Observó que quienes tenían niveles altos de ansiedad al principio tenían más probabilidad de desarrollar después problemas digestivos funcionales. Y, a la inversa, quienes empezaban con esos problemas digestivos desarrollaban más ansiedad y depresión con el tiempo.
 
 Es decir: **la ansiedad y la digestión se retroalimentan**. No siempre empieza en la cabeza. A veces empieza en la tripa.
 
 ## Qué se puede hacer
 
-Si el estrés forma parte del problema, también forma parte de la solución. Hasta las guías de gastroenterología lo reconocen ya: la guía del American College of Gastroenterology para el colon irritable recomienda las **psicoterapias dirigidas al intestino** (como la terapia cognitivo-conductual o la hipnoterapia centrada en el intestino) como parte de un abordaje integral, y no como último recurso (Lacy et al., 2021).
+Si el estrés forma parte del problema, también forma parte de la solución. Hasta las guías de gastroenterología lo reconocen ya: la guía del American College of Gastroenterology para el colon irritable recomienda las **psicoterapias dirigidas al intestino** (como la terapia cognitivo-conductual o la hipnoterapia centrada en el intestino) como parte de un abordaje integral, y no como último recurso.
 
 Desde la Psiconeuroinmunología (PNI), en consulta no solo miro qué comes, también **cómo vives**:
 

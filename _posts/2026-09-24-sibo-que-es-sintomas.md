@@ -53,4 +53,11 @@ En la próxima entrada te cuento por qué tratar solo las bacterias no siempre e
 
 👉 **Lee la parte 2:** [SIBO: por qué tratar solo las bacterias no siempre es suficiente](/blog/sibo-por-que-no-basta-tratar-bacterias/)
 
+## Referencias
+
+- Pimentel M, Saad RJ, Long MD, Rao SSC. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. *Am J Gastroenterol*. 2020;115(2):165-178. doi:10.14309/ajg.0000000000000501
+- Quigley EMM, Murray JA, Pimentel M. AGA Clinical Practice Update on Small Intestinal Bacterial Overgrowth: Expert Review. *Gastroenterology*. 2020;159(4):1526-1532.
+- Deloose E et al. The migrating motor complex: control mechanisms and its role in health and disease. *Nat Rev Gastroenterol Hepatol*. 2012;9(5):271-285.
+- Rao SSC et al. Brain fogginess, gas and bloating: a link between SIBO, probiotics and metabolic acidosis. *Clin Transl Gastroenterol*. 2018;9(6):162.
+
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._

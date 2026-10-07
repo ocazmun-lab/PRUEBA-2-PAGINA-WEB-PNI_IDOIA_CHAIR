@@ -18,24 +18,24 @@ published: true
 
 ¿Has hecho un tratamiento para el SIBO y a los pocos meses los síntomas han vuelto? Si te suena, este artículo es para ti.
 
-El SIBO (sobrecrecimiento bacteriano del intestino delgado) es uno de los diagnósticos digestivos más comentados en los últimos años. Los antibióticos o los antimicrobianos pueden ser una herramienta útil, pero cuando se aplican sin investigar qué ha favorecido el problema, **las recaídas son frecuentes**. En un estudio con 80 personas tratadas con rifaximina, el 43,7 % había vuelto a dar positivo a los 9 meses, y la recaída fue más probable en quienes tomaban protectores de estómago de forma prolongada o habían tenido una apendicectomía (Lauritano et al., 2008).
+El SIBO (sobrecrecimiento bacteriano del intestino delgado) es uno de los diagnósticos digestivos más comentados en los últimos años. Los antibióticos o los antimicrobianos pueden ser una herramienta útil, pero cuando se aplican sin investigar qué ha favorecido el problema, **las recaídas son frecuentes**. En un estudio con 80 personas tratadas con rifaximina, el 43,7 % había vuelto a dar positivo a los 9 meses, y la recaída fue más probable en quienes tomaban protectores de estómago de forma prolongada o habían tenido una apendicectomía.
 
 Si todavía no sabes bien qué es el SIBO ni cuáles son sus síntomas, empieza por la [parte 1: SIBO, cuando tu barriga se hincha sin explicación](/blog/sibo-que-es-sintomas/).
 
 ## El "por qué" que casi nunca se mira
 
-Eliminar bacterias sin entender por qué han proliferado ahí suele ser una solución temporal. Detrás del SIBO suele haber una causa: un intestino que se mueve poco, estrés mantenido, una gastroenteritis previa, poca acidez en el estómago, cirugías, medicación o unas defensas intestinales debilitadas (Pimentel et al., 2020; Quigley et al., 2020).
+Eliminar bacterias sin entender por qué han proliferado ahí suele ser una solución temporal. Detrás del SIBO suele haber una causa: un intestino que se mueve poco, estrés mantenido, una gastroenteritis previa, poca acidez en el estómago, cirugías, medicación o unas defensas intestinales debilitadas.
 
 Aquí aporta su mirada la **Psiconeuroinmunología (PNI)**, la disciplina que estudia cómo se relacionan el sistema nervioso, el inmunitario y el digestivo. Desde este enfoque se valoran:
 
-- **La motilidad intestinal:** entre comidas, el intestino hace unas ondas de limpieza, el complejo motor migratorio, que "barren" las bacterias hacia el colon. Si ese barrido falla, se acumulan (Deloose et al., 2012).
-- **El estrés y el sistema nervioso:** el eje intestino-cerebro influye directamente en tu digestión. En modo alerta, el cuerpo prioriza "sobrevivir" sobre "digerir", y en humanos se ha visto que distintos tipos de estrés alteran ese barrido intestinal (Valori et al., 1986). Por eso, desde la PNI, el estrés es una pieza más del SIBO, no un detalle aparte.
+- **La motilidad intestinal:** entre comidas, el intestino hace unas ondas de limpieza, el complejo motor migratorio, que "barren" las bacterias hacia el colon. Si ese barrido falla, se acumulan.
+- **El estrés y el sistema nervioso:** el eje intestino-cerebro influye directamente en tu digestión. En modo alerta, el cuerpo prioriza "sobrevivir" sobre "digerir", y en humanos se ha visto que distintos tipos de estrés alteran ese barrido intestinal. Por eso, desde la PNI, el estrés es una pieza más del SIBO, no un detalle aparte.
 - **La alimentación:** no solo qué comes, sino cómo y cuándo.
 - **Tu historia digestiva completa:** infecciones, medicación y cirugías.
 
 ## ¿Cómo se diagnostica?
 
-Lo más habitual es el **test de aliento**: bebes una solución con azúcar y soplas en un dispositivo durante un par de horas. Si hay bacterias de más en el intestino delgado, producen gases que se miden en el aire que exhalas (Rezaie et al., 2017). Es importante que lo interprete un profesional con experiencia y que la preparación previa sea correcta.
+Lo más habitual es el **test de aliento**: bebes una solución con azúcar y soplas en un dispositivo durante un par de horas. Si hay bacterias de más en el intestino delgado, producen gases que se miden en el aire que exhalas. Es importante que lo interprete un profesional con experiencia y que la preparación previa sea correcta.
 
 ## Un abordaje que se adapta a cada caso
 
@@ -51,7 +51,7 @@ No hay un único protocolo que sirva para todas las personas: el SIBO de cada un
 
 ## Lo que conviene saber
 
-El SIBO puede reaparecer, sobre todo si no se identifica bien qué lo favoreció, y eso no significa que hayas fallado: cada sistema es distinto y a veces hace falta más de un intento para encontrar el enfoque adecuado. La ansiedad y la digestión, además, suelen retroalimentarse (Koloski et al., 2012). Y tu experiencia es real, aunque tus pruebas básicas hayan salido "normales".
+El SIBO puede reaparecer, sobre todo si no se identifica bien qué lo favoreció, y eso no significa que hayas fallado: cada sistema es distinto y a veces hace falta más de un intento para encontrar el enfoque adecuado. La ansiedad y la digestión, además, suelen retroalimentarse. Y tu experiencia es real, aunque tus pruebas básicas hayan salido "normales".
 
 No existe una fórmula que garantice el resultado en todos los casos: lo que sí puede ofrecerte un buen estudio es entender mejor qué está pasando en tu cuerpo y trabajar con una estrategia pensada para tu situación concreta.
 
