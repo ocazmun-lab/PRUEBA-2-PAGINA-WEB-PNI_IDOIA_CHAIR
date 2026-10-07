@@ -1,0 +1,37 @@
+# Regenera la web cada día para que los artículos con fecha futura
+# (y "Publicado" activado) aparezcan solos el día que les toca.
+# También se puede lanzar a mano: pestaña Actions > "Reconstruir web cada día" > Run workflow.
+name: Reconstruir web cada día
+
+on:
+  schedule:
+    - cron: "30 10 * * *" # 10:30 UTC = 12:30 en Madrid (verano) / 11:30 (invierno)
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pedir a GitHub Pages que regenere la web
+        id: api
+        continue-on-error: true
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
+
+      # Plan B: si la petición anterior falla, un commit vacío también fuerza la reconstrucción
+      - name: Commit vacío de respaldo
+        if: steps.api.outcome == 'failure'
+        uses: actions/checkout@v4
+      - if: steps.api.outcome == 'failure'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Reconstrucción diaria de la web"
+          git push

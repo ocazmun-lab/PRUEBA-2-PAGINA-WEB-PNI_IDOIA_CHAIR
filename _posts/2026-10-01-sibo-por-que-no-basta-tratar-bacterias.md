@@ -18,24 +18,24 @@ published: true
 
 ¿Has hecho un tratamiento para el SIBO y a los pocos meses los síntomas han vuelto? Si te suena, este artículo es para ti.
 
-El SIBO (sobrecrecimiento bacteriano del intestino delgado) es uno de los diagnósticos digestivos más comentados en los últimos años. Los antibióticos o los antimicrobianos pueden ser una herramienta útil, pero cuando se aplican sin investigar qué ha favorecido el problema, **las recaídas son frecuentes**.
+El SIBO (sobrecrecimiento bacteriano del intestino delgado) es uno de los diagnósticos digestivos más comentados en los últimos años. Los antibióticos o los antimicrobianos pueden ser una herramienta útil, pero cuando se aplican sin investigar qué ha favorecido el problema, **las recaídas son frecuentes**. En un estudio con 80 personas tratadas con rifaximina, el 43,7 % había vuelto a dar positivo a los 9 meses, y la recaída fue más probable en quienes tomaban protectores de estómago de forma prolongada o habían tenido una apendicectomía (Lauritano et al., 2008).
 
 Si todavía no sabes bien qué es el SIBO ni cuáles son sus síntomas, empieza por la [parte 1: SIBO, cuando tu barriga se hincha sin explicación](/blog/sibo-que-es-sintomas/).
 
 ## El "por qué" que casi nunca se mira
 
-Eliminar bacterias sin entender por qué han proliferado ahí suele ser una solución temporal. Detrás del SIBO suele haber una causa: un intestino que se mueve poco, estrés mantenido, una gastroenteritis previa, poca acidez en el estómago, cirugías, medicación o hábitos alimentarios que perpetúan el problema.
+Eliminar bacterias sin entender por qué han proliferado ahí suele ser una solución temporal. Detrás del SIBO suele haber una causa: un intestino que se mueve poco, estrés mantenido, una gastroenteritis previa, poca acidez en el estómago, cirugías, medicación o unas defensas intestinales debilitadas (Pimentel et al., 2020; Quigley et al., 2020).
 
 Aquí aporta su mirada la **Psiconeuroinmunología (PNI)**, la disciplina que estudia cómo se relacionan el sistema nervioso, el inmunitario y el digestivo. Desde este enfoque se valoran:
 
-- **La motilidad intestinal:** entre comidas, el intestino "barre" las bacterias hacia el colon. Si ese movimiento falla, se acumulan.
-- **El estrés y el sistema nervioso:** el eje intestino-cerebro influye directamente en tu digestión. En modo alerta, el cuerpo prioriza "sobrevivir" sobre "digerir".
+- **La motilidad intestinal:** entre comidas, el intestino hace unas ondas de limpieza, el complejo motor migratorio, que "barren" las bacterias hacia el colon. Si ese barrido falla, se acumulan (Deloose et al., 2012).
+- **El estrés y el sistema nervioso:** el eje intestino-cerebro influye directamente en tu digestión. En modo alerta, el cuerpo prioriza "sobrevivir" sobre "digerir", y en humanos se ha visto que distintos tipos de estrés alteran ese barrido intestinal (Valori et al., 1986). Por eso, desde la PNI, el estrés es una pieza más del SIBO, no un detalle aparte.
 - **La alimentación:** no solo qué comes, sino cómo y cuándo.
 - **Tu historia digestiva completa:** infecciones, medicación y cirugías.
 
 ## ¿Cómo se diagnostica?
 
-Lo más habitual es el **test de aliento**: bebes una solución con azúcar y soplas en un dispositivo durante un par de horas. Si hay bacterias de más en el intestino delgado, producen gases que se miden en el aire que exhalas. Es importante que lo interprete un profesional con experiencia y que la preparación previa sea correcta.
+Lo más habitual es el **test de aliento**: bebes una solución con azúcar y soplas en un dispositivo durante un par de horas. Si hay bacterias de más en el intestino delgado, producen gases que se miden en el aire que exhalas (Rezaie et al., 2017). Es importante que lo interprete un profesional con experiencia y que la preparación previa sea correcta.
 
 ## Un abordaje que se adapta a cada caso
 
@@ -51,7 +51,7 @@ No hay un único protocolo que sirva para todas las personas: el SIBO de cada un
 
 ## Lo que conviene saber
 
-El SIBO puede reaparecer, sobre todo si no se identifica bien qué lo favoreció, y eso no significa que hayas fallado: cada sistema es distinto y a veces hace falta más de un intento para encontrar el enfoque adecuado. La ansiedad y la digestión, además, suelen retroalimentarse. Y tu experiencia es real, aunque tus pruebas básicas hayan salido "normales".
+El SIBO puede reaparecer, sobre todo si no se identifica bien qué lo favoreció, y eso no significa que hayas fallado: cada sistema es distinto y a veces hace falta más de un intento para encontrar el enfoque adecuado. La ansiedad y la digestión, además, suelen retroalimentarse (Koloski et al., 2012). Y tu experiencia es real, aunque tus pruebas básicas hayan salido "normales".
 
 No existe una fórmula que garantice el resultado en todos los casos: lo que sí puede ofrecerte un buen estudio es entender mejor qué está pasando en tu cuerpo y trabajar con una estrategia pensada para tu situación concreta.
 
@@ -64,5 +64,15 @@ Si llevas tiempo con hinchazón, gases o digestiones pesadas y sientes que los t
 👉 [**Reserva tu primera consulta**](/#contacto)
 
 Puedes conocer también [cómo es una consulta de PNI online](/blog/consulta-pni-online/).
+
+## Referencias
+
+- Lauritano EC et al. Small intestinal bacterial overgrowth recurrence after antibiotic therapy. *Am J Gastroenterol*. 2008;103(8):2031-2035. [Enlace](https://pubmed.ncbi.nlm.nih.gov/18802998/)
+- Pimentel M, Saad RJ, Long MD, Rao SSC. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. *Am J Gastroenterol*. 2020;115(2):165-178. doi:10.14309/ajg.0000000000000501
+- Quigley EMM, Murray JA, Pimentel M. AGA Clinical Practice Update on Small Intestinal Bacterial Overgrowth: Expert Review. *Gastroenterology*. 2020;159(4):1526-1532.
+- Deloose E et al. The migrating motor complex: control mechanisms and its role in health and disease. *Nat Rev Gastroenterol Hepatol*. 2012;9(5):271-285.
+- Valori RM, Kumar D, Wingate DL. Effects of different types of stress and of "prokinetic" drugs on the control of the fasting motor complex in humans. *Gastroenterology*. 1986;90(6):1890-1900.
+- Koloski NA et al. The brain-gut pathway in functional gastrointestinal disorders is bidirectional: a 12-year prospective population-based study. *Gut*. 2012;61(9):1284-1290. [Enlace](https://gut.bmj.com/content/61/9/1284)
+- Rezaie A et al. Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus. *Am J Gastroenterol*. 2017;112(5):775-784. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC5418558/)
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario. Consulta con tu médico antes de iniciar cualquier tratamiento o suplementación._
