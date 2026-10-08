@@ -13,7 +13,7 @@ tags:
   - PNI
 meta_title: 'Estrés e intestino: el eje intestino-cerebro desde la PNI | Idoia Chair'
 meta_description: 'Por qué el estrés afecta a tu digestión: qué es el eje intestino-cerebro, qué cambia en tu intestino con el estrés mantenido y qué explica la Psiconeuroinmunología.'
-published: false
+published: true
 ---
 
 ¿Se te cierra el estómago antes de una reunión? ¿Notas que en las épocas de más estrés tu digestión cambia: más hinchazón, más reflujo, más idas al baño o, al contrario, ninguna?
