@@ -28,7 +28,7 @@ El sistema inmunitario no funciona de forma aislada: el estrés mantenido, la ca
 ## Qué se puede acompañar desde la PNI
 
 - Hábitos de alimentación orientados a reducir la inflamación de bajo grado
-- Estrategias de gestión del estrés, un factor especialmente relevante en procesos autoinmunes
+- Tener en cuenta cómo te afecta el estrés, un factor especialmente relevante en procesos autoinmunes, y derivar a un profesional de la psicología si hace falta
 - Higiene del sueño
 - Seguimiento de síntomas (energía, digestión, estado de ánimo) más allá de la analítica
 

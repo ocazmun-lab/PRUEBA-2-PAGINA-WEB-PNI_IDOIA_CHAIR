@@ -52,7 +52,7 @@ Lo interesante es que se puede reeducar. En un ensayo clínico, un entrenamiento
 ## Qué puede ayudar, según la evidencia
 
 - **Reducir los alimentos fermentables (FODMAP) de forma temporal y guiada.** En un ensayo con personas con colon irritable, una dieta baja en FODMAP redujo los síntomas digestivos a la mitad. Pero no es una dieta para siempre: tras unas semanas se reintroducen los alimentos para no empobrecer la microbiota.
-- **Trabajar el eje intestino-cerebro.** Las guías de gastroenterología ya recomiendan terapias dirigidas a la relación intestino-cerebro para estos síntomas. Desde la PNI, esto incluye el estrés, el descanso y el sistema nervioso.
+- **Cuidar el eje intestino-cerebro.** Las guías de gastroenterología ya recomiendan terapias dirigidas a la relación intestino-cerebro para estos síntomas, que en su parte psicológica realizan profesionales de la psicología. Desde la PNI, en consulta tengo en cuenta cómo te afecta el estrés y trabajo el descanso, los ritmos y la parte corporal.
 - **Reeducar la musculatura abdominal y el diafragma**, cuando la distensión se debe a ese reflejo invertido.
 - **Tratar el estreñimiento**, si lo hay.
 
