@@ -1,6 +1,7 @@
 title: "Idoia Chair - PNI y Salud Integrativa"
 url: "https://idoiachairpni.es"
 lang: es
+timezone: Europe/Madrid
 theme: null
 
 markdown: kramdown

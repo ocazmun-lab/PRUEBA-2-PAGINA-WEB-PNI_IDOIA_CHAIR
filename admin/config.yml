@@ -17,7 +17,7 @@ collections:
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
-      - {label: "Fecha de publicación", name: "date", widget: "datetime"}
+      - {label: "Fecha de publicación", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss Z", hint: "Hora de España. Pon 8:00 para que salga a primera hora"}
       - {label: "URL del artículo (slug)", name: "slug", widget: "string", required: false, hint: "Ej: sibo-y-pni. Si lo dejas vacío se genera automáticamente a partir del título"}
       - {label: "Imagen destacada", name: "image", widget: "image", required: false}
       - {label: "Texto alternativo de la imagen", name: "image_alt", widget: "string", required: false}

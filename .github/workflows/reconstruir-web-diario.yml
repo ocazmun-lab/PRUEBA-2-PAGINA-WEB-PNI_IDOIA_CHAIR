@@ -5,7 +5,11 @@ name: Reconstruir web cada día
 
 on:
   schedule:
-    - cron: "30 10 * * *" # 10:30 UTC = 12:30 en Madrid (verano) / 11:30 (invierno)
+    # Los artículos se programan a las 8:00 (hora de España). GitHub usa hora UTC y a veces
+    # retrasa estas tareas, así que hay varias ejecuciones para cubrir verano, invierno y retrasos:
+    - cron: "15 6 * * *"  # 8:15 en verano (CEST)
+    - cron: "15 7 * * *"  # 8:15 en invierno (CET) / 9:15 en verano
+    - cron: "30 10 * * *" # respaldo por si GitHub se retrasa
   workflow_dispatch:
 
 permissions:
