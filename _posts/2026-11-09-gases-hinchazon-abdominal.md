@@ -1,7 +1,7 @@
 ---
 title: "Gases e hinchazón: por qué tu barriga se hincha (y no es por tener más gases)"
 excerpt: "La hinchazón no suele deberse a producir más gas, sino a cómo lo mueve y lo percibe tu cuerpo. Te explico qué dice la ciencia y qué mira la Psiconeuroinmunología."
-date: 2026-11-02 08:00:00 +01:00
+date: 2026-11-09 08:00:00 +01:00
 slug: "gases-hinchazon-abdominal"
 image: "/img/blog/gases-hinchazon-abdominal.jpg"
 image_alt: "Gases e hinchazón abdominal, enfoque PNI"
