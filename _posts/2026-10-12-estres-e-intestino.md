@@ -3,8 +3,8 @@ title: 'Estrés e intestino: por qué los nervios se te van a la tripa'
 excerpt: 'Tu cerebro y tu intestino se comunican en los dos sentidos. Te explico qué dice la ciencia sobre cómo el estrés cambia tu digestión, y por qué también funciona al revés.'
 date: 2026-10-12 08:00:00 +02:00
 slug: estres-e-intestino
-image: /img/blog/estres-e-intestino.jpg
-image_alt: 'Ilustración del cerebro y el intestino conectados en los dos sentidos: el eje intestino-cerebro'
+image: ''
+image_alt: ''
 category: Digestivo
 tags:
   - estrés

@@ -3,8 +3,8 @@ title: 'SIBO: por qué tratar solo las bacterias no siempre es suficiente'
 excerpt: ¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo.
 date: 2026-10-08T10:00:00
 slug: sibo-por-que-no-basta-tratar-bacterias
-image: /img/blog/sibo-por-que-no-basta-tratar-bacterias.jpg
-image_alt: 'Ilustración del intestino rodeado de bacterias, estrés, defensas y movimiento intestinal: las piezas del SIBO'
+image: ''
+image_alt: ''
 category: Digestivo
 tags:
   - SIBO
