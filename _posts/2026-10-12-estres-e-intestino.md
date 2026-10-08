@@ -1,6 +1,6 @@
 ---
 title: 'Estrés e intestino: por qué los nervios se te van a la tripa'
-excerpt: 'Tu cerebro y tu intestino se comunican en los dos sentidos. Te explico qué dice la ciencia sobre cómo el estrés cambia tu digestión, y por qué también funciona al revés.'
+excerpt: Tu cerebro y tu intestino se comunican en los dos sentidos. Te explico qué dice la ciencia sobre cómo el estrés cambia tu digestión, y por qué también funciona al revés.
 date: 2026-10-12 08:00:00 +02:00
 slug: estres-e-intestino
 image: ''
@@ -74,8 +74,6 @@ Desde la PNI, en consulta no solo miro qué comes, también **cómo vives**:
 
 No se trata de "quitarte el estrés", que muchas veces no depende de ti, sino de entender cómo está afectando a tu cuerpo y trabajar sobre lo que sí puedes cambiar.
 
-Que el estrés influya en tu digestión no significa que todo sea estrés. Si tienes sangre en heces, fiebre, pérdida de peso sin explicación, vómitos persistentes, dificultad para tragar o dolor intenso, acude a tu médico cuanto antes.
-
 ## Si te has reconocido
 
 Si notas que tu intestino es lo primero que te avisa cuando estás con estrés, puedo ayudarte a estudiar tu caso desde una mirada integral.
@@ -86,12 +84,12 @@ Si te interesa este tema, también te puede ayudar leer [por qué tratar solo la
 
 ## Referencias
 
-- Cryan JF et al. The Microbiota-Gut-Brain Axis. *Physiological Reviews*. 2019;99(4):1877-2013. doi:10.1152/physrev.00018.2018
-- Tindle J, Tadi P. Neuroanatomy, Parasympathetic Nervous System. *StatPearls*. NCBI Bookshelf. [Enlace](https://www.ncbi.nlm.nih.gov/books/NBK553141/)
-- Konturek PC, Brzozowski T, Konturek SJ. Stress and the gut: pathophysiology, clinical consequences, diagnostic approach and treatment options. *J Physiol Pharmacol*. 2011;62(6):591-599.
-- Valori RM, Kumar D, Wingate DL. Effects of different types of stress and of "prokinetic" drugs on the control of the fasting motor complex in humans. *Gastroenterology*. 1986;90(6):1890-1900.
-- Vanuytsel T et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. *Gut*. 2014;63(8):1293-1299. [Enlace](https://gut.bmj.com/content/63/8/1293)
-- Koloski NA et al. The brain-gut pathway in functional gastrointestinal disorders is bidirectional: a 12-year prospective population-based study. *Gut*. 2012;61(9):1284-1290. [Enlace](https://gut.bmj.com/content/61/9/1284)
-- Lacy BE et al. ACG Clinical Guideline: Management of Irritable Bowel Syndrome. *Am J Gastroenterol*. 2021;116(1):17-44.
+- Cryan JF et al. The Microbiota-Gut-Brain Axis. _Physiological Reviews_. 2019;99(4):1877-2013. doi:10.1152/physrev.00018.2018
+- Tindle J, Tadi P. Neuroanatomy, Parasympathetic Nervous System. _StatPearls_. NCBI Bookshelf. [Enlace](https://www.ncbi.nlm.nih.gov/books/NBK553141/)
+- Konturek PC, Brzozowski T, Konturek SJ. Stress and the gut: pathophysiology, clinical consequences, diagnostic approach and treatment options. _J Physiol Pharmacol_. 2011;62(6):591-599.
+- Valori RM, Kumar D, Wingate DL. Effects of different types of stress and of "prokinetic" drugs on the control of the fasting motor complex in humans. _Gastroenterology_. 1986;90(6):1890-1900.
+- Vanuytsel T et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. _Gut_. 2014;63(8):1293-1299. [Enlace](https://gut.bmj.com/content/63/8/1293)
+- Koloski NA et al. The brain-gut pathway in functional gastrointestinal disorders is bidirectional: a 12-year prospective population-based study. _Gut_. 2012;61(9):1284-1290. [Enlace](https://gut.bmj.com/content/61/9/1284)
+- Lacy BE et al. ACG Clinical Guideline: Management of Irritable Bowel Syndrome. _Am J Gastroenterol_. 2021;116(1):17-44.
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
