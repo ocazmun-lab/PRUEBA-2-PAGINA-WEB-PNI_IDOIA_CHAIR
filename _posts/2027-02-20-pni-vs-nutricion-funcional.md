@@ -27,4 +27,4 @@ La Psiconeuroinmunología amplía el foco más allá de la nutrición: incorpora
 - Si arrastras síntomas digestivos, hormonales o inmunológicos que no terminan de explicarse, y sospechas que el estrés o lo emocional tienen un papel en ellos, la PNI ofrece una mirada más amplia.
 - En muchos casos, ambos enfoques no compiten: se complementan.
 
-Si quieres profundizar en qué hace exactamente un especialista en PNI, puedes leer [qué hace un especialista en PNI y cuándo acudir](/blog/que-hace-especialista-pni/), o volver a los fundamentos en [¿qué es la Psiconeuroinmunología?](/blog/que-es-la-pni/).
+Si quieres saber cómo es una consulta conmigo, puedes leer [cómo funciona la consulta de PNI online](/blog/consulta-pni-online/), o volver a los fundamentos en [¿qué es la Psiconeuroinmunología?](/blog/que-es-la-pni/).
