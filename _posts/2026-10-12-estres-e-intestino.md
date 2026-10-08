@@ -64,19 +64,19 @@ Es decir: **la ansiedad y la digestión se retroalimentan**. No siempre empieza 
 
 ## Qué se puede hacer
 
-Si el estrés forma parte del problema, también forma parte de la solución. Hasta las guías de gastroenterología lo reconocen ya: recomiendan las **psicoterapias dirigidas al intestino** como parte del abordaje del colon irritable, y no como último recurso.
+Si el estrés forma parte del problema, hay que tenerlo en cuenta. Hasta las guías de gastroenterología lo reconocen ya: recomiendan las **psicoterapias dirigidas al intestino**, que realizan profesionales de la psicología, como parte del abordaje del colon irritable, y no como último recurso.
 
-Desde la PNI, en consulta no solo miro qué comes, también **cómo vives**:
+Mi trabajo no es tratar el estrés, sino **entender cómo está afectando a tu cuerpo** y trabajar sobre esa parte física. Por eso en consulta no solo miro qué comes, también cómo vives:
 
 - Cómo y cuándo comes: con prisa, de pie, delante de una pantalla…
 - Cómo duermes y cómo descansas.
-- Qué carga de estrés llevas y qué herramientas tienes para gestionarla.
+- En qué momentos empeoran tus síntomas y qué coincide con ellos.
 
-No se trata de "quitarte el estrés", que muchas veces no depende de ti, sino de entender cómo está afectando a tu cuerpo y trabajar sobre lo que sí puedes cambiar.
+Con eso trabajamos sobre lo que influye en tu digestión: la alimentación, los ritmos de comida y descanso, el movimiento, y la tensión abdominal y el diafragma. Y si veo que el estrés o la ansiedad necesitan un abordaje propio, te recomiendo acudir a un profesional de la psicología, para que cada parte la trate quien corresponde.
 
 ## Si te has reconocido
 
-Si notas que tu intestino es lo primero que te avisa cuando estás con estrés, puedo ayudarte a estudiar tu caso desde una mirada integral.
+Si notas que tu intestino es lo primero que te avisa en las épocas de estrés, puedo ayudarte a estudiar tu caso y trabajar sobre tu digestión desde una mirada integral.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
