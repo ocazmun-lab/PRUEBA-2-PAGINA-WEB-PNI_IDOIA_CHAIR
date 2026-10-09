@@ -1,6 +1,6 @@
 ---
 title: "Estreñimiento: cuando la fibra y el agua no son suficientes"
-excerpt: "Si ya comes fibra, bebes agua y sigues igual, puede que el problema esté en otro sitio. Te cuento qué dice la evidencia y qué mira la Psiconeuroinmunología."
+excerpt: "Cómo saber si es estreñimiento, qué dicen tus heces según la escala de Bristol, por qué ocurre y qué ayuda según la evidencia. Desde la Psiconeuroinmunología."
 date: 2026-11-30 08:00:00 +01:00
 slug: "estrenimiento-cronico-pni"
 image: "/img/blog/estrenimiento-cronico-pni.jpg"
@@ -16,9 +16,34 @@ published: false
 
 No es que lo estés haciendo mal. Es que **el estreñimiento no siempre es un problema de fibra.**
 
-## Un problema muy frecuente
+## ¿Es estreñimiento? Te suena esto
 
-El estreñimiento crónico es uno de los problemas digestivos más habituales, y es más frecuente en mujeres. Que sea habitual no significa que haya que acostumbrarse a él.
+El estreñimiento crónico es uno de los problemas digestivos más habituales, y es más frecuente en mujeres. Pero no se trata solo de "ir poco". Los profesionales hablan de estreñimiento cuando, desde hace meses, se cumplen **dos o más** de estas cosas:
+
+- Vas al baño **menos de 3 veces por semana**.
+- Tienes que **hacer mucha fuerza**.
+- Las heces son **duras o en bolitas**.
+- Tienes la **sensación de no haber terminado**.
+- Notas como un **bloqueo** al final, o necesitas ayudarte con la mano.
+
+## Mira tus heces: la escala de Bristol
+
+Los profesionales usan la **escala de Bristol** para describir las heces. Tiene 7 tipos:
+
+- **Tipos 1 y 2:** bolitas duras o una salchicha con bultos. El tránsito es lento.
+- **Tipos 3 y 4:** salchicha con grietas o lisa y blanda. Es lo ideal.
+- **Tipos 5 a 7:** trozos blandos, pastosas o líquidas. El tránsito es rápido.
+
+Fijarte en el tipo durante unas semanas te da mucha información, y es muy útil para la consulta.
+
+## Por qué ocurre: casi nunca es solo la fibra
+
+- Poca fibra o poca agua.
+- Poco movimiento a lo largo del día.
+- Aguantarse las ganas: ir con prisa, no tener tiempo por la mañana o no querer ir al baño fuera de casa.
+- Viajes y cambios de rutina.
+- Un suelo pélvico que no se relaja bien.
+- Una tiroides lenta o algunos suplementos, como el hierro.
 
 ## Mito 1: "bebe más agua"
 
@@ -46,19 +71,18 @@ La buena noticia es que se puede reeducar. En un ensayo clínico, el entrenamien
 
 En un estudio, usar un **taburete bajo los pies** al sentarse en el váter (para quedar en una postura más parecida a la de cuclillas) redujo el tiempo en el baño y el esfuerzo, y aumentó la sensación de vaciado completo.
 
-## Lo que añade la PNI: tu intestino también escucha a tu cerebro
+## Lo que añade la PNI: todo influye en tu ritmo
 
-El movimiento del intestino depende del **sistema nervioso**. En modo alerta, el cuerpo frena la digestión, y el estrés mantenido puede alterar el tránsito. Además, la **microbiota** participa en el ritmo intestinal.
-
-Y hay algo muy cotidiano: **aguantarse las ganas.** Ir con prisa, no tener tiempo por la mañana o no querer ir al baño fuera de casa hace que el cuerpo deje de hacer caso a esa señal.
+El movimiento del intestino depende de muchas piezas: el **sistema nervioso** que lo coordina, la **microbiota**, lo que comes, cuánto te mueves y hasta tus horarios. Por eso, desde la PNI, no se mira solo la fibra: se mira a la persona entera.
 
 ## Qué puede ayudar, según la evidencia
 
-- **Fibra adecuada** (como el psyllium), introducida poco a poco y adaptada a ti.
+- **Un taburete** bajo los pies en el baño.
+- **2 kiwis al día.** En un ensayo con personas con estreñimiento, comer 2 kiwis verdes al día durante 4 semanas aumentó las deposiciones completas, con resultados comparables al psyllium y buena tolerancia.
+- **Psyllium u otra fibra adecuada**, introducida poco a poco y adaptada a ti.
+- **Ir al baño después del desayuno, sin prisa.** Al comer, el intestino se activa de forma natural, y es el mejor momento para aprovecharlo.
 - **Suficiente agua**, sobre todo si bebías poco.
-- **Moverte**: una revisión de ensayos encontró que el ejercicio, sobre todo el aeróbico, mejora los síntomas.
-- **Un taburete** para los pies en el baño.
-- **Respetar las ganas** y darte un momento tranquilo, por ejemplo después del desayuno.
+- **Moverte** cada día: una revisión de ensayos encontró que el ejercicio, sobre todo el aeróbico, mejora los síntomas.
 - **Reeducar el suelo pélvico** con un fisioterapeuta especializado si hay disinergia.
 
 ## Cuándo acudir al médico
@@ -67,7 +91,7 @@ Consulta si el estreñimiento es nuevo y ha cambiado tu ritmo habitual, si hay *
 
 ## Qué miro en consulta
 
-En consulta no repito "más fibra y más agua". Miro cómo es tu ritmo, cómo son tus heces, cómo comes y cuánta fibra tomas y de qué tipo, cuánto te mueves, cómo te sientas en el baño y cómo empujas, y cómo te afecta el estrés.
+En consulta no repito "más fibra y más agua". Miro cómo es tu ritmo, cómo son tus heces, cómo comes y cuánta fibra tomas y de qué tipo, cuánto te mueves, cómo te sientas en el baño y cómo empujas, y tu historia: tiroides, hierro, digestión y desde cuándo te pasa.
 
 Con eso trabajamos la alimentación y los ritmos, el movimiento, la postura, la respiración y la musculatura abdominal. Y si hay sospecha de disinergia, te oriento hacia la reeducación del suelo pélvico.
 
@@ -83,7 +107,9 @@ Si el estreñimiento viene con gases o hinchazón, puede interesarte el artícul
 - Rao SSC et al. Randomized controlled trial of biofeedback, sham feedback, and standard therapy for dyssynergic defecation. *Clin Gastroenterol Hepatol*. 2007;5(3):331-338.
 - Modi RM et al. Implementation of a Defecation Posture Modification Device: Impact on Bowel Movement Patterns in Healthy Subjects. *J Clin Gastroenterol*. 2019;53(3):216-219. doi:10.1097/MCG.0000000000001143
 - Gao R et al. Exercise therapy in patients with constipation: a systematic review and meta-analysis of randomized controlled trials. *Scand J Gastroenterol*. 2019;54(2):169-177. doi:10.1080/00365521.2019.1568544
-- Konturek PC, Brzozowski T, Konturek SJ. Stress and the gut: pathophysiology, clinical consequences, diagnostic approach and treatment options. *J Physiol Pharmacol*. 2011;62(6):591-599.
 - Cryan JF et al. The Microbiota-Gut-Brain Axis. *Physiol Rev*. 2019;99(4):1877-2013. doi:10.1152/physrev.00018.2018
+- Mearin F et al. Bowel Disorders. *Gastroenterology*. 2016;150(6):1393-1407. (Criterios de Roma IV)
+- Lewis SJ, Heaton KW. Stool form scale as a useful guide to intestinal transit time. *Scand J Gastroenterol*. 1997;32(9):920-924.
+- Gearry R et al. Ensayo aleatorizado multicéntrico internacional: 2 kiwis verdes al día frente a psyllium en estreñimiento funcional y colon irritable con estreñimiento. *Am J Gastroenterol*. 2023.
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._

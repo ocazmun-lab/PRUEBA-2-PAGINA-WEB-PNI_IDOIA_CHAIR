@@ -1,6 +1,6 @@
 ---
 title: "Que la regla duela no es normal: 4 cosas que la ciencia sabe"
-excerpt: "Inflamación, lo que vives el mes anterior, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo explico desde la Psiconeuroinmunología."
+excerpt: "Inflamación, intestino, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo explico desde la Psiconeuroinmunología."
 date: 2026-11-02 08:00:00 +01:00
 slug: "dolor-menstrual"
 image: "/img/blog/dolor-menstrual-desequilibrio-hormonal.jpg"
@@ -8,7 +8,7 @@ image_alt: "Dolor menstrual, enfoque PNI"
 category: "Hormonal"
 tags: ["dolor menstrual", "regla", "hormonal", "inflamación", "PNI"]
 meta_title: "Dolor de regla: por qué no es normal y qué hacer desde la PNI | Idoia Chair"
-meta_description: "Por qué duele la regla: inflamación, estrés del mes anterior, sensibilización del sistema nervioso y endometriosis. Ideas con respaldo científico desde la PNI."
+meta_description: "Por qué duele la regla: inflamación, relación con el intestino, sensibilización del sistema nervioso y endometriosis. Ideas con respaldo científico desde la PNI."
 published: false
 ---
 
@@ -24,19 +24,27 @@ Al final del ciclo, cuando bajan las hormonas, el endometrio (la capa que recubr
 
 Pero eso solo es el punto de partida. En un estudio con casi 3.000 mujeres, las que tenían más alta la proteína C reactiva (un marcador de inflamación en sangre) referían con más frecuencia calambres y dolor lumbar con la regla, además de hinchazón y cambios de humor. Es un estudio observacional, pero encaja con la idea central de la PNI: **un cuerpo con más inflamación de base vive la regla con más síntomas.**
 
-## 2. Lo que vives el mes anterior también cuenta
+## 2. Tu intestino y tu regla van de la mano
 
-Un estudio siguió a casi 400 mujeres durante más de 1.000 ciclos, con un diario de estrés y síntomas. Las que habían tenido **mucho estrés en un ciclo tenían más del doble de probabilidad de tener una regla dolorosa en el siguiente.** Y en las que ya tenían historia de dolor, la combinación multiplicaba el riesgo por diez.
+Si con la regla tienes diarrea, náuseas o hinchazón, no es casualidad: las prostaglandinas no solo actúan sobre el útero, **también sobre el intestino**, y por eso los síntomas digestivos son tan frecuentes esos días.
 
-Es decir: tu regla de este mes puede estar hablando de cómo fue tu mes pasado.
+Y la relación va más allá: en un estudio que siguió a mujeres durante 10 años, el **colon irritable era bastante más frecuente en las mujeres con regla dolorosa**, y el dolor menstrual formaba parte del cuadro en la mayoría de las mujeres con colon irritable. Por eso, cuando una mujer me cuenta que le duele la regla, siempre le pregunto también por su digestión.
 
 ## 3. Tu cuerpo aprende a doler
 
 Este es quizá el dato más sorprendente. Varios estudios han visto que las mujeres con reglas muy dolorosas **son más sensibles al dolor durante todo el mes**, no solo durante la regla, y también en zonas alejadas del abdomen, como el brazo.
 
-En uno de ellos, con resonancia magnética, su cerebro procesaba el dolor de forma distinta y su **cortisol**, la hormona del eje del estrés, estaba más bajo, un patrón parecido al de otros dolores crónicos. Cuando el dolor se repite mes tras mes, el sistema nervioso aprende a amplificarlo. Por eso no conviene normalizarlo.
+En uno de ellos, con resonancia magnética, su cerebro procesaba el dolor de forma distinta, con un patrón parecido al de otros dolores crónicos. Cuando el dolor se repite mes tras mes, el sistema nervioso aprende a amplificarlo. Por eso no conviene normalizarlo.
+
+## Desde la PNI, se mira todo
+
+Inflamación, intestino, sistema nervioso, alimentación: el dolor de regla es el resultado de varias piezas que se influyen entre sí. En los estudios observacionales, por ejemplo, saltarse comidas o hacer dietas para adelgazar se asocia a más dolor. Incluso cómo has vivido el último mes puede notarse: en un estudio, las mujeres con mucho estrés en un ciclo tenían más probabilidad de una regla dolorosa en el siguiente.
+
+Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
 
 ## 4. A veces hay algo más: la endometriosis
+
+No todo dolor de regla es igual. El **primario** no tiene una enfermedad detrás y suele empezar en la adolescencia, poco después de las primeras reglas. El **secundario** sí tiene una causa, como endometriosis, adenomiosis, miomas o pólipos, y puede aparecer más tarde, incluso a los 30 o 40 años.
 
 La **endometriosis** afecta aproximadamente a 1 de cada 10 mujeres en edad reproductiva, y según la Organización Mundial de la Salud se tarda de media **entre 4 y 12 años** en diagnosticarla, en parte porque el dolor se normaliza.
 
@@ -54,13 +62,13 @@ Consulta con tu ginecóloga si:
 - **Omega-3 a diario durante 2 o 3 meses.** En una revisión de ensayos con casi 900 mujeres, redujo el dolor menstrual. El pescado azul es una buena fuente en el día a día.
 - **No saltarte comidas ni hacer dieta esos días.** En los estudios observacionales, saltarse comidas o hacer dietas para adelgazar se asocia a más dolor, y comer más fruta, verdura y pescado, a menos.
 - **Moverte unas 3 veces por semana**, no solo cuando duele. Una revisión Cochrane encontró que el ejercicio regular, entre 45 y 60 minutos, reducía de forma importante la intensidad del dolor. La calidad de la evidencia es baja, pero es una medida segura y con muchos otros beneficios.
-- **Apuntar tu estrés y tu dolor cada ciclo**, como hicieron en el estudio. Te ayuda a ver tu propio patrón y es muy útil para la consulta.
+- **Apuntar tus síntomas cada ciclo**: dolor, digestión, energía. Te ayuda a ver tu propio patrón y es muy útil para la consulta.
 
 ## Qué miro en consulta
 
-En consulta no me quedo en el síntoma. Miro cómo es tu ciclo y cómo ha cambiado con los años, cómo comes y cómo duermes, cómo te afecta el estrés en las semanas previas, cómo está tu digestión y, si hace falta, tus analíticas. Como fisioterapeuta, también trabajo la parte corporal: la zona lumbar y pélvica, la musculatura abdominal y el movimiento.
+En consulta no me quedo en el síntoma. Miro cómo es tu ciclo y cómo ha cambiado con los años, cómo comes y cómo duermes, cómo está tu digestión y, si hace falta, tus analíticas. Como fisioterapeuta, también trabajo la parte corporal: la zona lumbar y pélvica, la musculatura abdominal y el movimiento.
 
-Con eso trabajamos sobre la inflamación de fondo con alimentación, descanso y movimiento, y llevamos un seguimiento ciclo a ciclo, siempre en coordinación con tu ginecóloga. Y si el estrés necesita un abordaje propio, te recomiendo acudir a un profesional de la psicología.
+Con eso trabajamos sobre la inflamación de fondo con alimentación, descanso y movimiento, y llevamos un seguimiento ciclo a ciclo, siempre en coordinación con tu ginecóloga.
 
 Si además tienes reglas irregulares, acné o caída de pelo, puede interesarte el artículo sobre [PNI y SOP](/blog/pni-y-sop/).
 
@@ -79,5 +87,7 @@ Si además tienes reglas irregulares, acné o caída de pelo, puede interesarte 
 - Snipe R et al. Omega-3 long chain polyunsaturated fatty acids as a potential treatment for reducing dysmenorrhoea pain: systematic literature review and meta-analysis. *Nutr Diet*. 2024;81(1):94-106. doi:10.1111/1747-0080.12835
 - Bajalan Z, Alimoradi Z, Moafi F. Nutrition as a Potential Factor of Primary Dysmenorrhea: A Systematic Review of Observational Studies. *Gynecol Obstet Invest*. 2019.
 - Armour M et al. Exercise for dysmenorrhoea. *Cochrane Database Syst Rev*. 2019;9:CD004142. doi:10.1002/14651858.CD004142.pub4
+- Olafsdottir LB et al. Natural History of Irritable Bowel Syndrome in Women and Dysmenorrhea: A 10-Year Follow-Up Study. *Gastroenterol Res Pract*. 2012.
+- Nagy H, Carlson K, Khan MAB. Dysmenorrhea. *StatPearls*. NCBI Bookshelf. [Enlace](https://www.ncbi.nlm.nih.gov/books/NBK560834/)
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
