@@ -2,17 +2,20 @@
 // Acordeón de preguntas frecuentes
 document.querySelectorAll('.faq-question').forEach(question => {
   question.addEventListener('click', function() {
-    const faqItem = this.parentElement;
+    const faqItem = this.closest('.faq-item');
     const isActive = faqItem.classList.contains('active');
 
     // Cerrar todas las preguntas
     document.querySelectorAll('.faq-item').forEach(item => {
       item.classList.remove('active');
+      const btn = item.querySelector('.faq-question');
+      if (btn) btn.setAttribute('aria-expanded', 'false');
     });
 
     // Abrir la pregunta clickeada si no estaba activa
     if (!isActive) {
       faqItem.classList.add('active');
+      this.setAttribute('aria-expanded', 'true');
     }
   });
 });

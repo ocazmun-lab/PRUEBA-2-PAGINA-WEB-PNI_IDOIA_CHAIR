@@ -36,10 +36,9 @@ schema: |
   }
 ---
 <!-- Botón flotante de WhatsApp -->
-<a href="https://wa.me/34604811712" class="whatsapp-float" target="_blank" aria-label="Contactar por WhatsApp">
-  <svg width="32" height="32" viewBox="0 0 32 32" fill="white">
-    <path d="M16 0C7.164 0 0 7.164 0 16c0 2.796.729 5.522 2.118 7.926L0 32l8.307-2.081A15.935 15.935 0 0016 32c8.836 0 16-7.164 16-16S24.836 0 16 0zm0 29.333c-2.413 0-4.781-.652-6.845-1.884l-.491-.291-5.097 1.279 1.357-4.964-.32-.511A13.288 13.288 0 012.667 16C2.667 8.654 8.654 2.667 16 2.667S29.333 8.654 29.333 16 23.346 29.333 16 29.333z"/>
-    <path d="M23.264 19.191c-.395-.198-2.341-1.156-2.704-1.289-.363-.132-.627-.198-.892.198-.264.395-1.023 1.289-1.253 1.553-.231.264-.462.297-.858.099-.395-.198-1.673-.616-3.186-1.967-1.178-1.051-1.973-2.348-2.204-2.744-.231-.395-.025-.609.174-.806.178-.177.395-.462.594-.693.198-.231.264-.396.396-.66.132-.264.066-.495-.033-.693-.099-.198-.892-2.148-1.222-2.942-.322-.773-.648-.668-.892-.681-.231-.011-.495-.013-.759-.013-.264 0-.693.099-1.056.495-.363.396-1.387 1.355-1.387 3.305s1.42 3.833 1.618 4.097c.198.264 2.795 4.266 6.772 5.982.946.409 1.685.653 2.26.835.95.302 1.814.259 2.497.157.761-.114 2.341-.958 2.672-1.882.331-.925.331-1.718.231-1.882-.099-.165-.363-.264-.758-.462z"/>
+<a href="https://wa.me/34604811712" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Contactar por WhatsApp">
+  <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
   </svg>
 </a>
 
@@ -48,18 +47,17 @@ schema: |
 {% include nav-home.html %}
 
     <section class="hero" aria-label="Presentación consulta de PNI en Zaragoza y online">
-  <div class="hero-inner">
-    <h2>Bienestar integral para tu cuerpo y mente</h2>
-    <p>Psiconeuroinmunología clínica para problemas digestivos, hormonales e inmunológicos, con consulta online y a domicilio en Zaragoza y alrededores.</p>
-    <a class="btn" href="#contacto">Solicita tu consulta</a>
-  </div>
-</section>
-
+      <div class="hero-inner">
+        <h2>Bienestar integral para tu cuerpo y mente</h2>
+        <p>Psiconeuroinmunología clínica para problemas digestivos, hormonales e inmunológicos, con consulta online y a domicilio en Zaragoza y alrededores.</p>
+        <a class="btn" href="#contacto">Solicita tu consulta</a>
+      </div>
+    </section>
   </header>
 
   <main>
 
-   <section id="en-que-puedo-ayudarte" class="section help">
+    <section id="en-que-puedo-ayudarte" class="section help">
       <h2>En qué puedo ayudarte</h2>
       <p class="lead">Abordaje global para mejorar la función de los sistemas principales del cuerpo.</p>
       <div class="grid">
@@ -81,7 +79,7 @@ schema: |
         <article class="item">
           <img src="{{ '/img/salud-hormonal-pni-idoia-chair.png' | relative_url }}" alt="Equilibrio hormonal PNI Idoia Chair" width="72" height="72">
           <h3>Desórdenes hormonales</h3>
-          <p> Dolor menstrual,SOP, amenorrea.</p>
+          <p>Dolor menstrual, SOP, amenorrea.</p>
         </article>
         <article class="item">
           <img src="{{ '/img/salud-musculoesqueletica-pni-idoia-chair.png' | relative_url }}" alt="Salud musculoesquelética PNI Idoia Chair" width="72" height="72">
@@ -96,126 +94,112 @@ schema: |
       </div>
     </section>
 
-        <section id="servicios" class="section help">
-      <h2>Servicios</h2>
+    <section id="servicios" class="section services">
+      <div class="section-head">
+        <h2>Servicios</h2>
+      </div>
       <div class="cards">
         <div class="card">
-          <h3>Primera consulta — 60-90 minutos</h3>
-          <p>✓ Evaluación integral: síntomas, historia clínica, hábitos y pruebas analíticas </p>
-<p>✓ Identifica la raíz del problema (no solo síntomas)</p>
-<p>✓ Envío del plan personalizado los días posteriores a la consulta: alimentación, hábitos y suplementación si es necesaria</p>
-<p>✓ Duración: 60-90 minutos</p>
-
+          <h3>Primera consulta <span>60-90 minutos</span></h3>
+          <ul class="checklist">
+            <li>Evaluación integral: síntomas, historia clínica, hábitos y pruebas analíticas</li>
+            <li>Identifica la raíz del problema (no solo síntomas)</li>
+            <li>Envío del plan personalizado los días posteriores a la consulta: alimentación, hábitos y suplementación si es necesaria</li>
+            <li>Duración: 60-90 minutos</li>
+          </ul>
         </div>
         <div class="card">
-          <h3>Consulta de seguimiento — 60 minutos</h3>
-          <p>✓ Revisión de progreso: ¿qué ha cambiado? ¿Qué ha mejorado?</p>
-          <p>✓ Ajustes del plan según evolución</p>
-          <p>✓ Nuevas recomendaciones prácticas</p>
-          <p>✓ Mantener y consolidar resultados</p>
-          <p>✓ Duración: 60 minutos</p>
+          <h3>Consulta de seguimiento <span>60 minutos</span></h3>
+          <ul class="checklist">
+            <li>Revisión de progreso: ¿qué ha cambiado? ¿Qué ha mejorado?</li>
+            <li>Ajustes del plan según evolución</li>
+            <li>Nuevas recomendaciones prácticas</li>
+            <li>Mantener y consolidar resultados</li>
+            <li>Duración: 60 minutos</li>
+          </ul>
         </div>
       </div>
     </section>
-<section id="precios" class="section pricing">
-  <h2>Precios</h2>
-  <div class="pricing-cards">
 
-    <div class="pricing-card">
-      <h3>Primera Sesión</h3>
-      <p class="duration">60-90 minutos</p>
-      <div class="price">
-        <span class="amount">90€</span>
+    <section id="precios" class="band pricing">
+      <div class="section">
+        <div class="section-head">
+          <h2>Precios</h2>
+        </div>
+        <div class="pricing-cards">
+          <div class="pricing-card">
+            <h3>Primera sesión</h3>
+            <p class="duration">60-90 minutos</p>
+            <p class="price"><span class="amount">90€</span></p>
+            <p class="description">Evaluación completa y plan personalizado</p>
+          </div>
+
+          <div class="pricing-card">
+            <h3>Consulta de seguimiento</h3>
+            <p class="duration">60 minutos</p>
+            <p class="price"><span class="amount">60€</span></p>
+            <p class="description">Revisión de progreso y ajustes</p>
+          </div>
+
+          <div class="pricing-card highlight">
+            <div class="badge">Más popular</div>
+            <h3>Bono recomendado</h3>
+            <p class="duration">Primera sesión + 2 sesiones de seguimiento</p>
+            <p class="price"><span class="amount">200€</span></p>
+            <p class="description">Ahorra con el pack de sesiones</p>
+          </div>
+
+          <div class="pricing-card">
+            <h3>Consulta a domicilio</h3>
+            <p class="duration">Zaragoza y alrededores</p>
+            <p class="price"><span class="amount amount-text">A consultar</span></p>
+            <p class="description">Evaluación completa en tu domicilio. Escríbeme con tu zona para confirmar disponibilidad y presupuesto.</p>
+          </div>
+        </div>
+        <div class="pricing-cta">
+          <a href="#contacto" class="btn">Reservar cita</a>
+        </div>
       </div>
-     <p class="description">Evaluación completa y plan personalizado</p>
+    </section>
 
-
-    </div>
-
-    <div class="pricing-card">
-      <h3>Consulta de Seguimiento</h3>
-      <p class="duration">60 minutos</p>
-      <div class="price">
-        <span class="amount">60€</span>
+    <section id="metodo" class="section method">
+      <div class="section-head">
+        <h2>Cómo trabajo</h2>
       </div>
-      <p class="description">Revisión de progreso y ajustes</p>
+      <ol class="steps">
+        <li class="step">
+          <span class="step-num" aria-hidden="true">1</span>
+          <h3>Evaluación integral</h3>
+          <p>Analizo tu caso en detalle: síntomas, historia, hábitos, pruebas. Entender la raíz.</p>
+        </li>
+        <li class="step">
+          <span class="step-num" aria-hidden="true">2</span>
+          <h3>Plan personalizado</h3>
+          <p>Diseño tu hoja de ruta: alimentación, hábitos, suplementación.</p>
+        </li>
+        <li class="step">
+          <span class="step-num" aria-hidden="true">3</span>
+          <h3>Acompañamiento práctico</h3>
+          <p>Te doy herramientas para mantener cambios y resolver obstáculos.</p>
+        </li>
+        <li class="step">
+          <span class="step-num" aria-hidden="true">4</span>
+          <h3>Revisión y evolución</h3>
+          <p>Sesiones de seguimiento para ajustar pautas, ver progresos y consolidar resultados.</p>
+        </li>
+      </ol>
+    </section>
 
-
-    </div>
-
-    <div class="pricing-card highlight">
-      <div class="badge">Especial</div>
-      <h3>BONO RECOMENDADO (MÁS POPULAR)</h3>
-      <p class="duration">Primera  sesión + 2 sesiones de seguimiento</p>
-      <div class="price">
-        <span class="amount">200€</span>
-      </div>
-      <p class="description">Ahorra con el pack de sesiones</p>
-    </div>
-
-    <div class="pricing-card">
-      <h3>Consulta a Domicilio</h3>
-      <p class="duration">Zaragoza y alrededores</p>
-      <div class="price">
-        <span class="amount amount-text">A consultar</span>
-      </div>
-      <p class="description">Evaluación completa en tu domicilio. Escríbeme con tu zona para confirmar disponibilidad y presupuesto.</p>
-    </div>
-
-  </div>
-</section>
-<div style="text-align: center; margin-top: 2rem;">
-        <a href="#contacto" class="btn">Reservar cita</a>
-         </div>
-      <section id="metodo" class="section method">
-  <h2>Cómo trabajo</h2>
-  <div class="steps">
-    <div class="step">
-      <span>1</span>
-      <p>
-        <strong>EVALUACIÓN INTEGRAL</strong><br>
-        Analizo tu caso en detalle: síntomas, historia, hábitos, pruebas. Entender la raíz.
-      </p>
-    </div>
-
-    <div class="step">
-      <span>2</span>
-      <p>
-        <strong>PLAN PERSONALIZADO</strong><br>
-        Diseño tu hoja de ruta: alimentación, hábitos, suplementación.
-      </p>
-    </div>
-
-    <div class="step">
-      <span>3</span>
-      <p>
-        <strong>ACOMPAÑAMIENTO PRÁCTICO</strong><br>
-        Te doy herramientas para mantener cambios y resolver obstáculos.
-      </p>
-    </div>
-
-    <div class="step">
-      <span>4</span>
-      <p>
-        <strong>REVISIÓN Y EVOLUCIÓN</strong><br>
-        Sesiones de seguimiento para ajustar pautas, ver progresos y consolidar resultados.
-      </p>
-    </div>
-  </div>
-</section>
-
-    <section id="sobre-mi" class="section about">
-      <div class="content">
-        <img src="{{ '/idoia-PNI.jpeg' | relative_url }}" alt="Idoia Chair - PNI online" width="140" height="211" style="width: 140px; height: auto;">
+    <section id="sobre-mi" class="band about">
+      <div class="section content">
+        <figure class="portrait-frame">
+          <img src="{{ '/idoia-PNI.jpeg' | relative_url }}" alt="Idoia Chair - PNI online" width="420" height="634">
+        </figure>
         <div class="about-text">
           <h2>Sobre mí</h2>
-          <p>Soy Idoia Chair, especialista en Psiconeuroinmunología Clínica.</p>
-
- <p>Como fisioterapeuta y osteópata, mi enfoque va más allá del tratamiento sintomático. La Psiconeuroinmunología me ha permitido entender de una manera más profunda la conexión entre los distintos sistemas del cuerpo y la Salud Integral.</p>
-
-<p>Mi misión es ayudarte a encontrar la causa raíz de tus problemas de salud, no solo aliviar los síntomas. Trabajo de forma personalizada, evaluando todos los sistemas del cuerpo para diseñar un plan terapéutico único para ti.</p>
-
-
+          <p class="about-intro">Soy Idoia Chair, especialista en Psiconeuroinmunología Clínica.</p>
+          <p>Como fisioterapeuta y osteópata, mi enfoque va más allá del tratamiento sintomático. La Psiconeuroinmunología me ha permitido entender de una manera más profunda la conexión entre los distintos sistemas del cuerpo y la Salud Integral.</p>
+          <p>Mi misión es ayudarte a encontrar la causa raíz de tus problemas de salud, no solo aliviar los síntomas. Trabajo de forma personalizada, evaluando todos los sistemas del cuerpo para diseñar un plan terapéutico único para ti.</p>
           <p class="location">Consulta online</p>
           <ul>
             <li>Evaluación integral y plan personalizado</li>
@@ -227,59 +211,75 @@ schema: |
     </section>
 
     <section id="faq" class="section faq-section">
-  <div class="container">
-    <h2 class="section-title">Preguntas Frecuentes</h2>
-
-    <div class="faq-container">
-      {% for item in site.data.faq.items %}
-      {% if item.active != false %}
-      <div class="faq-item">
-        <div class="faq-question">
-          <h3>{{ item.question }}</h3>
-          <span class="faq-icon">+</span>
-        </div>
-        <div class="faq-answer">
-          <p>{{ item.answer }}</p>
-        </div>
+      <div class="section-head">
+        <h2 class="section-title">Preguntas frecuentes</h2>
       </div>
-      {% endif %}
-      {% endfor %}
-  </div>
-</section>
+      <div class="faq-container">
+        {% for item in site.data.faq.items %}
+        {% if item.active != false %}
+        <div class="faq-item">
+          <h3>
+            <button type="button" class="faq-question" aria-expanded="false" aria-controls="faq-{{ forloop.index }}">
+              <span>{{ item.question }}</span>
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+          </h3>
+          <div class="faq-answer" id="faq-{{ forloop.index }}">
+            <div><p>{{ item.answer }}</p></div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </section>
 
-    <section id="contacto" class="section contact">
-      <h2>Contacto</h2>
+    <section id="contacto" class="band contact">
+      <div class="section contact-inner">
+        <div class="contact-intro">
+          <h2>Contacto</h2>
+          <form action="https://formspree.io/f/mwpdykan" method="POST" class="contact-form">
+            <label class="field">
+              <span>Nombre</span>
+              <input type="text" name="Nombre" autocomplete="name" required>
+            </label>
+            <label class="field">
+              <span>Email</span>
+              <input type="email" name="Email" autocomplete="email" required>
+            </label>
+            <label class="field">
+              <span>Teléfono <small>(opcional)</small></span>
+              <input type="tel" name="Teléfono" autocomplete="tel">
+            </label>
+            <label class="field">
+              <span>Mensaje</span>
+              <textarea name="Mensaje" rows="5" placeholder="Cuéntame brevemente en qué puedo ayudarte" required></textarea>
+            </label>
+            <label class="privacy-check">
+              <input type="checkbox" name="privacy" required>
+              <span>He leído y acepto la <a href="{{ '/politica-privacidad.html' | relative_url }}" target="_blank" rel="noopener noreferrer">Política de privacidad</a>.</span>
+            </label>
+            <button type="submit" class="btn">Enviar mensaje</button>
+          </form>
+        </div>
 
-      <form action="https://formspree.io/f/mwpdykan" method="POST" class="contact-form">
-        <input type="text" name="Nombre" placeholder="Nombre" required>
-        <input type="email" name="Email" placeholder="Email" required>
-        <input type="text" name="Teléfono" placeholder="Teléfono opcional">
-        <textarea name="Mensaje" rows="6" placeholder="Cuéntame brevemente en qué puedo ayudarte" required></textarea>
-        <div class="form-group privacy-check">
-        <label>
-          <input type="checkbox" name="privacy" required>
-          He leído y acepto la
-          <a href="{{ '/politica-privacidad.html' | relative_url }}" target="_blank" rel="noopener noreferrer">
-            Política de privacidad
-          </a>.
-        </label>
-</div>
-
-        <button type="submit" class="btn">Enviar mensaje</button>
-      </form>
-
-     <p>O escríbeme por WhatsApp:
-<p style="margin-top: 1rem;">
-  <a href="https://wa.me/34604811712" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #25D366; color: white; padding: 0.8rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600;">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
-      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-    </svg>
-    WhatsApp
-  </a>
-</p>
-<p>Sígueme en Instagram:</p>
-<a href="https://www.instagram.com/idoiachairpni" target="_blank">
-  <img src="{{ '/instagram.png' | relative_url }}" alt="Instagram Idoia Chair" width="48" height="48">
-</a>
+        <aside class="contact-aside" aria-label="Otras formas de contacto">
+          <p>O escríbeme por WhatsApp:</p>
+          <a class="btn btn-whatsapp" href="https://wa.me/34604811712" target="_blank" rel="noopener">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+            </svg>
+            WhatsApp
+          </a>
+          <p>Sígueme en Instagram:</p>
+          <a class="instagram-link" href="https://www.instagram.com/idoiachairpni" target="_blank" rel="noopener">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="3" width="18" height="18" rx="5"/>
+              <circle cx="12" cy="12" r="4"/>
+              <circle cx="17.5" cy="6.5" r="0.6" fill="currentColor"/>
+            </svg>
+            @idoiachairpni
+          </a>
+        </aside>
+      </div>
     </section>
   </main>
