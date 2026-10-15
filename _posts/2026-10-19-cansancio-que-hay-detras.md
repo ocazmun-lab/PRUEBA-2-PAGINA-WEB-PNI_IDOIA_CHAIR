@@ -1,6 +1,6 @@
 ---
 title: 'Duermes 8 horas y te levantas agotada: 5 cosas que pueden estar detrás'
-excerpt: 'Un cansancio que no se va con dormir no es "lo normal". Te explico, desde la Psiconeuroinmunología, cinco causas frecuentes y qué dice la ciencia de cada una.'
+excerpt: Un cansancio que no se va con dormir no es "lo normal". Te explico, desde la Psiconeuroinmunología, cinco causas frecuentes y qué dice la ciencia de cada una.
 date: 2026-10-19 08:00:00 +02:00
 slug: cansancio-que-hay-detras
 image: ''
@@ -14,7 +14,7 @@ tags:
   - PNI
 meta_title: 'Cansancio que no se va al dormir: 5 causas desde la PNI | Idoia Chair'
 meta_description: 'Duermes bien y sigues agotada: intestino, tiroides, inflamación, estrés y glucosa. Qué explica la Psiconeuroinmunología y qué dice la evidencia de cada causa.'
-published: false
+published: true
 ---
 
 Duermes tus 8 horas… y te levantas como si no hubieras dormido.
@@ -27,7 +27,7 @@ La Psiconeuroinmunología (PNI) estudia cómo se comunican el sistema nervioso, 
 
 Tu energía es limitada, y tu sistema inmune y tu sistema nervioso compiten por ella. Cuando el sistema inmune se mantiene activo, aunque sea en segundo plano, el cerebro "recorta" gasto en otras áreas, y aparecen fatiga, peor sueño o bajo ánimo. Este modelo de reparto de energía entre sistemas está descrito en la investigación en neuroinmunoendocrinología.
 
-Además, las sustancias inflamatorias que produce el sistema inmune (las citocinas) llegan al cerebro y provocan lo que se conoce como **conducta de enfermedad**: cansancio, ganas de aislarse, falta de apetito y de motivación. Es lo que sientes cuando tienes gripe, pero puede mantenerse de forma más leve cuando la inflamación no se apaga.
+Además, las sustancias inflamatorias que produce el sistema inmune (las citoquinas) llegan al cerebro y provocan lo que se conoce como **conducta de enfermedad**: cansancio, ganas de aislarse, falta de apetito y de motivación. Es lo que sientes cuando tienes gripe, pero puede mantenerse de forma más leve cuando la inflamación no se apaga.
 
 Por eso, en consulta, la pregunta no es solo "¿qué te falta?", sino **"¿qué está consumiendo tu energía?"**. Estas son cinco de las respuestas más frecuentes.
 
@@ -97,16 +97,16 @@ También te puede interesar: [estrés e intestino, por qué los nervios se te va
 
 ## Referencias
 
-- Straub RH. The brain and immune system prompt energy shortage in chronic inflammation and ageing. *Nat Rev Rheumatol*. 2017;13(12):743-751.
-- Dantzer R et al. From inflammation to sickness and depression: when the immune system subjugates the brain. *Nat Rev Neurosci*. 2008;9(1):46-56. doi:10.1038/nrn2297. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/)
-- Cryan JF et al. The Microbiota-Gut-Brain Axis. *Physiol Rev*. 2019;99(4):1877-2013. doi:10.1152/physrev.00018.2018
-- Vaucher P et al. Effect of iron supplementation on fatigue in nonanemic menstruating women with low ferritin: a randomized controlled trial. *CMAJ*. 2012;184(11):1247-1254. [Enlace](https://pubmed.ncbi.nlm.nih.gov/22777991/)
-- Lam JR et al. Proton pump inhibitor and histamine 2 receptor antagonist use and vitamin B12 deficiency. *JAMA*. 2013;310(22):2435-2442.
+- Straub RH. The brain and immune system prompt energy shortage in chronic inflammation and ageing. _Nat Rev Rheumatol_. 2017;13(12):743-751.
+- Dantzer R et al. From inflammation to sickness and depression: when the immune system subjugates the brain. _Nat Rev Neurosci_. 2008;9(1):46-56. doi:10.1038/nrn2297. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/)
+- Cryan JF et al. The Microbiota-Gut-Brain Axis. _Physiol Rev_. 2019;99(4):1877-2013. doi:10.1152/physrev.00018.2018
+- Vaucher P et al. Effect of iron supplementation on fatigue in nonanemic menstruating women with low ferritin: a randomized controlled trial. _CMAJ_. 2012;184(11):1247-1254. [Enlace](https://pubmed.ncbi.nlm.nih.gov/22777991/)
+- Lam JR et al. Proton pump inhibitor and histamine 2 receptor antagonist use and vitamin B12 deficiency. _JAMA_. 2013;310(22):2435-2442.
 - Coeliac UK. The importance of screening patients with unexplained anaemia. [Enlace](https://coeliac.org.uk/healthcare-professionals/diagnosis/the-importance-of-screening-patients-with-unexplained-anaemia)
-- Chaker L et al. Hypothyroidism. *Lancet*. 2017;390(10101):1550-1562. [Enlace](https://pubmed.ncbi.nlm.nih.gov/28336049/)
-- Irwin MR, Olmstead R, Carroll JE. Sleep Disturbance, Sleep Duration, and Inflammation: A Systematic Review and Meta-Analysis of Cohort Studies and Experimental Sleep Deprivation. *Biol Psychiatry*. 2016;80(1):40-52.
-- Adam EK et al. Diurnal cortisol slopes and mental and physical health outcomes: a systematic review and meta-analysis. *Psychoneuroendocrinology*. 2017;83:25-41.
-- Wyatt P et al. Postprandial glycaemic dips predict appetite and energy intake in healthy individuals. *Nat Metab*. 2021;3(4):523-529.
+- Chaker L et al. Hypothyroidism. _Lancet_. 2017;390(10101):1550-1562. [Enlace](https://pubmed.ncbi.nlm.nih.gov/28336049/)
+- Irwin MR, Olmstead R, Carroll JE. Sleep Disturbance, Sleep Duration, and Inflammation: A Systematic Review and Meta-Analysis of Cohort Studies and Experimental Sleep Deprivation. _Biol Psychiatry_. 2016;80(1):40-52.
+- Adam EK et al. Diurnal cortisol slopes and mental and physical health outcomes: a systematic review and meta-analysis. _Psychoneuroendocrinology_. 2017;83:25-41.
+- Wyatt P et al. Postprandial glycaemic dips predict appetite and energy intake in healthy individuals. _Nat Metab_. 2021;3(4):523-529.
 - NICE Clinical Knowledge Summaries. Tiredness/fatigue in adults.
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
