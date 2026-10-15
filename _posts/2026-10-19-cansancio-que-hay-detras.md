@@ -10,10 +10,10 @@ tags:
   - cansancio
   - fatiga
   - inflamación
-  - estrés
+  - descanso
   - PNI
 meta_title: 'Cansancio que no se va al dormir: 5 causas desde la PNI | Idoia Chair'
-meta_description: 'Duermes bien y sigues agotada: intestino, tiroides, inflamación, estrés y glucosa. Qué explica la Psiconeuroinmunología y qué dice la evidencia de cada causa.'
+meta_description: 'Duermes bien y sigues agotada: intestino, tiroides, inflamación, descanso y glucosa. Qué explica la Psiconeuroinmunología y qué dice la evidencia de cada causa.'
 published: true
 ---
 
@@ -55,13 +55,13 @@ Es el ejemplo más claro de lo que explicaba arriba: un sistema inmune activo de
 
 Y aquí entra la parte "psico" y "neuro" de la PNI: **el mal descanso alimenta la inflamación.** Un metaanálisis de 72 estudios y más de 50.000 personas, del Cousins Center for Psychoneuroimmunology de la Universidad de California, encontró que dormir mal se asocia a niveles más altos de PCR e IL-6, dos marcadores de inflamación. Es un círculo: la inflamación empeora el sueño, y el mal sueño aviva la inflamación.
 
-**Pista:** se mide en la analítica con la PCR. El estrés y el mal sueño la avivan.
+**Pista:** se mide en la analítica con la PCR. El mal descanso la aviva.
 
-## 4. El estrés sostenido: un reloj interno desordenado
+## 4. Tu descanso y tu ritmo del día: un reloj interno desordenado
 
-El cortisol, la hormona del estrés, sigue un ritmo diario: alto al despertar, para darte energía, y bajo por la noche, para dejarte dormir. Con el estrés crónico, ese ritmo tiende a aplanarse. Un metaanálisis de 80 estudios encontró que un ritmo de cortisol más plano se asocia a peor salud física y emocional, y la relación más fuerte fue con **marcadores inmunitarios e inflamatorios**.
+El cortisol sigue un ritmo diario: alto al despertar, para darte energía, y bajo por la noche, para dejarte dormir. Cuando duermes mal, tus horarios cambian mucho o vives una época de mucha exigencia, ese ritmo tiende a aplanarse. Un metaanálisis de 80 estudios encontró que un ritmo de cortisol más plano se asocia a peor salud física y emocional, y la relación más fuerte fue con **marcadores inmunitarios e inflamatorios**.
 
-Es decir: el estrés no solo cansa "de cabeza". A través de las hormonas, llega al sistema inmune.
+Es decir: tu ritmo del día no solo afecta a cómo descansas. A través de las hormonas, llega también al sistema inmune.
 
 **Pista:** te cuesta arrancar por la mañana y, por la noche, tu mente va a mil y te cuesta dormirte.
 
@@ -75,13 +75,13 @@ Su relación directa con el cansancio está menos estudiada, pero es un patrón 
 
 ## Muchas veces no es una sola causa
 
-En consulta lo veo a menudo: no hay un único culpable, sino **varias causas que se suman y se alimentan entre sí**. Una digestión que no va bien genera inflamación, la inflamación empeora el sueño, el mal sueño y el estrés desordenan el cortisol, y todo junto agota tus reservas de energía. Por eso desde la PNI se mira el conjunto, y no solo el síntoma.
+En consulta lo veo a menudo: no hay un único culpable, sino **varias causas que se suman y se alimentan entre sí**. Una digestión que no va bien genera inflamación, la inflamación empeora el sueño, el mal sueño desordena el cortisol, y todo junto agota tus reservas de energía. Por eso desde la PNI se mira el conjunto, y no solo el síntoma.
 
 ## ¿Y ahora qué? Lo que puedes hacer
 
 1. **Revisa tu analítica.** Una analítica básica para el cansancio incluye, entre otras pruebas, la **ferritina** (reservas de hierro), la **B12**, la **TSH** (tiroides), la **glucosa** y la **PCR** (inflamación). Es una pieza más del puzle, no el puzle entero.
 2. **Apunta durante una semana cuándo te notas más cansada**: al levantarte, después de comer, por la tarde…
-3. **Fíjate en qué otros síntomas aparecen a la vez**: digestivos, frío, sueño, ánimo, ciclo menstrual, épocas de más estrés.
+3. **Fíjate en qué otros síntomas aparecen a la vez**: digestivos, frío, sueño, ánimo, ciclo menstrual, épocas de más exigencia.
 
 Con esa información, la valoración será mucho más precisa.
 
