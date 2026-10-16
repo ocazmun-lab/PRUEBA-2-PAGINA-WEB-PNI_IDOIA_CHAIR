@@ -7,13 +7,18 @@ media_folder: "img/blog"
 public_folder: "/img/blog"
 
 collections:
-  - name: "blog"
-    label: "Blog"
+  - name: "borradores"
+    label: "Blog · Borradores"
+    label_singular: "Artículo"
+    description: "Artículos sin activar. Cuando actives Publicado, pasan solos a la carpeta Publicados y programados."
     folder: "_posts"
+    filter: {field: "published", value: false}
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     format: "frontmatter"
     extension: "md"
+    summary: "{{date | date('DD/MM/YYYY')}} · {{title}}"
+    sortable_fields: ["date", "title"]
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
@@ -29,7 +34,38 @@ collections:
       - {label: "Etiquetas", name: "tags", widget: "list", required: false}
       - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "El texto exacto que aparecerá en Google. Si lo dejas vacío se usa el título del artículo + \"| Idoia Chair\""}
       - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
-      - {label: "Publicado", name: "published", widget: "boolean", default: true, hint: "Desactívalo para guardar como borrador sin publicar"}
+      - {label: "Publicado", name: "published", widget: "boolean", default: false, hint: "Actívalo cuando el artículo esté listo: saldrá en la fecha de publicación y pasará a la carpeta Publicados y programados"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+
+  - name: "blog"
+    label: "Blog · Publicados y programados"
+    label_singular: "Artículo"
+    description: "Artículos activados. Si la fecha es futura, saldrán solos ese día a las 8:00."
+    folder: "_posts"
+    filter: {field: "published", value: true}
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    format: "frontmatter"
+    extension: "md"
+    summary: "{{date | date('DD/MM/YYYY')}} · {{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
+      - {label: "Fecha de publicación", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss Z", hint: "Hora de España. Pon 8:00 para que salga a primera hora"}
+      - {label: "URL del artículo (slug)", name: "slug", widget: "string", required: false, hint: "Ej: sibo-y-pni. Si lo dejas vacío se genera automáticamente a partir del título"}
+      - {label: "Imagen destacada", name: "image", widget: "image", required: false}
+      - {label: "Texto alternativo de la imagen", name: "image_alt", widget: "string", required: false}
+      - label: "Categoría"
+        name: "category"
+        widget: "select"
+        required: false
+        options: ["Digestivo", "Hormonal", "Inmunológico", "Consulta y método"]
+      - {label: "Etiquetas", name: "tags", widget: "list", required: false}
+      - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "El texto exacto que aparecerá en Google. Si lo dejas vacío se usa el título del artículo + \"| Idoia Chair\""}
+      - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
+      - {label: "Publicado", name: "published", widget: "boolean", default: true, hint: "Desactívalo para devolverlo a Borradores y ocultarlo de la web"}
       - {label: "Contenido", name: "body", widget: "markdown"}
 
   - name: "faq"
