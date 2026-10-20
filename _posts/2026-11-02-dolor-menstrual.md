@@ -14,7 +14,7 @@ tags:
   - PNI
 meta_title: 'Dolor de regla: por qué no es normal y qué hacer desde la PNI | Idoia Chair'
 meta_description: 'Por qué duele la regla: inflamación, relación con el intestino, sensibilización del sistema nervioso y endometriosis. Ideas con respaldo científico desde la PNI.'
-published: false
+published: true
 ---
 
 "Es normal que la regla duela." Seguramente lo has oído desde la adolescencia. Y quizá por eso llevas años aguantando, con la manta eléctrica y organizando tu vida alrededor de esos días.
