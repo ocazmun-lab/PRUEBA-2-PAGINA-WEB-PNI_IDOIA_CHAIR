@@ -3,8 +3,8 @@ title: 'Que la regla duela no es normal: 4 cosas que la ciencia sabe'
 excerpt: Inflamación, intestino, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo explico desde la Psiconeuroinmunología.
 date: 2026-11-02 08:00:00 +01:00
 slug: dolor-menstrual
-image: /img/blog/Dolor menstrual en calma.png
-image_alt: Libreta y taza sobre la cama para apuntar los síntomas del dolor de regla cada ciclo
+image: /img/blog/dolor-de-regla-causas-pni.jpg
+image_alt: Mujer sentada en la cama con dolor de regla, con las manos en el abdomen, junto a ilustraciones del útero
 category: Hormonal
 tags:
   - dolor menstrual
