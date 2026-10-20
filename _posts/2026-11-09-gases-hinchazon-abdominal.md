@@ -4,7 +4,7 @@ excerpt: "La hinchazón no suele deberse a producir más gas, sino a cómo lo mu
 date: 2026-11-09 08:00:00 +01:00
 slug: "gases-hinchazon-abdominal"
 image: "/img/blog/gases-hinchazon-abdominal.jpg"
-image_alt: "Gases e hinchazón abdominal, enfoque PNI"
+image_alt: "Taza de infusión caliente para la hinchazón abdominal"
 category: "Digestivo"
 tags: ["gases", "hinchazón", "digestivo", "eje intestino-cerebro", "PNI"]
 meta_title: "Gases e hinchazón abdominal: por qué pasa y qué hacer | Idoia Chair"
@@ -24,7 +24,7 @@ Es decir: con el mismo gas, unos cuerpos lo gestionan bien y otros no. Por eso q
 
 ## Los 3 motivos más estudiados
 
-### 1. Un intestino más sensible: la parte "psico-neuro-inmuno"
+### 1. Un intestino más sensible
 
 Aquí es donde la Psiconeuroinmunología (PNI) tiene mucho que decir. El intestino y el cerebro se comunican constantemente a través del eje intestino-cerebro. Cuando ese diálogo está alterado, las señales del intestino se amplifican y notas como molestia algo que otra persona ni percibe. Es lo que se llama **hipersensibilidad visceral**.
 
@@ -49,10 +49,14 @@ Lo interesante es que se puede reeducar. En un ensayo clínico, un entrenamiento
 
 **Pista:** te hinchas mucho tras las comidas, aunque comas poco.
 
+### ¿Y las intolerancias o el SIBO?
+
+También pueden estar detrás. Si no absorbes bien la lactosa o la fructosa, o si hay un sobrecrecimiento de bacterias en el intestino delgado ([SIBO](/blog/sibo-que-es-sintomas/)), se produce más gas del habitual. Por eso conviene descartarlos antes de quitar alimentos a ciegas.
+
 ## Qué puede ayudar, según la evidencia
 
 - **Reducir los alimentos fermentables (FODMAP) de forma temporal y guiada.** En un ensayo con personas con colon irritable, una dieta baja en FODMAP redujo los síntomas digestivos a la mitad. Pero no es una dieta para siempre: tras unas semanas se reintroducen los alimentos para no empobrecer la microbiota.
-- **Cuidar el eje intestino-cerebro.** Las guías de gastroenterología ya recomiendan terapias dirigidas a la relación intestino-cerebro para estos síntomas, que en su parte psicológica realizan profesionales de la psicología. Desde la PNI, en consulta tengo en cuenta cómo te afecta el estrés y trabajo el descanso, los ritmos y la parte corporal.
+- **Cuidar el eje intestino-cerebro.** El descanso, el movimiento y comer con calma también influyen en cómo se mueve y cómo percibe tu intestino.
 - **Reeducar la musculatura abdominal y el diafragma**, cuando la distensión se debe a ese reflejo invertido.
 - **Tratar el estreñimiento**, si lo hay.
 
@@ -64,9 +68,9 @@ Consulta con tu médico si la hinchazón viene acompañada de **pérdida de peso
 
 ## Qué miro en consulta
 
-En lugar de una dieta genérica "antihinchazón", en consulta busco qué combinación de estos factores hay en tu caso: cómo es tu tránsito, cuándo aparece la hinchazón, qué papel juegan el estrés y el descanso, tu historia digestiva y, si hace falta, pruebas complementarias.
+En lugar de una dieta genérica "antihinchazón", en consulta busco qué combinación de estos factores hay en tu caso: cómo es tu tránsito, cuándo aparece la hinchazón, cómo descansas y cómo es tu día a día, tu historia digestiva y, si hace falta, pruebas complementarias.
 
-Este síntoma está muy relacionado con el [SIBO](/blog/sibo-que-es-sintomas/) y con el [estrés y el eje intestino-cerebro](/blog/estres-e-intestino/).
+Este síntoma también está muy relacionado con el [estrés y el eje intestino-cerebro](/blog/estres-e-intestino/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
