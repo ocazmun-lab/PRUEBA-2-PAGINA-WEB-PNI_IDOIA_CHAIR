@@ -4,7 +4,7 @@ excerpt: "Inflamación, intestino, un sistema nervioso que aprende a doler y una
 date: 2026-11-02 08:00:00 +01:00
 slug: "dolor-menstrual"
 image: "/img/blog/dolor-menstrual-desequilibrio-hormonal.jpg"
-image_alt: "Dolor menstrual, enfoque PNI"
+image_alt: "Libreta y taza sobre la cama para apuntar los síntomas del dolor de regla cada ciclo"
 category: "Hormonal"
 tags: ["dolor menstrual", "regla", "hormonal", "inflamación", "PNI"]
 meta_title: "Dolor de regla: por qué no es normal y qué hacer desde la PNI | Idoia Chair"
@@ -36,12 +36,6 @@ Este es quizá el dato más sorprendente. Varios estudios han visto que las muje
 
 En uno de ellos, con resonancia magnética, su cerebro procesaba el dolor de forma distinta, con un patrón parecido al de otros dolores crónicos. Cuando el dolor se repite mes tras mes, el sistema nervioso aprende a amplificarlo. Por eso no conviene normalizarlo.
 
-## Desde la PNI, se mira todo
-
-Inflamación, intestino, sistema nervioso, alimentación: el dolor de regla es el resultado de varias piezas que se influyen entre sí. En los estudios observacionales, por ejemplo, saltarse comidas o hacer dietas para adelgazar se asocia a más dolor. Incluso cómo has vivido el último mes puede notarse: en un estudio, las mujeres con mucho estrés en un ciclo tenían más probabilidad de una regla dolorosa en el siguiente.
-
-Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
-
 ## 4. A veces hay algo más: la endometriosis
 
 No todo dolor de regla es igual. El **primario** no tiene una enfermedad detrás y suele empezar en la adolescencia, poco después de las primeras reglas. El **secundario** sí tiene una causa, como endometriosis, adenomiosis, miomas o pólipos, y puede aparecer más tarde, incluso a los 30 o 40 años.
@@ -55,6 +49,12 @@ Consulta con tu ginecóloga si:
 - Tienes dolor pélvico también fuera de la regla.
 - Sangras mucho o te cuesta quedarte embarazada.
 
+## Desde la PNI, se mira todo
+
+Inflamación, intestino, sistema nervioso, alimentación: el dolor de regla es el resultado de varias piezas que se influyen entre sí. Incluso cómo has vivido el último mes puede notarse: en un estudio, las mujeres con mucho estrés en un ciclo tenían más probabilidad de una regla dolorosa en el siguiente.
+
+Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
+
 ## Ideas para tu próxima regla
 
 - **Calor local** en la tripa o la zona lumbar. En una revisión de ensayos clínicos, la manta o la bolsa de calor alivió el dolor de forma clara.
@@ -66,7 +66,7 @@ Consulta con tu ginecóloga si:
 
 ## Qué miro en consulta
 
-En consulta no me quedo en el síntoma. Miro cómo es tu ciclo y cómo ha cambiado con los años, cómo comes y cómo duermes, cómo está tu digestión y, si hace falta, tus analíticas. Como fisioterapeuta, también trabajo la parte corporal: la zona lumbar y pélvica, la musculatura abdominal y el movimiento.
+En consulta no me quedo en el síntoma. Miro cómo es tu ciclo y cómo ha cambiado con los años, cómo comes y cómo duermes, cómo está tu digestión y, si hace falta, tus analíticas. También valoro la parte corporal: la zona lumbar y pélvica, la musculatura abdominal y el movimiento.
 
 Con eso trabajamos sobre la inflamación de fondo con alimentación, descanso y movimiento, y llevamos un seguimiento ciclo a ciclo, siempre en coordinación con tu ginecóloga.
 
