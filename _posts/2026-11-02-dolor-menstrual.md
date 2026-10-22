@@ -62,12 +62,17 @@ Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
 
 ## Ideas para tu próxima regla
 
-- **Calor local** en la tripa o la zona lumbar. En una revisión de ensayos clínicos, la manta o la bolsa de calor alivió el dolor de forma clara.
-- **Jengibre en polvo los 3 primeros días.** En los ensayos se tomaron entre 750 y 2.000 mg al día durante los primeros días de la regla, y redujo el dolor frente a placebo. Son pocos estudios, pero los resultados son prometedores.
-- **Omega-3 a diario durante 2 o 3 meses.** En una revisión de ensayos con casi 900 mujeres, redujo el dolor menstrual. El pescado azul es una buena fuente en el día a día.
-- **No saltarte comidas ni hacer dieta esos días.** En los estudios observacionales, saltarse comidas o hacer dietas para adelgazar se asocia a más dolor, y comer más fruta, verdura y pescado, a menos.
-- **Moverte unas 3 veces por semana**, no solo cuando duele. Una revisión Cochrane encontró que el ejercicio regular, entre 45 y 60 minutos, reducía de forma importante la intensidad del dolor. La calidad de la evidencia es baja, pero es una medida segura y con muchos otros beneficios.
-- **Apuntar tus síntomas cada ciclo**: dolor, digestión, energía. Te ayuda a ver tu propio patrón y es muy útil para la consulta.
+**Esos días**
+
+- **Calor.** Una bolsa de agua caliente en la tripa o en los riñones. En una revisión de ensayos clínicos, el calor local alivió el dolor de forma clara.
+- **Masaje suave.** Círculos lentos sobre la tripa los primeros días. Una revisión de 32 ensayos vio que el masaje y la terapia manual alivian el dolor a corto plazo. La calidad de los estudios todavía es baja, pero es una medida segura.
+
+**Todo el mes**
+
+- **Muévete**, no solo cuando duele: caminar, estiramientos, yoga… Una revisión Cochrane encontró que el ejercicio regular, incluido el de baja intensidad como el yoga o los estiramientos, reducía de forma importante la intensidad del dolor. La calidad de la evidencia es baja, pero es una medida segura y con muchos otros beneficios.
+- **Omega-3**, con pescado azul en tu alimentación o en forma de suplemento. En una revisión de ensayos con casi 900 mujeres, tomarlo de forma continuada durante 2 o 3 meses redujo el dolor menstrual.
+- **Come regular**, sin saltarte comidas ni hacer dietas para adelgazar. En los estudios observacionales, saltarse comidas se asocia a más dolor, y comer más fruta, verdura y pescado, a menos.
+- **Apunta tus síntomas cada ciclo**: dolor, digestión, energía. Te ayuda a ver tu propio patrón y es muy útil para la consulta.
 
 ## Qué miro en consulta
 
@@ -88,10 +93,10 @@ Si además tienes reglas irregulares, acné o caída de pelo, puede interesarte 
 - Iacovides S, Baker FC, Avidon I, Bentley A. Women with dysmenorrhea are hypersensitive to experimental deep muscle pain across the menstrual cycle. *J Pain*. 2013;14(10):1066-1076.
 - Organización Mundial de la Salud. Endometriosis (nota descriptiva). 2025. [Enlace](https://www.who.int/news-room/fact-sheets/detail/endometriosis)
 - Jo J, Lee SH. Heat therapy for primary dysmenorrhea: a systematic review and meta-analysis of its effects on pain relief and quality of life. *Sci Rep*. 2018;8. doi:10.1038/s41598-018-34303-z
-- Daily JW, Zhang X, Kim DS, Park S. Efficacy of Ginger for Alleviating the Symptoms of Primary Dysmenorrhea: A Systematic Review and Meta-analysis of Randomized Clinical Trials. *Pain Med*. 2015;16(12):2243-2255.
 - Snipe R et al. Omega-3 long chain polyunsaturated fatty acids as a potential treatment for reducing dysmenorrhoea pain: systematic literature review and meta-analysis. *Nutr Diet*. 2024;81(1):94-106. doi:10.1111/1747-0080.12835
 - Bajalan Z, Alimoradi Z, Moafi F. Nutrition as a Potential Factor of Primary Dysmenorrhea: A Systematic Review of Observational Studies. *Gynecol Obstet Invest*. 2019.
 - Armour M et al. Exercise for dysmenorrhoea. *Cochrane Database Syst Rev*. 2019;9:CD004142. doi:10.1002/14651858.CD004142.pub4
+- Li X et al. Manual Therapy in Primary Dysmenorrhea: A Systematic Review and Meta-Analysis. *J Pain Res*. 2024;17. doi:10.2147/JPR.S457381
 - Olafsdottir LB et al. Natural History of Irritable Bowel Syndrome in Women and Dysmenorrhea: A 10-Year Follow-Up Study. *Gastroenterol Res Pract*. 2012.
 - Nagy H, Carlson K, Khan MAB. Dysmenorrhea. *StatPearls*. NCBI Bookshelf. [Enlace](https://www.ncbi.nlm.nih.gov/books/NBK560834/)
 
