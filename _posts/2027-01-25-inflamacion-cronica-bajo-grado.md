@@ -3,7 +3,7 @@ title: "Inflamación de bajo grado: el fuego silencioso que está detrás de muc
 excerpt: "No duele ni se ve, pero se relaciona con el cansancio, la digestión, el dolor y muchas enfermedades crónicas. Qué es y qué la alimenta."
 date: 2027-01-25 08:00:00 +01:00
 slug: "inflamacion-cronica-bajo-grado"
-category: "Inmunológico"
+category: "Inmune"
 tags: ["inflamación", "inflamación crónica", "sistema inmune", "hábitos", "PNI"]
 meta_title: "Inflamación crónica de bajo grado: qué es y cómo reducirla | Idoia Chair"
 meta_description: "Qué es la inflamación crónica de bajo grado, cómo se relaciona con muchos síntomas y enfermedades, y qué hábitos ayudan a reducirla según la ciencia."

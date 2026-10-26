@@ -30,7 +30,7 @@ collections:
         name: "category"
         widget: "select"
         required: false
-        options: ["Digestivo", "Hormonal", "Inmunológico", "Consulta y método"]
+        options: ["Digestivo", "Hormonal", "Inmune", "Consulta y método"]
       - {label: "Etiquetas", name: "tags", widget: "list", required: false}
       - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "El texto exacto que aparecerá en Google. Si lo dejas vacío se usa el título del artículo + \"| Idoia Chair\""}
       - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}
@@ -61,7 +61,7 @@ collections:
         name: "category"
         widget: "select"
         required: false
-        options: ["Digestivo", "Hormonal", "Inmunológico", "Consulta y método"]
+        options: ["Digestivo", "Hormonal", "Inmune", "Consulta y método"]
       - {label: "Etiquetas", name: "tags", widget: "list", required: false}
       - {label: "Meta title (SEO)", name: "meta_title", widget: "string", required: false, hint: "El texto exacto que aparecerá en Google. Si lo dejas vacío se usa el título del artículo + \"| Idoia Chair\""}
       - {label: "Meta description (SEO)", name: "meta_description", widget: "text", required: false, hint: "Si lo dejas vacío se usa la introducción"}

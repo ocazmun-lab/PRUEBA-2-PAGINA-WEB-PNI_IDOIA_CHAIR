@@ -5,7 +5,7 @@ date: 2026-10-19 08:00:00 +02:00
 slug: cansancio-que-hay-detras
 image: /img/blog/cansancio-cronico-causas-pni.jpg
 image_alt: 'Ilustración de una mujer agotada apoyada en la mesa junto al portátil, con una batería baja: cansancio que no se va al dormir'
-category: Inmunológico
+category: "Inmune"
 tags:
   - cansancio
   - fatiga
