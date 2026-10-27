@@ -1,18 +1,20 @@
 ---
-title: "¿Siempre te resfrías en invierno? Lo que de verdad cuida tus defensas"
+title: "¿Siempre te resfrías en invierno? Prepara tus defensas desde el otoño"
 excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te explico qué dice la ciencia."
-date: 2026-11-30 08:00:00 +01:00
+date: 2026-11-09 08:00:00 +01:00
 slug: "defensas-invierno-resfriados"
 category: "Inmune"
 tags: ["defensas", "sistema inmune", "resfriados", "vitamina D", "sueño"]
-meta_title: "Defensas en invierno: por qué te resfrías tanto y qué hacer | Idoia Chair"
+meta_title: "Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair"
 meta_description: "Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Qué dice la evidencia y cómo cuidar tus defensas desde la PNI."
 published: false
 ---
 
-Llega diciembre y empieza la cadena: un resfriado, luego otro, una tos que no se va… Mientras, hay personas a tu alrededor que pasan el invierno sin un estornudo.
+Empieza el otoño, llegan los primeros fríos y, con ellos, la cadena de siempre: un resfriado, luego otro, una tos que no se va hasta la primavera… Mientras, hay personas a tu alrededor que pasan el invierno sin un estornudo.
 
 No es solo cuestión de suerte. Los virus son los mismos para todos, pero **cómo responde tu sistema inmune depende mucho de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
+
+Y el mejor momento para cuidarlas no es cuando ya estás con el pañuelo en la mano: es ahora, antes de que llegue el invierno.
 
 ## 1. El sueño: la pieza que más se subestima
 
@@ -24,7 +26,7 @@ Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimie
 
 ## 2. La vitamina D
 
-En invierno hay menos horas de sol y pasamos más tiempo dentro, así que es frecuente que la vitamina D baje. Un gran análisis que reunió los datos de más de 10.000 personas encontró que **corregir la vitamina D reducía las infecciones respiratorias**, sobre todo en quienes partían de niveles bajos.
+Desde el otoño hay menos horas de sol y pasamos más tiempo dentro, así que es frecuente que la vitamina D baje. Un gran análisis que reunió los datos de más de 10.000 personas encontró que **corregir la vitamina D reducía las infecciones respiratorias**, sobre todo en quienes partían de niveles bajos.
 
 Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya en tu próxima analítica.
 
@@ -44,7 +46,7 @@ El ejercicio moderado y regular mejora la vigilancia del sistema inmune: las cé
 
 No hace falta entrenar para una maratón: caminar a buen ritmo, subir escaleras o hacer algo de fuerza, de forma constante, ya suma.
 
-**Pista:** en invierno te mueves mucho menos que en verano.
+**Pista:** en cuanto llega el frío, te mueves mucho menos que en verano.
 
 ## Lo que puedes hacer desde hoy
 
