@@ -34,7 +34,11 @@ Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya 
 
 Gran parte de las células del sistema inmune vive en el intestino. Por eso lo que comes influye en tus defensas más de lo que parece.
 
-Una forma sencilla de cuidarlo son los **alimentos fermentados**: yogur natural, kéfir, chucrut, kimchi… Tomarlos a diario hace que tu microbiota sea más variada y ayuda a **bajar la inflamación**.
+Lo primero es **comer variado**. Cuantos más vegetales distintos entran en tu semana (verduras, frutas, legumbres, frutos secos, semillas, hierbas…), más variada es tu microbiota, y una microbiota variada es una de las mejores aliadas de tus defensas.
+
+Aquí la **fruta y la verdura de temporada** te lo ponen fácil: en otoño e invierno tienes calabaza, boniato, coles, brócoli, alcachofa, puerro, granada, mandarinas, naranjas, kiwis… Es cuando están en su mejor momento, más sabrosas y a mejor precio, y si vas cambiando con las estaciones, comes variado sin darte cuenta.
+
+Otra forma sencilla de cuidarlo son los **alimentos fermentados**: yogur natural, kéfir, chucrut, kimchi… Tomarlos a diario hace que tu microbiota sea más variada y ayuda a **bajar la inflamación**.
 
 **Pista:** tienes la digestión alterada a menudo y también caes enferma con facilidad.
 
@@ -51,7 +55,7 @@ No hace falta entrenar para una maratón: caminar a buen ritmo, subir escaleras 
 - **Protege tus horas de sueño**, sobre todo en las épocas de más carga.
 - **Revisa tu vitamina D** con tu médico.
 - **Añade algo fermentado a tu día**: un yogur natural, un poco de kéfir o de chucrut.
-- **Llena el plato de verdura y fruta variada**, que alimentan a tu microbiota.
+- **Llena el plato de fruta y verdura de temporada, y ve variando**, que alimentan a tu microbiota.
 - **Muévete a diario**, aunque haga frío.
 
 ## Qué miro en consulta
@@ -67,6 +71,7 @@ Si quieres entender mejor cómo se conectan el intestino y las defensas, puedes 
 - Prather AA, Janicki-Deverts D, Hall MH, Cohen S. Behaviorally Assessed Sleep and Susceptibility to the Common Cold. *Sleep*. 2015;38(9):1353-1359. doi:10.5665/sleep.4968
 - Martineau AR et al. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. *BMJ*. 2017;356:i6583. doi:10.1136/bmj.i6583
 - Vighi G et al. Allergy and the gastrointestinal system. *Clin Exp Immunol*. 2008;153(Suppl 1):3-6.
+- McDonald D et al. American Gut: an Open Platform for Citizen Science Microbiome Research. *mSystems*. 2018;3(3):e00031-18. doi:10.1128/mSystems.00031-18
 - Wastyk HC et al. Gut-microbiota-targeted diets modulate human immune status. *Cell*. 2021;184(16):4137-4153. doi:10.1016/j.cell.2021.06.019
 - Nieman DC, Wentz LM. The compelling link between physical activity and the body's defense system. *J Sport Health Sci*. 2019;8(3):201-217. doi:10.1016/j.jshs.2018.09.009
 
