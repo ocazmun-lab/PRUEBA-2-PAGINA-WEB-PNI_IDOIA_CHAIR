@@ -12,7 +12,7 @@ tags:
   - hormonal
   - inflamación
   - PNI
-meta_title: 'Dolor de regla: por qué no es normal y qué hacer desde la PNI | Idoia Chair'
+meta_title: 'Dolor de regla: por qué no es normal | Idoia Chair'
 meta_description: 'Por qué duele la regla: inflamación, relación con el intestino, sensibilización del sistema nervioso y endometriosis. Ideas con respaldo científico desde la PNI.'
 published: true
 ---
