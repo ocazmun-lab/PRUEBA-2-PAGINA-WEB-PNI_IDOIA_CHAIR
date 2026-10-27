@@ -17,8 +17,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     format: "frontmatter"
     extension: "md"
-    summary: "{{date | date('DD/MM/YYYY')}} · {{title}}"
-    sortable_fields: ["date", "title"]
+    summary: "{{title}} · {{date | date('DD/MM/YYYY')}}"
+    sortable_fields:
+      fields: ["title", "date"]
+      default: {field: "title", direction: "ascending"}
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
@@ -48,8 +50,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     format: "frontmatter"
     extension: "md"
-    summary: "{{date | date('DD/MM/YYYY')}} · {{title}}"
-    sortable_fields: ["date", "title"]
+    summary: "{{title}} · {{date | date('DD/MM/YYYY')}}"
+    sortable_fields:
+      fields: ["title", "date"]
+      default: {field: "title", direction: "ascending"}
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Introducción / subtítulo", name: "excerpt", widget: "text", required: false, hint: "Se muestra en el listado del blog y como meta description si no rellenas una específica abajo"}
