@@ -34,9 +34,9 @@ Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya 
 
 Gran parte de las células del sistema inmune vive en el intestino. Por eso lo que comes influye en tus defensas más de lo que parece.
 
-Lo primero es **comer variado**. Cuantos más vegetales distintos entran en tu semana (verduras, frutas, legumbres, frutos secos, semillas, hierbas…), más variada es tu microbiota, y una microbiota variada es una de las mejores aliadas de tus defensas.
+Lo primero es **comer variado**. Cuantos más vegetales distintos entran en tu semana (verduras, frutas, frutos secos, semillas, especias…), más variada es tu microbiota, y una microbiota variada es una de las mejores aliadas de tus defensas.
 
-Aquí la **fruta y la verdura de temporada** te lo ponen fácil: en otoño e invierno tienes calabaza, boniato, coles, brócoli, alcachofa, puerro, granada, mandarinas, naranjas, kiwis… Es cuando están en su mejor momento, más sabrosas y a mejor precio, y si vas cambiando con las estaciones, comes variado sin darte cuenta.
+Aquí la **fruta y la verdura de temporada** te lo ponen fácil: en otoño e invierno tienes calabaza, boniato, coles, brócoli, alcachofa, puerro, granada, mandarinas, naranjas, kiwis… Es cuando están en su mejor momento, y si vas cambiando con las estaciones, comes variado sin darte cuenta.
 
 Otra forma sencilla de cuidarlo son los **alimentos fermentados**: yogur natural, kéfir, chucrut, kimchi… Tomarlos a diario hace que tu microbiota sea más variada y ayuda a **bajar la inflamación**.
 
