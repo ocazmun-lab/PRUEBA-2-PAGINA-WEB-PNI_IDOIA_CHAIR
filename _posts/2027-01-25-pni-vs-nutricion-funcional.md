@@ -37,17 +37,17 @@ La nutrición funcional surge de la **medicina funcional**, un modelo que se des
 
 La diferencia está en el foco. En la PNI, la alimentación es una pieza importante, pero **tan importante como el sistema nervioso, el sistema inmune y lo que vives.**
 
-Un ejemplo que verás en muchos de mis artículos: el estrés puede hacer que tu intestino se vuelva más permeable a través del sistema inmune. Desde la PNI, eso significa que **puedes comer perfecto y seguir con síntomas** si no se tiene en cuenta el resto. Por eso en consulta miro también cómo duermes, cómo te mueves y cómo te afecta el estrés, además de lo que comes.
+Un ejemplo que verás en muchos de mis artículos: tu intestino no depende solo de lo que comes. El sueño, el movimiento, las hormonas y el sistema inmune también influyen en cómo funciona. Desde la PNI, eso significa que **puedes comer perfecto y seguir con síntomas** si no se tiene en cuenta el resto. Por eso en consulta miro también cómo duermes, cómo te mueves, cómo es tu ciclo y qué dicen tus analíticas, además de lo que comes.
 
 ## Cómo elegir según tu caso
 
 - Si lo que buscas es sobre todo **una pauta de alimentación**, por ejemplo para tu composición corporal o tu rendimiento, un enfoque nutricional puede ser un buen punto de partida.
-- Si arrastras **síntomas digestivos, hormonales o de cansancio** que no terminan de explicarse, y notas que empeoran con el estrés o el mal descanso, la PNI ofrece una mirada más amplia.
+- Si arrastras **síntomas digestivos, hormonales o de cansancio** que no terminan de explicarse, y notas que empeoran con el mal descanso o en épocas de más carga, la PNI ofrece una mirada más amplia.
 - En muchos casos **no compiten: se complementan.** Lo importante es que el profesional mire el conjunto y trabaje en coordinación con tu médico.
 
-## Mi caso
+## Cómo trabajo yo
 
-Yo llegué a la PNI desde la fisioterapia y la osteopatía. Por eso, además de la parte de alimentación, hábitos y sistema nervioso, tengo muy presente **la parte corporal**: el diafragma, la musculatura abdominal, la postura y el movimiento.
+En mi consulta, la alimentación es una pieza más de un todo: miro cómo se hablan tu intestino, tus hormonas, tu sistema inmune y tu descanso, y busco la raíz de lo que te pasa. Y tengo muy presente **la parte corporal**: el diafragma, la musculatura abdominal, la postura y el movimiento.
 
 Si quieres saber cómo es una consulta conmigo, puedes leer [cómo funciona la consulta de PNI online](/blog/consulta-pni-online/), o volver a los fundamentos en [¿qué es la Psiconeuroinmunología?](/blog/que-es-la-pni/).
 
@@ -56,7 +56,6 @@ Si quieres saber cómo es una consulta conmigo, puedes leer [cómo funciona la c
 ## Referencias
 
 - Ader R, Cohen N. Behaviorally conditioned immunosuppression. *Psychosom Med*. 1975;37(4):333-340.
-- Vanuytsel T et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. *Gut*. 2014;63(8):1293-1299.
 - Institute for Functional Medicine. What is Functional Medicine? [Enlace](https://www.ifm.org/functional-medicine/)
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._

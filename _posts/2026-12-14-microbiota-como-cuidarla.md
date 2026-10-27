@@ -10,6 +10,10 @@ meta_description: "Qué es la microbiota, por qué influye en tu digestión, tus
 published: false
 ---
 
+¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, legumbres, frutos secos, semillas, hierbas… ¿Llegas a 30?
+
+Si te has quedado lejos, tranquila: es lo más habitual. Pero ese número tiene su porqué, y tiene que ver con algo que influye en tu digestión, tus defensas y tu inflamación más de lo que imaginas.
+
 En tu intestino viven billones de bacterias, hongos y otros microorganismos. No son intrusos: son tus aliados. Juntos forman tu **microbiota**, y cada vez sabemos más de lo mucho que influyen en tu salud.
 
 ## Qué hace tu microbiota por ti

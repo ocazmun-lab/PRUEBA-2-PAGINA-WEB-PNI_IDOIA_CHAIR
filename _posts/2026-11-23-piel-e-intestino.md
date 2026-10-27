@@ -14,7 +14,7 @@ Has probado cremas, limpiadoras, sérums, cambiar de maquillaje… y tu piel sig
 
 La piel es el órgano que vemos, pero no funciona sola. Cada vez hay más estudios que la relacionan con algo que no se ve: **tu intestino.**
 
-## El eje intestino-piel
+## ¿Qué tienen que ver tu piel y tu intestino?
 
 El intestino y la piel tienen mucho en común: los dos son barreras entre tu cuerpo y el exterior, los dos tienen su propia microbiota y los dos están muy conectados con el sistema inmune.
 
@@ -22,15 +22,15 @@ Cuando el intestino está alterado, puede aumentar la inflamación en el resto d
 
 ## Lo que dice la ciencia
 
-### Acné y alimentación
+### ¿Influye lo que comes en el acné?
 En un ensayo clínico, los jóvenes con acné que siguieron una alimentación con **menos azúcares y harinas refinadas** durante 12 semanas redujeron sus lesiones más que el grupo control.
 
 Con los lácteos hay matices: un análisis de varios estudios encontró que **la leche**, sobre todo la desnatada, se asociaba a más acné, pero **no el yogur ni el queso**.
 
-### Rosácea e intestino
+### ¿Qué tiene que ver la rosácea con el intestino?
 En las personas con rosácea, el **SIBO** (sobrecrecimiento bacteriano en el intestino delgado) aparece con más frecuencia que en la población general. Es un ejemplo claro de cómo un problema digestivo puede tener reflejo en la piel.
 
-### Celiaquía y piel
+### ¿Puede la celiaquía dar la cara en la piel?
 La celiaquía puede manifestarse en la piel con una erupción muy concreta, la dermatitis herpetiforme. A veces es la primera señal, incluso sin síntomas digestivos.
 
 ## Pistas de que tu piel y tu intestino pueden ir de la mano

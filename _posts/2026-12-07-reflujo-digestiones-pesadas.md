@@ -48,7 +48,7 @@ En un estudio, a personas con reflujo se les puso la misma cantidad de ácido en
 
 ## El diafragma: la parte que casi nadie trabaja
 
-Como el diafragma ayuda a cerrar la válvula, entrenarlo puede ayudar. En un ensayo clínico, personas con reflujo que hicieron **ejercicios de respiración abdominal** durante cuatro semanas redujeron la exposición al ácido, mejoraron su calidad de vida y, nueve meses después, necesitaban mucho menos tratamiento que el grupo que no los hizo. Es un estudio pequeño, pero muy interesante, y es una herramienta que como fisioterapeuta puedo enseñarte.
+Como el diafragma ayuda a cerrar la válvula, entrenarlo puede ayudar. En un ensayo clínico, personas con reflujo que hicieron **ejercicios de respiración abdominal** durante cuatro semanas redujeron la exposición al ácido, mejoraron su calidad de vida y, nueve meses después, necesitaban mucho menos tratamiento que el grupo que no los hizo. Es un estudio pequeño, pero muy interesante, y es una herramienta que trabajo en consulta.
 
 ## Digestiones pesadas: descarta el Helicobacter
 
