@@ -12,7 +12,7 @@ published: false
 
 Empieza el otoño, llegan los primeros fríos y, con ellos, la cadena de siempre: un resfriado, luego otro, una tos que no se va hasta la primavera… Mientras, hay personas a tu alrededor que pasan el invierno sin un estornudo.
 
-No es solo cuestión de suerte. Los virus son los mismos para todos, pero **cómo responde tu sistema inmune depende mucho de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
+No es solo cuestión de suerte. **Que un virus te tumbe o pase de largo depende, en buena parte, de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
 
 Y el mejor momento para cuidarlas no es cuando ya estás con el pañuelo en la mano: es ahora, antes de que llegue el invierno.
 
