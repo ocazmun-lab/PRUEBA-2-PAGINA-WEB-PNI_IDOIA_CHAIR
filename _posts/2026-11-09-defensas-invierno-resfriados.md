@@ -1,12 +1,12 @@
 ---
 title: "¿Siempre te resfrías en invierno? Prepara tus defensas desde el otoño"
-excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te explico qué dice la ciencia."
+excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te cuento qué puedes cuidar desde ya."
 date: 2026-11-09 08:00:00 +01:00
 slug: "defensas-invierno-resfriados"
 category: "Inmune"
 tags: ["defensas", "sistema inmune", "resfriados", "vitamina D", "sueño"]
 meta_title: "Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair"
-meta_description: "Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Qué dice la evidencia y cómo cuidar tus defensas desde la PNI."
+meta_description: "Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Cómo cuidar tus defensas desde la PNI antes de que llegue el invierno."
 published: false
 ---
 
@@ -18,15 +18,13 @@ Y el mejor momento para cuidarlas no es cuando ya estás con el pañuelo en la m
 
 ## 1. El sueño: la pieza que más se subestima
 
-En un estudio, se midió durante una semana cuánto dormían 164 adultos sanos y después se les expuso, de forma controlada, al virus del resfriado. Quienes dormían **menos de 6 horas tenían más de 4 veces más probabilidades de resfriarse** que quienes dormían más de 7.
-
-Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimiento. Si el sueño se queda corto un día tras otro, tus defensas lo notan.
+Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimiento. Si el sueño se queda corto un día tras otro, tus defensas lo notan: **cuando duermes menos de 6 horas, es mucho más fácil que un virus te tumbe** que cuando duermes 7 o más.
 
 **Pista:** encadenas resfriados en las épocas en que peor duermes.
 
 ## 2. La vitamina D
 
-Desde el otoño hay menos horas de sol y pasamos más tiempo dentro, así que es frecuente que la vitamina D baje. Un gran análisis que reunió los datos de más de 10.000 personas encontró que **corregir la vitamina D reducía las infecciones respiratorias**, sobre todo en quienes partían de niveles bajos.
+Desde el otoño hay menos horas de sol y pasamos más tiempo dentro, así que es frecuente que la vitamina D baje. Y la vitamina D participa en cómo se defiende tu cuerpo: **cuando está baja y se corrige, hay menos infecciones respiratorias.**
 
 Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya en tu próxima analítica.
 
@@ -36,7 +34,7 @@ Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya 
 
 Gran parte de las células del sistema inmune vive en el intestino. Por eso lo que comes influye en tus defensas más de lo que parece.
 
-En un ensayo de la Universidad de Stanford, las personas que añadieron **alimentos fermentados** a su día a día (yogur natural, kéfir, chucrut, kimchi…) aumentaron la diversidad de su microbiota y **redujeron sus marcadores de inflamación**.
+Una forma sencilla de cuidarlo son los **alimentos fermentados**: yogur natural, kéfir, chucrut, kimchi… Tomarlos a diario hace que tu microbiota sea más variada y ayuda a **bajar la inflamación**.
 
 **Pista:** tienes la digestión alterada a menudo y también caes enferma con facilidad.
 
