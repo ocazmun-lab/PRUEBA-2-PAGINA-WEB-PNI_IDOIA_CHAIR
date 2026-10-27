@@ -1,7 +1,7 @@
 ---
 title: "Estreñimiento: cuando la fibra y el agua no son suficientes"
 excerpt: "Cómo saber si es estreñimiento, qué dicen tus heces según la escala de Bristol, por qué ocurre y qué ayuda según la evidencia. Desde la Psiconeuroinmunología."
-date: 2026-11-30 08:00:00 +01:00
+date: 2027-01-18 08:00:00 +01:00
 slug: "estrenimiento-cronico-pni"
 image: "/img/blog/estrenimiento-cronico-pni.jpg"
 image_alt: "Hidratación y estreñimiento crónico, enfoque PNI"

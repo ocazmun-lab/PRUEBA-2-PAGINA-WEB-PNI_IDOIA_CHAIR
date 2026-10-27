@@ -1,7 +1,7 @@
 ---
 title: "¿Siempre te resfrías en invierno? Lo que de verdad cuida tus defensas"
 excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te explico qué dice la ciencia."
-date: 2026-12-14 08:00:00 +01:00
+date: 2026-11-30 08:00:00 +01:00
 slug: "defensas-invierno-resfriados"
 category: "Inmune"
 tags: ["defensas", "sistema inmune", "resfriados", "vitamina D", "sueño"]

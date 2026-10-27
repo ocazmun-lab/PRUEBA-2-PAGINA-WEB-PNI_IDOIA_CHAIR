@@ -1,7 +1,7 @@
 ---
 title: "Tu microbiota: qué es, por qué importa tanto y 5 formas de cuidarla"
 excerpt: "Billones de bacterias que influyen en tu digestión, tus defensas y tu inflamación. Qué dice la ciencia sobre cómo cuidarlas de verdad."
-date: 2027-01-11 08:00:00 +01:00
+date: 2026-12-14 08:00:00 +01:00
 slug: "microbiota-como-cuidarla"
 category: "Digestivo"
 tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]
