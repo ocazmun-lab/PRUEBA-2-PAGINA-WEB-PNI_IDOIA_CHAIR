@@ -3,6 +3,8 @@ title: "¿Siempre te resfrías en invierno? Prepara tus defensas desde el otoño
 excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te cuento qué puedes cuidar desde ya."
 date: 2026-11-09 08:00:00 +01:00
 slug: "defensas-invierno-resfriados"
+image: "/img/blog/defensas-otono-invierno-resfriados.jpg"
+image_alt: "Familia resfriada en el sofá con mantas, pañuelos e infusiones en otoño"
 category: "Inmune"
 tags: ["defensas", "sistema inmune", "resfriados", "vitamina D", "sueño"]
 meta_title: "Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair"
