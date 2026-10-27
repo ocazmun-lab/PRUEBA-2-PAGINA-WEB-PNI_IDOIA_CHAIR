@@ -19,7 +19,7 @@ published: true
 
 "Es normal que la regla duela." Seguramente lo has oído desde la adolescencia. Y quizá por eso llevas años aguantando, con la manta eléctrica y organizando tu vida alrededor de esos días.
 
-El dolor menstrual afecta a entre el 45 y el 95 % de las mujeres que menstrúan, según los estudios. Que sea tan frecuente no significa que sea normal: **significa que se ha normalizado.** Y precisamente por eso muchas veces ni las propias mujeres ni los profesionales le dan importancia.
+El dolor menstrual afecta a entre el 45 y el 95 % de las mujeres que menstrúan. Que sea tan frecuente no significa que sea normal: **significa que se ha normalizado.** Y precisamente por eso muchas veces ni las propias mujeres ni los profesionales le dan importancia.
 
 Desde la Psiconeuroinmunología (PNI), el dolor de regla no es un problema de un solo órgano: es el resultado de varios sistemas que se hablan entre sí. Estas son 4 cosas que la ciencia sabe y casi nadie te ha contado.
 
@@ -27,25 +27,25 @@ Desde la Psiconeuroinmunología (PNI), el dolor de regla no es un problema de un
 
 Al final del ciclo, cuando bajan las hormonas, el endometrio (la capa que recubre el útero) libera **prostaglandinas**, unas sustancias inflamatorias que hacen que el útero se contraiga para desprenderse.
 
-Pero eso solo es el punto de partida. En un estudio con casi 3.000 mujeres, las que tenían más alta la proteína C reactiva (un marcador de inflamación en sangre) referían con más frecuencia calambres y dolor lumbar con la regla, además de hinchazón y cambios de humor. Es un estudio observacional, pero encaja con la idea central de la PNI: **un cuerpo con más inflamación de base vive la regla con más síntomas.**
+Pero eso solo es el punto de partida. Las mujeres con más inflamación en sangre (por ejemplo, con la proteína C reactiva más alta) suelen tener más calambres y dolor lumbar con la regla, además de hinchazón y cambios de humor. Encaja con una idea central de la PNI: **un cuerpo con más inflamación de base vive la regla con más síntomas.**
 
 ## 2. Tu intestino y tu regla van de la mano
 
 Si con la regla tienes diarrea, náuseas o hinchazón, no es casualidad: las prostaglandinas no solo actúan sobre el útero, **también sobre el intestino**, y por eso los síntomas digestivos son tan frecuentes esos días.
 
-Y la relación va más allá: en un estudio que siguió a mujeres durante 10 años, el **colon irritable era bastante más frecuente en las mujeres con regla dolorosa**, y el dolor menstrual formaba parte del cuadro en la mayoría de las mujeres con colon irritable. Por eso, cuando una mujer me cuenta que le duele la regla, siempre le pregunto también por su digestión.
+Y la relación va más allá: **el colon irritable es bastante más frecuente en las mujeres con regla dolorosa**, y la mayoría de las mujeres con colon irritable tienen también reglas que duelen. Por eso, cuando una mujer me cuenta que le duele la regla, siempre le pregunto también por su digestión.
 
 ## 3. Tu cuerpo aprende a doler
 
-Este es quizá el dato más sorprendente. Varios estudios han visto que las mujeres con reglas muy dolorosas **son más sensibles al dolor durante todo el mes**, no solo durante la regla, y también en zonas alejadas del abdomen, como el brazo.
+Este es quizá el dato más sorprendente. Las mujeres con reglas muy dolorosas **son más sensibles al dolor durante todo el mes**, no solo durante la regla, y también en zonas alejadas del abdomen, como el brazo.
 
-En uno de ellos, con resonancia magnética, su cerebro procesaba el dolor de forma distinta, con un patrón parecido al de otros dolores crónicos. Cuando el dolor se repite mes tras mes, el sistema nervioso aprende a amplificarlo. Por eso no conviene normalizarlo.
+Incluso su cerebro procesa el dolor de forma distinta, con un patrón parecido al de otros dolores crónicos. Cuando el dolor se repite mes tras mes, el sistema nervioso aprende a amplificarlo. Por eso no conviene normalizarlo.
 
 ## 4. A veces hay algo más: la endometriosis
 
 No todo dolor de regla es igual. El **primario** no tiene una enfermedad detrás y suele empezar en la adolescencia, poco después de las primeras reglas. El **secundario** sí tiene una causa, como endometriosis, adenomiosis, miomas o pólipos, y puede aparecer más tarde, incluso a los 30 o 40 años.
 
-La **endometriosis** afecta aproximadamente a 1 de cada 10 mujeres en edad reproductiva, y según la Organización Mundial de la Salud se tarda de media **entre 4 y 12 años** en diagnosticarla, en parte porque el dolor se normaliza.
+La **endometriosis** afecta aproximadamente a 1 de cada 10 mujeres en edad reproductiva, y se tarda de media **entre 4 y 12 años** en diagnosticarla, en parte porque el dolor se normaliza.
 
 Consulta con tu ginecóloga si:
 
@@ -56,7 +56,7 @@ Consulta con tu ginecóloga si:
 
 ## Desde la PNI, se mira todo
 
-Inflamación, intestino, sistema nervioso, alimentación: el dolor de regla es el resultado de varias piezas que se influyen entre sí. Incluso cómo has vivido el último mes puede notarse: en un estudio, las mujeres con mucho estrés en un ciclo tenían más probabilidad de una regla dolorosa en el siguiente.
+Inflamación, intestino, sistema nervioso, alimentación: el dolor de regla es el resultado de varias piezas que se influyen entre sí. Incluso cómo has vivido el último mes puede notarse: un ciclo con mucho estrés hace más probable que la regla siguiente duela más.
 
 Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
 
@@ -64,14 +64,14 @@ Por eso no basta con mirar el útero: hay que mirar a la mujer entera.
 
 **Esos días**
 
-- **Calor.** Una bolsa de agua caliente en la tripa o en los riñones. En una revisión de ensayos clínicos, el calor local alivió el dolor de forma clara.
-- **Masaje suave.** Círculos lentos sobre la tripa los primeros días. Una revisión de 32 ensayos vio que el masaje y la terapia manual alivian el dolor a corto plazo. La calidad de los estudios todavía es baja, pero es una medida segura.
+- **Calor.** Una bolsa de agua caliente en la tripa o en los riñones. Es de lo que más alivia, y de forma clara.
+- **Masaje suave.** Círculos lentos sobre la tripa los primeros días. Ayuda a aliviar el dolor en el momento, y es una medida segura.
 
 **Todo el mes**
 
-- **Muévete**, no solo cuando duele: caminar, estiramientos, yoga… Una revisión Cochrane encontró que el ejercicio regular, incluido el de baja intensidad como el yoga o los estiramientos, reducía de forma importante la intensidad del dolor. La calidad de la evidencia es baja, pero es una medida segura y con muchos otros beneficios.
-- **Omega-3**, con pescado azul en tu alimentación o en forma de suplemento. En una revisión de ensayos con casi 900 mujeres, tomarlo de forma continuada durante 2 o 3 meses redujo el dolor menstrual.
-- **Come regular**, sin saltarte comidas ni hacer dietas para adelgazar. En los estudios observacionales, saltarse comidas se asocia a más dolor, y comer más fruta, verdura y pescado, a menos.
+- **Muévete**, no solo cuando duele: caminar, estiramientos, yoga… El ejercicio regular, también el suave, reduce la intensidad del dolor de regla, y además tiene muchos otros beneficios.
+- **Omega-3**, con pescado azul en tu alimentación o en forma de suplemento. Tomarlo de forma continuada durante 2 o 3 meses ayuda a que la regla duela menos.
+- **Come regular**, sin saltarte comidas ni hacer dietas para adelgazar. Saltarse comidas se asocia a más dolor, y comer más fruta, verdura y pescado, a menos.
 - **Apunta tus síntomas cada ciclo**: dolor, digestión, energía. Te ayuda a ver tu propio patrón y es muy útil para la consulta.
 
 ## Qué miro en consulta
