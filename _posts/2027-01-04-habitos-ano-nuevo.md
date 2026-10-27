@@ -16,11 +16,11 @@ No es falta de fuerza de voluntad. **El problema suele ser el planteamiento.**
 
 ## Un hábito no se crea en 21 días
 
-Seguro que has oído que un hábito tarda 21 días en formarse. La ciencia dice otra cosa. En un estudio de la University College London, las personas tardaron **de media 66 días** en que un nuevo hábito se volviera automático, y el rango fue enorme: **de 18 a 254 días**, según la persona y lo que intentaba cambiar.
+Seguro que has oído que un hábito tarda 21 días en formarse. No es así. De media, un hábito nuevo tarda **unos 2 meses** en volverse automático, y puede ir **de unas pocas semanas a más de 8 meses**, según la persona y lo que intenta cambiar.
 
 Es decir: si a las tres semanas todavía te cuesta, no estás haciendo nada mal. Es lo normal.
 
-Y una buena noticia del mismo estudio: **saltarte un día no echaba por tierra el proceso.** Lo que cuenta es retomarlo.
+Y una buena noticia: **saltarte un día no echa por tierra el proceso.** Lo que cuenta es retomarlo.
 
 ## Por qué fallan los cambios radicales
 
@@ -34,7 +34,7 @@ Desde la PNI lo vemos así: tu cuerpo necesita **constancia**, no heroicidades d
 Mejor añadir una ración de verdura a la cena que "cambiar toda la alimentación". Mejor caminar 15 minutos que apuntarte a cinco clases a la semana. Lo pequeño se mantiene; lo grande se abandona.
 
 ### 2. Decide cuándo y dónde
-Un análisis de casi 100 estudios encontró que las personas que concretan **"cuando pase X, haré Y"** cumplen mucho más sus objetivos que las que solo tienen la intención. Por ejemplo: "cuando deje a los niños en el cole, daré un paseo de 15 minutos".
+Cuando concretas **"cuando pase X, haré Y"**, cumples mucho más tus objetivos que si solo tienes la intención. Por ejemplo: "cuando deje a los niños en el cole, daré un paseo de 15 minutos".
 
 ### 3. Engánchalo a algo que ya haces
 Los hábitos nuevos se asientan mejor si van pegados a uno que ya tienes: después del café, al llegar a casa, al recoger la cena.

@@ -47,11 +47,11 @@ Fijarte en el tipo durante unas semanas te da mucha información, y es muy útil
 
 ## Mito 1: "bebe más agua"
 
-El agua ayuda, pero sobre todo **cuando bebías poco**. En un ensayo con personas con estreñimiento que seguían una dieta rica en fibra, las que bebían unos 2 litros de agua al día mejoraron más que las que bebían en torno a 1 litro. Es decir: el agua potencia la fibra, pero beber de más no soluciona el estreñimiento por sí solo.
+El agua ayuda, pero sobre todo **cuando bebías poco**. Con una alimentación rica en fibra, beber unos 2 litros de agua al día ayuda más que quedarte en 1 litro. Es decir: el agua potencia la fibra, pero beber de más no soluciona el estreñimiento por sí solo.
 
 ## Mito 2: "cualquier fibra vale"
 
-No toda la fibra funciona igual. Una revisión de ensayos clínicos encontró que la fibra ayuda, pero sobre todo:
+No toda la fibra funciona igual. La fibra ayuda, pero sobre todo:
 
 - **El psyllium** (un tipo de fibra soluble).
 - **En dosis de más de 10 gramos al día.**
@@ -63,26 +63,26 @@ También vio que la fibra puede dar más gases, así que conviene introducirla p
 
 En algunas personas el problema no es que el intestino se mueva poco, sino que **los músculos del suelo pélvico no se coordinan bien al ir al baño**: en lugar de relajarse, se contraen. Se llama **disinergia defecatoria**, y la fibra no la soluciona.
 
-La buena noticia es que se puede reeducar. En un ensayo clínico, el entrenamiento con **biofeedback** (aprender a coordinar esos músculos con ayuda de un aparato) corrigió esa descoordinación con mucha más frecuencia que el tratamiento habitual con dieta, ejercicio y laxantes.
+La buena noticia es que se puede reeducar. El entrenamiento con **biofeedback** (aprender a coordinar esos músculos con ayuda de un aparato) corrige esa descoordinación mucho mejor que la dieta, el ejercicio y los laxantes.
 
 **Pistas:** tienes que hacer mucha fuerza aunque las heces no sean duras, notas que no terminas de vaciar, o necesitas ayudarte con la mano o cambiar de postura.
 
 ### La postura también cuenta
 
-En un estudio, usar un **taburete bajo los pies** al sentarse en el váter (para quedar en una postura más parecida a la de cuclillas) redujo el tiempo en el baño y el esfuerzo, y aumentó la sensación de vaciado completo.
+Usar un **taburete bajo los pies** al sentarse en el váter (para quedar en una postura más parecida a la de cuclillas) reduce el tiempo en el baño y el esfuerzo, y aumenta la sensación de vaciado completo.
 
 ## Lo que añade la PNI: todo influye en tu ritmo
 
 El movimiento del intestino depende de muchas piezas: el **sistema nervioso** que lo coordina, la **microbiota**, lo que comes, cuánto te mueves y hasta tus horarios. Por eso, desde la PNI, no se mira solo la fibra: se mira a la persona entera.
 
-## Qué puede ayudar, según la evidencia
+## Qué puede ayudar
 
 - **Un taburete** bajo los pies en el baño.
-- **2 kiwis al día.** En un ensayo con personas con estreñimiento, comer 2 kiwis verdes al día durante 4 semanas aumentó las deposiciones completas, con resultados comparables al psyllium y buena tolerancia.
+- **2 kiwis al día.** Comer 2 kiwis verdes al día durante unas semanas ayuda a ir al baño mejor y más completo, tanto como el psyllium, y se toleran bien.
 - **Psyllium u otra fibra adecuada**, introducida poco a poco y adaptada a ti.
 - **Ir al baño después del desayuno, sin prisa.** Al comer, el intestino se activa de forma natural, y es el mejor momento para aprovecharlo.
 - **Suficiente agua**, sobre todo si bebías poco.
-- **Moverte** cada día: una revisión de ensayos encontró que el ejercicio, sobre todo el aeróbico, mejora los síntomas.
+- **Moverte** cada día: el ejercicio, sobre todo el aeróbico, mejora los síntomas.
 - **Reeducar el suelo pélvico** con un fisioterapeuta especializado si hay disinergia.
 
 ## Cuándo acudir al médico

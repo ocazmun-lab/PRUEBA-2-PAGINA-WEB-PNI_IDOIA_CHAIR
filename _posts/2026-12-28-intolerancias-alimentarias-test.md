@@ -22,7 +22,7 @@ Es una historia que veo muy a menudo en consulta. Y tiene una explicación.
 
 ## El problema de los test de IgG
 
-Muchos test de "intolerancias" que se venden miden unos anticuerpos llamados **IgG** frente a decenas de alimentos. Suena muy científico, pero las sociedades de alergia europea y canadiense son claras: **no sirven para diagnosticar intolerancias.**
+Muchos test de "intolerancias" que se venden miden unos anticuerpos llamados **IgG** frente a decenas de alimentos. Suena muy científico, pero **no sirven para diagnosticar intolerancias.**
 
 ¿Por qué? Porque tener IgG frente a un alimento suele indicar simplemente que **lo comes a menudo**: es una respuesta normal del cuerpo al contacto con ese alimento, no una señal de que te siente mal. Por eso estos test suelen "salir positivos" justo con lo que más comes.
 

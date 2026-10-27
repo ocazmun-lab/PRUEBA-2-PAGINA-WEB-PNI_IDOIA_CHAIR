@@ -18,11 +18,11 @@ Vamos a dejar algo claro desde el principio: **estas fechas son para disfrutar**
 
 Es muy común "guardarse" para la cena y pasar el día casi sin comer. El resultado suele ser llegar con muchísima hambre, comer muy rápido y mucha más cantidad de la que tu estómago gestiona con comodidad.
 
-Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con hambre, pero no con ansiedad.
+Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con hambre, pero no con un hambre voraz.
 
 ## 2. Come despacio y mastica
 
-Parece un consejo de abuela, pero tiene respaldo: en un estudio, cuando las mismas mujeres comían despacio, **comían menos y se sentían igual de saciadas** que cuando comían rápido.
+Parece un consejo de abuela, pero funciona: cuando comes despacio, **comes menos y te quedas igual de saciada** que cuando comes rápido.
 
 Además, masticar bien es el primer paso de la digestión: cuanto mejor llega el alimento al estómago, menos trabajo tiene después. Suelta los cubiertos entre bocado y bocado y disfruta de la conversación.
 
@@ -32,13 +32,13 @@ En las comidas de fiesta hay de todo y en cantidad. No hace falta probarlo todo 
 
 ## 4. Da un paseo después de comer
 
-Es uno de los gestos más sencillos y más útiles. Un análisis de varios estudios encontró que **caminar un poco después de comer reduce la subida de glucosa** frente a quedarse sentada. Y moverte también ayuda a que el gas avance y a sentirte menos pesada.
+Es uno de los gestos más sencillos y más útiles. **Caminar un poco después de comer reduce la subida de glucosa** frente a quedarte sentada. Y moverte también ayuda a que el gas avance y a sentirte menos pesada.
 
 Basta con 10-15 minutos: una vuelta a la manzana, recoger la mesa, jugar con los peques.
 
 ## 5. Deja un rato antes de tumbarte
 
-Si sueles tener ardor o reflujo, este punto es para ti. En un estudio, las personas que **se acostaban menos de 3 horas después de cenar tenían mucho más reflujo** que las que dejaban más margen.
+Si sueles tener ardor o reflujo, este punto es para ti. **Acostarte menos de 3 horas después de cenar hace que tengas mucho más reflujo** que si dejas más margen.
 
 En las cenas largas no siempre es posible, pero intenta no irte a la cama nada más levantarte de la mesa.
 

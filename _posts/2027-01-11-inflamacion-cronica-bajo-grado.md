@@ -22,7 +22,7 @@ El problema aparece cuando la inflamación **no se apaga del todo**. Se queda en
 
 ## Por qué importa
 
-Un gran artículo de revisión publicado en la revista Nature Medicine relacionaba la inflamación crónica de bajo grado con muchas de las enfermedades más frecuentes: diabetes tipo 2, enfermedad cardiovascular, hígado graso, algunas enfermedades autoinmunes y neurodegenerativas.
+La inflamación crónica de bajo grado está relacionada con muchas de las enfermedades más frecuentes: diabetes tipo 2, enfermedad cardiovascular, hígado graso, algunas enfermedades autoinmunes y neurodegenerativas.
 
 Y antes de llegar a eso, suele dar señales más sutiles.
 

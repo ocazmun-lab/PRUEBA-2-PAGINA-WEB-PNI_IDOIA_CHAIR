@@ -31,7 +31,7 @@ Entre los dos hay una válvula, el esfínter esofágico inferior, que se abre pa
 
 ## Por qué aparece: casi siempre es una suma
 
-Las guías de gastroenterología describen varios factores que favorecen el reflujo. Casi nunca hay uno solo:
+Hay varios factores que favorecen el reflujo, y casi nunca hay uno solo:
 
 - **Comidas copiosas o cenar tarde.**
 - **Más presión en el abdomen**: sobrepeso, embarazo o ropa ajustada.
@@ -44,20 +44,20 @@ Por eso no hay una dieta igual para todas las personas: hay que buscar tus facto
 
 ## Lo que añade la PNI: no siempre es más ácido
 
-En un estudio, a personas con reflujo se les puso la misma cantidad de ácido en el esófago en distintas condiciones, y en algunas lo notaban **antes y con más intensidad**. Es decir: a veces el problema no es solo cuánto ácido sube, sino **lo sensible que está el esófago**, porque el sistema nervioso amplifica la señal. Es un mecanismo parecido al que vemos en la hinchazón y en el colon irritable.
+Con la misma cantidad de ácido, hay personas que lo notan **antes y con más intensidad**. A veces el problema no es solo cuánto ácido sube, sino **lo sensible que está el esófago**, porque el sistema nervioso amplifica la señal. Es un mecanismo parecido al que vemos en la hinchazón y en el colon irritable.
 
 ## El diafragma: la parte que casi nadie trabaja
 
-Como el diafragma ayuda a cerrar la válvula, entrenarlo puede ayudar. En un ensayo clínico, personas con reflujo que hicieron **ejercicios de respiración abdominal** durante cuatro semanas redujeron la exposición al ácido, mejoraron su calidad de vida y, nueve meses después, necesitaban mucho menos tratamiento que el grupo que no los hizo. Es un estudio pequeño, pero muy interesante, y es una herramienta que trabajo en consulta.
+Como el diafragma ayuda a cerrar la válvula, entrenarlo puede ayudar. Unas semanas de **ejercicios de respiración abdominal** pueden reducir el ácido que sube, mejorar cómo te encuentras y hacer que necesites menos tratamiento con el tiempo. Es una herramienta que trabajo en consulta.
 
 ## Digestiones pesadas: descarta el Helicobacter
 
-Si lo que tienes es sobre todo pesadez, saciedad rápida o dolor en la boca del estómago, el consenso europeo sobre *Helicobacter pylori* recomienda **descartar esta infección** antes de hablar de "dispepsia funcional". Es una prueba sencilla que puede pedirte tu médico.
+Si lo que tienes es sobre todo pesadez, saciedad rápida o dolor en la boca del estómago, conviene **descartar una infección por *Helicobacter pylori*** antes de hablar de "dispepsia funcional". Es una prueba sencilla que puede pedirte tu médico.
 
 ## Lo que puedes hacer
 
-- **Cenar 2 o 3 horas antes de acostarte**, como recomiendan las guías.
-- **Dormir sobre el lado izquierdo.** En un estudio que registró la postura durante la noche, sobre el lado izquierdo el esófago estaba expuesto al ácido mucho menos tiempo y lo limpiaba más rápido que boca arriba o sobre el lado derecho.
+- **Cenar 2 o 3 horas antes de acostarte.**
+- **Dormir sobre el lado izquierdo.** En esa postura el ácido sube menos tiempo y el esófago lo limpia más rápido que boca arriba o sobre el lado derecho.
 - **Elevar el cabecero de la cama** si los síntomas son nocturnos. No basta con poner más almohadas: hay que elevar la cama.
 - **Respiración diafragmática** unos minutos al día.
 - **Comer despacio y en raciones más pequeñas**, e identificar tus alimentos desencadenantes en lugar de seguir listas generales.

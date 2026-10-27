@@ -12,7 +12,7 @@ published: false
 
 Has probado cremas, limpiadoras, sérums, cambiar de maquillaje… y tu piel sigue igual. Granitos que vuelven, rojeces que aparecen sin motivo, una piel que reacciona a todo.
 
-La piel es el órgano que vemos, pero no funciona sola. Cada vez hay más estudios que la relacionan con algo que no se ve: **tu intestino.**
+La piel es el órgano que vemos, pero no funciona sola. Y cada vez sabemos más de su relación con algo que no se ve: **tu intestino.**
 
 ## ¿Qué tienen que ver tu piel y tu intestino?
 
@@ -20,12 +20,12 @@ El intestino y la piel tienen mucho en común: los dos son barreras entre tu cue
 
 Cuando el intestino está alterado, puede aumentar la inflamación en el resto del cuerpo, y la piel es uno de los lugares donde se nota. A esta conexión se la llama **eje intestino-piel**.
 
-## Lo que dice la ciencia
+## Lo que sabemos
 
 ### ¿Influye lo que comes en el acné?
-En un ensayo clínico, los jóvenes con acné que siguieron una alimentación con **menos azúcares y harinas refinadas** durante 12 semanas redujeron sus lesiones más que el grupo control.
+Comer **menos azúcares y harinas refinadas** reduce los granitos en las personas con acné. Es un cambio que suele empezar a notarse a los pocos meses.
 
-Con los lácteos hay matices: un análisis de varios estudios encontró que **la leche**, sobre todo la desnatada, se asociaba a más acné, pero **no el yogur ni el queso**.
+Con los lácteos hay matices: **la leche**, sobre todo la desnatada, se asocia a más acné, pero **el yogur y el queso, no**.
 
 ### ¿Qué tiene que ver la rosácea con el intestino?
 En las personas con rosácea, el **SIBO** (sobrecrecimiento bacteriano en el intestino delgado) aparece con más frecuencia que en la población general. Es un ejemplo claro de cómo un problema digestivo puede tener reflejo en la piel.

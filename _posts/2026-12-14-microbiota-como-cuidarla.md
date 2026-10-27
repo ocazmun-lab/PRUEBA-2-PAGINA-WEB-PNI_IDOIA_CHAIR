@@ -10,7 +10,7 @@ meta_description: "Qué es la microbiota, por qué influye en tu digestión, tus
 published: false
 ---
 
-¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, legumbres, frutos secos, semillas, hierbas… ¿Llegas a 30?
+¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, frutos secos, semillas, especias… ¿Llegas a 30?
 
 Si te has quedado lejos, tranquila: es lo más habitual. Pero ese número tiene su porqué, y tiene que ver con algo que influye en tu digestión, tus defensas y tu inflamación más de lo que imaginas.
 
@@ -32,21 +32,21 @@ Una microbiota sana no es la que tiene "bacterias buenas" concretas, sino la que
 ## 5 formas de cuidarla
 
 ### 1. Come 30 plantas distintas a la semana
-En el proyecto American Gut, con miles de participantes, las personas que comían **más de 30 tipos de vegetales distintos a la semana** tenían una microbiota más diversa que las que comían 10 o menos.
+Las personas que comen **más de 30 vegetales distintos a la semana** tienen una microbiota más variada que las que comen 10 o menos.
 
-Cuentan todas: verduras, frutas, frutos secos, semillas, hierbas aromáticas, especias, legumbres y cereales. Parece mucho, pero sumando se llega antes de lo que crees.
+Cuentan todas: verduras, frutas, frutos secos, semillas, especias y cereales. Parece mucho, pero sumando se llega antes de lo que crees.
 
 ### 2. Dale fibra
 La fibra es el alimento de tus bacterias. Cuando la fermentan, producen esas sustancias que cuidan tu intestino y regulan la inflamación. Verdura, fruta con piel, frutos secos y semillas son buenas fuentes.
 
 ### 3. Añade fermentados
-En un ensayo de Stanford, las personas que tomaron alimentos fermentados a diario durante 10 semanas **aumentaron la diversidad de su microbiota y redujeron sus marcadores de inflamación**. Yogur natural, kéfir, chucrut, kimchi o encurtidos fermentados son buenas opciones.
+Tomar alimentos fermentados a diario **hace tu microbiota más variada y ayuda a bajar la inflamación**. Yogur natural, kéfir, chucrut, kimchi o encurtidos fermentados son buenas opciones.
 
 ### 4. Menos ultraprocesados
-Algunos aditivos muy usados, como ciertos emulsionantes, alteraron la microbiota en un ensayo controlado en personas. Otra razón para que la base de tu alimentación sea comida de verdad.
+Algunos aditivos muy usados, como ciertos emulsionantes, alteran la microbiota. Otra razón para que la base de tu alimentación sea comida de verdad.
 
 ### 5. Muévete
-El ejercicio regular también cambia la microbiota: en un estudio, unas semanas de ejercicio aumentaron las bacterias productoras de esos ácidos grasos beneficiosos. Y al dejar de entrenar, el efecto se perdía.
+El ejercicio regular también cambia la microbiota: en pocas semanas aumentan las bacterias que producen esos ácidos grasos beneficiosos. Y si lo dejas, el efecto se pierde.
 
 ## ¿Y los probióticos?
 

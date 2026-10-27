@@ -28,7 +28,7 @@ No te lo estás imaginando. Y entender bien qué pasa en tu cuerpo es el primer 
 - **Pelo que se cae, piel seca, estreñimiento.**
 - Y la frase que más se repite: **"tu analítica está bien".**
 
-En un estudio con casi 1.000 personas que tomaban tratamiento para el hipotiroidismo, con la TSH en rango, **su bienestar era peor que el de personas de su misma edad y sexo sin tratamiento.** Las diferencias eran moderadas, pero reales.
+Y no es raro: muchas personas que toman su tratamiento, con la TSH en rango, **se encuentran peor que otras de su misma edad sin problemas de tiroides.** No es una diferencia enorme, pero es real.
 
 ## Qué es Hashimoto
 
@@ -59,10 +59,10 @@ En las enfermedades autoinmunes de tiroides es frecuente que falten algunos micr
 
 ## Detalles que marcan la diferencia
 
-- **Separa el tratamiento del café.** En un estudio, tomarlo con café o justo después redujo su absorción en torno a un 30 %. Las guías recomiendan tomarlo en ayunas, entre 30 y 60 minutos antes del desayuno. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
+- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, entre 30 y 60 minutos antes del desayuno. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
 - **Descarta la celiaquía** antes de quitar el gluten.
 - **Revisa hierro, vitamina D y B12** si sigues cansada.
-- **Si buscas embarazo, avisa a tu endocrino.** Las guías recomiendan ajustar la dosis en cuanto el test de embarazo es positivo.
+- **Si buscas embarazo, avisa a tu endocrino.** Normalmente hay que ajustar la dosis en cuanto el test de embarazo da positivo.
 
 ## Qué miro en consulta
 
