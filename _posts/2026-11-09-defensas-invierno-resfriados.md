@@ -12,20 +12,20 @@ tags:
   - resfriados
   - vitamina D
   - sueño
-meta_title: 'Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair'
+meta_title: 'Defensas en otoño: cómo prepararlas | Idoia Chair'
 meta_description: 'Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Cómo cuidar tus defensas desde la PNI antes de que llegue el invierno.'
 published: true
 ---
 
 Empieza el otoño, llegan los primeros fríos y, con ellos, la cadena de siempre: un resfriado, luego otro, una tos que no se va hasta la primavera… Mientras, hay personas a tu alrededor que pasan el invierno sin un estornudo.
 
-No es solo cuestión de suerte. **Que un virus te tumbe o pase de largo depende, en buena parte, de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
+No es solo cuestión de suerte. **Que un resfriado te pille o no depende, en buena parte, de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
 
 Y el mejor momento para cuidarlas no es cuando ya estás con el pañuelo en la mano: es ahora, antes de que llegue el invierno.
 
 ## 1. El sueño: la pieza que más se subestima
 
-Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimiento. Si el sueño se queda corto un día tras otro, tus defensas lo notan: **cuando duermes menos de 6 horas, es mucho más fácil que un virus te tumbe** que cuando duermes 7 o más.
+Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimiento. Si el sueño se queda corto un día tras otro, tus defensas lo notan: **si duermes menos de 6 horas, te resfrías con mucha más facilidad** que si duermes 7 o más.
 
 **Pista:** encadenas resfriados en las épocas en que peor duermes.
 
