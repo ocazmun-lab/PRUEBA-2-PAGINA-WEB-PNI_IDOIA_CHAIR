@@ -1,15 +1,20 @@
 ---
-title: "¿Siempre te resfrías en invierno? Prepara tus defensas desde el otoño"
-excerpt: "No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te cuento qué puedes cuidar desde ya."
+title: ¿Siempre te resfrías en invierno? Prepara tus defensas desde el otoño
+excerpt: 'No es mala suerte: el sueño, la vitamina D, el intestino y el movimiento influyen en cómo responde tu sistema inmune. Te cuento qué puedes cuidar desde ya.'
 date: 2026-11-09 08:00:00 +01:00
-slug: "defensas-invierno-resfriados"
-image: "/img/blog/defensas-otono-invierno-resfriados.jpg"
-image_alt: "Familia resfriada en el sofá con mantas, pañuelos e infusiones en otoño"
-category: "Inmune"
-tags: ["defensas", "sistema inmune", "resfriados", "vitamina D", "sueño"]
-meta_title: "Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair"
-meta_description: "Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Cómo cuidar tus defensas desde la PNI antes de que llegue el invierno."
-published: false
+slug: defensas-invierno-resfriados
+image: /img/blog/defensas-otono-invierno-resfriados.jpg
+image_alt: Familia resfriada en el sofá con mantas, pañuelos e infusiones en otoño
+category: Inmune
+tags:
+  - defensas
+  - sistema inmune
+  - resfriados
+  - vitamina D
+  - sueño
+meta_title: 'Defensas en otoño e invierno: por qué te resfrías tanto y qué hacer | Idoia Chair'
+meta_description: 'Por qué algunas personas se resfrían más: sueño, vitamina D, intestino y ejercicio. Cómo cuidar tus defensas desde la PNI antes de que llegue el invierno.'
+published: true
 ---
 
 Empieza el otoño, llegan los primeros fríos y, con ellos, la cadena de siempre: un resfriado, luego otro, una tos que no se va hasta la primavera… Mientras, hay personas a tu alrededor que pasan el invierno sin un estornudo.
@@ -34,7 +39,7 @@ Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya 
 
 ## 3. Tu intestino también defiende
 
-Gran parte de las células del sistema inmune vive en el intestino. Por eso lo que comes influye en tus defensas más de lo que parece.
+Gran parte de las células del sistema inmune viven en el intestino. Por eso lo que comes influye en tus defensas más de lo que parece.
 
 Lo primero es **comer variado**. Cuantos más vegetales distintos entran en tu semana (verduras, frutas, frutos secos, semillas, especias…), más variada es tu microbiota, y una microbiota variada es una de las mejores aliadas de tus defensas.
 
@@ -70,11 +75,11 @@ Si quieres entender mejor cómo se conectan el intestino y las defensas, puedes 
 
 ## Referencias
 
-- Prather AA, Janicki-Deverts D, Hall MH, Cohen S. Behaviorally Assessed Sleep and Susceptibility to the Common Cold. *Sleep*. 2015;38(9):1353-1359. doi:10.5665/sleep.4968
-- Martineau AR et al. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. *BMJ*. 2017;356:i6583. doi:10.1136/bmj.i6583
-- Vighi G et al. Allergy and the gastrointestinal system. *Clin Exp Immunol*. 2008;153(Suppl 1):3-6.
-- McDonald D et al. American Gut: an Open Platform for Citizen Science Microbiome Research. *mSystems*. 2018;3(3):e00031-18. doi:10.1128/mSystems.00031-18
-- Wastyk HC et al. Gut-microbiota-targeted diets modulate human immune status. *Cell*. 2021;184(16):4137-4153. doi:10.1016/j.cell.2021.06.019
-- Nieman DC, Wentz LM. The compelling link between physical activity and the body's defense system. *J Sport Health Sci*. 2019;8(3):201-217. doi:10.1016/j.jshs.2018.09.009
+- Prather AA, Janicki-Deverts D, Hall MH, Cohen S. Behaviorally Assessed Sleep and Susceptibility to the Common Cold. _Sleep_. 2015;38(9):1353-1359. doi:10.5665/sleep.4968
+- Martineau AR et al. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data. _BMJ_. 2017;356:i6583. doi:10.1136/bmj.i6583
+- Vighi G et al. Allergy and the gastrointestinal system. _Clin Exp Immunol_. 2008;153(Suppl 1):3-6.
+- McDonald D et al. American Gut: an Open Platform for Citizen Science Microbiome Research. _mSystems_. 2018;3(3):e00031-18. doi:10.1128/mSystems.00031-18
+- Wastyk HC et al. Gut-microbiota-targeted diets modulate human immune status. _Cell_. 2021;184(16):4137-4153. doi:10.1016/j.cell.2021.06.019
+- Nieman DC, Wentz LM. The compelling link between physical activity and the body's defense system. _J Sport Health Sci_. 2019;8(3):201-217. doi:10.1016/j.jshs.2018.09.009
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
