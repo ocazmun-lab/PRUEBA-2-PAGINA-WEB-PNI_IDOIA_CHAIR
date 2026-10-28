@@ -28,10 +28,10 @@ Comer **menos azúcares y harinas refinadas** reduce los granitos en las persona
 Con los lácteos hay matices: **la leche**, sobre todo la desnatada, se asocia a más acné, pero **el yogur y el queso, no**.
 
 ### ¿Qué tiene que ver la rosácea con el intestino?
-En las personas con rosácea, el **SIBO** (sobrecrecimiento bacteriano en el intestino delgado) aparece con más frecuencia que en la población general. Es un ejemplo claro de cómo un problema digestivo puede tener reflejo en la piel.
+En las personas con rosácea, el **SIBO** (sobrecrecimiento bacteriano en el intestino delgado) aparece con más frecuencia que en la población general. Y en muchos casos, cuando se trata el SIBO, la rosácea mejora. Es un ejemplo claro de cómo un problema digestivo puede tener reflejo en la piel.
 
 ### ¿Puede la celiaquía dar la cara en la piel?
-La celiaquía puede manifestarse en la piel con una erupción muy concreta, la dermatitis herpetiforme. A veces es la primera señal, incluso sin síntomas digestivos.
+La celiaquía puede manifestarse en la piel con una erupción muy concreta, la dermatitis herpetiforme. A veces es la primera señal, incluso sin síntomas digestivos. Si se sospecha, la prueba se hace siempre **sin haber quitado el gluten** antes.
 
 ## Pistas de que tu piel y tu intestino pueden ir de la mano
 
@@ -44,7 +44,7 @@ La celiaquía puede manifestarse en la piel con una erupción muy concreta, la d
 
 - **Menos azúcares y harinas refinadas**, y más comida de verdad.
 - **Cuidar tu microbiota** con verdura variada y alimentos fermentados.
-- **Dormir bien**, porque la piel también se repara de noche.
+- **Dormir bien**, porque cuando duermes mal tu piel se recupera peor.
 - **Observar tu patrón**: apuntar cuándo empeora tu piel y qué ha pasado esos días.
 
 ## Una aclaración importante
@@ -55,7 +55,7 @@ La PNI **no sustituye la valoración del dermatólogo**. Hay problemas de piel q
 
 Cuando alguien viene con problemas de piel, no me quedo en la piel. Miro tu digestión, tu alimentación, tu descanso, tu ciclo si eres mujer y, si hace falta, tus analíticas. Muchas veces la piel es la parte visible de algo que pasa por dentro.
 
-Si te reconoces, puede interesarte este artículo sobre [qué es el SIBO](/blog/sibo-que-es-sintomas/).
+Y si el acné va de la mano de reglas irregulares o de más vello del que te gustaría, merece la pena descartar un síndrome de ovario poliquístico: te lo cuento en [este artículo sobre el SOP](/blog/pni-y-sop/). Si lo que más te suena es la tripa, puedes empezar por [qué es el SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
@@ -65,6 +65,8 @@ Si te reconoces, puede interesarte este artículo sobre [qué es el SIBO](/blog/
 - Smith RN et al. A low-glycemic-load diet improves symptoms in acne vulgaris patients: a randomized controlled trial. *Am J Clin Nutr*. 2007;86(1):107-115.
 - Aghasi M et al. Dairy intake and acne development: A meta-analysis of observational studies. *Clin Nutr*. 2019;38(3):1067-1075.
 - Parodi A et al. Small intestinal bacterial overgrowth in rosacea: clinical effectiveness of its eradication. *Clin Gastroenterol Hepatol*. 2008;6(7):759-764.
+- Oyetakin-White P et al. Does poor sleep quality affect skin ageing? _Clin Exp Dermatol_. 2015;40(1):17-22.
+- Teede HJ et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. _J Clin Endocrinol Metab_. 2023;108(10):2447-2469.
 - Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. *United European Gastroenterol J*. 2019;7(5):583-613.
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
