@@ -3,8 +3,8 @@ title: 'Hashimoto: tomas tu tratamiento y sigues cansada. Lo que conviene saber'
 excerpt: Qué es Hashimoto, cómo leer tu analítica de tiroides y qué detalles marcan la diferencia en tu día a día. Te lo explico desde la Psiconeuroinmunología.
 date: 2026-11-16 08:00:00 +01:00
 slug: hashimoto-y-pni
-image: /img/blog/hashimoto-y-pni.jpg
-image_alt: Hashimoto y desórdenes endocrinos, enfoque PNI
+image: /img/blog/hashimoto-tiroides-autoinmune-pni.jpg
+image_alt: Mujer pensativa al aire libre junto a ilustraciones de la tiroides y de los anticuerpos que la atacan en Hashimoto
 category: Hormonal
 tags:
   - Hashimoto
