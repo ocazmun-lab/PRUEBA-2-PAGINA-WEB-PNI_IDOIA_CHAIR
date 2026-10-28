@@ -1,6 +1,6 @@
 ---
-title: "Hashimoto: tomas tu tratamiento y sigues cansada. Lo que conviene saber"
-excerpt: "Qué es Hashimoto, cómo leer tu analítica de tiroides y qué detalles marcan la diferencia en tu día a día. Te lo explico desde la Psiconeuroinmunología."
+title: 'Hashimoto: tomas tu tratamiento y sigues cansada. Lo que conviene saber'
+excerpt: Qué es Hashimoto, cómo leer tu analítica de tiroides y qué detalles marcan la diferencia en tu día a día. Te lo explico desde la Psiconeuroinmunología.
 date: 2026-11-16 08:00:00 +01:00
 slug: hashimoto-y-pni
 image: /img/blog/hashimoto-y-pni.jpg
@@ -34,7 +34,7 @@ Y no es raro: muchas personas que toman su tratamiento, con la TSH en rango, **s
 
 La tiroides marca el ritmo de tu metabolismo: tu energía, tu temperatura, tu digestión. En la tiroiditis de Hashimoto, **tu propio sistema inmune ataca la tiroides** y, con los años, esta produce menos hormona.
 
-Es el trastorno autoinmune de tiroides más frecuente, la principal causa de hipotiroidismo en los países donde no falta yodo, y es mucho más habitual en mujeres. El tratamiento que repone la hormona es imprescindible y lo controla tu médico o tu endocrino.
+Es el trastorno autoinmune de tiroides más frecuente, la principal causa de hipotiroidismo en los países donde no falta yodo, y es mucho más habitual en mujeres.
 
 ## Tu analítica, explicada
 
@@ -59,7 +59,7 @@ En las enfermedades autoinmunes de tiroides es frecuente que falten algunos micr
 
 ## Detalles que marcan la diferencia
 
-- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, entre 30 y 60 minutos antes del desayuno. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
+- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, separado 2 horas de comida. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
 - **Descarta la celiaquía** antes de quitar el gluten.
 - **Revisa hierro, vitamina D y B12** si sigues cansada.
 - **Si buscas embarazo, avisa a tu endocrino.** Normalmente hay que ajustar la dosis en cuanto el test de embarazo da positivo.
@@ -69,7 +69,7 @@ En las enfermedades autoinmunes de tiroides es frecuente que falten algunos micr
 En consulta no sustituyo el tratamiento ni el seguimiento de tu endocrino: trabajo en paralelo. Miro:
 
 - Cómo está tu digestión y si se ha descartado la celiaquía.
-- Tus nutrientes en la analítica: hierro, vitamina D y B12.
+- Tus nutrientes en la analítica: hierro, vitamina D y B12, entre otros.
 - Cómo comes, cuándo y con qué tomas el tratamiento.
 - Cómo evolucionan tu energía, tu digestión y tu ánimo, más allá de la TSH.
 
@@ -81,12 +81,12 @@ Si el cansancio es lo que más te pesa, te puede interesar el artículo sobre [q
 
 ## Referencias
 
-- Ragusa F et al. Hashimotos' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. *Best Pract Res Clin Endocrinol Metab*. 2019;33(6):101367.
-- Saravanan P et al. Psychological well-being in patients on 'adequate' doses of l-thyroxine: results of a large, controlled community-based questionnaire study. *Clin Endocrinol*. 2002;57(5):577-585. doi:10.1046/j.1365-2265.2002.01654.x
-- Knezevic J et al. Thyroid-Gut-Axis: How Does the Microbiota Influence Thyroid Function? *Nutrients*. 2020;12(6):1769. doi:10.3390/nu12061769
-- Roy A et al. Prevalence of Celiac Disease in Patients with Autoimmune Thyroid Disease: A Meta-Analysis. *Thyroid*. 2016;26(7):880-890.
-- Benvenga S et al. Altered intestinal absorption of L-thyroxine caused by coffee. *Thyroid*. 2008;18(3):293-301.
-- Jonklaas J et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670-1751.
-- Alexander EK et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. *Thyroid*. 2017;27(3):315-389.
+- Ragusa F et al. Hashimotos' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. _Best Pract Res Clin Endocrinol Metab_. 2019;33(6):101367.
+- Saravanan P et al. Psychological well-being in patients on 'adequate' doses of l-thyroxine: results of a large, controlled community-based questionnaire study. _Clin Endocrinol_. 2002;57(5):577-585. doi:10.1046/j.1365-2265.2002.01654.x
+- Knezevic J et al. Thyroid-Gut-Axis: How Does the Microbiota Influence Thyroid Function? _Nutrients_. 2020;12(6):1769. doi:10.3390/nu12061769
+- Roy A et al. Prevalence of Celiac Disease in Patients with Autoimmune Thyroid Disease: A Meta-Analysis. _Thyroid_. 2016;26(7):880-890.
+- Benvenga S et al. Altered intestinal absorption of L-thyroxine caused by coffee. _Thyroid_. 2008;18(3):293-301.
+- Jonklaas J et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. _Thyroid_. 2014;24(12):1670-1751.
+- Alexander EK et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. _Thyroid_. 2017;27(3):315-389.
 
 _Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
