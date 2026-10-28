@@ -1,7 +1,7 @@
 ---
 title: "Tripa plana por la mañana, «embarazada» por la noche: por qué te hinchas (y no es por tener más gases)"
 excerpt: "Por la mañana te abrochas el pantalón sin problema y por la noche no hay manera. Te explico los 4 tipos de hinchazón, cómo saber cuál es el tuyo y qué ayuda de verdad."
-date: 2026-11-30 08:00:00 +01:00
+date: 2026-12-07 08:00:00 +01:00
 slug: "gases-hinchazon-abdominal"
 image: "/img/blog/gases-hinchazon-abdominal.jpg"
 image_alt: "Taza de infusión caliente para la hinchazón abdominal"

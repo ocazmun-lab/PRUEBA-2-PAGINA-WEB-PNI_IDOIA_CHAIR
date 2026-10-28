@@ -1,7 +1,7 @@
 ---
 title: "Tienes 45, duermes peor y no te reconoces: puede ser la perimenopausia"
 excerpt: "Reglas que cambian, sofocos, peor descanso, cambios de ánimo… La perimenopausia empieza años antes de la última regla. Qué pasa en tu cuerpo y qué puedes cuidar."
-date: 2027-02-22 08:00:00 +01:00
+date: 2027-03-01 08:00:00 +01:00
 slug: "perimenopausia"
 category: "Hormonal"
 tags: ["perimenopausia", "menopausia", "hormonas", "sueño", "fuerza"]

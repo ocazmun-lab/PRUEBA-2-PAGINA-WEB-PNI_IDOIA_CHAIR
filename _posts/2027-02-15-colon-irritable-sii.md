@@ -1,7 +1,7 @@
 ---
 title: "Colon irritable: te dijeron que «es lo que hay». No tiene por qué"
 excerpt: "Dolor, hinchazón, diarrea o estreñimiento que van y vienen. Qué es el síndrome del intestino irritable, qué piezas influyen y qué puedes hacer."
-date: 2027-02-08 08:00:00 +01:00
+date: 2027-02-15 08:00:00 +01:00
 slug: "colon-irritable-sii"
 category: "Digestivo"
 tags: ["colon irritable", "SII", "intestino", "FODMAP", "eje intestino-cerebro"]
