@@ -84,9 +84,11 @@ Cada vez se habla más del **eje intestino-tiroides.** Las enfermedades autoinmu
 
 Un dato concreto: en las personas con enfermedad autoinmune de tiroides, **alrededor de 1 de cada 62 tiene celiaquía** confirmada por biopsia, más que en la población general. Por eso se recomienda descartarla. Eso no significa que todas las personas con Hashimoto tengan que quitar el gluten: lo primero es hacer la prueba, y siempre antes de retirarlo.
 
-### Los nutrientes
+### Los nutrientes: no basta con comer bien
 
-En las enfermedades autoinmunes de tiroides es frecuente que falten algunos micronutrientes. Y hay carencias, como la de **hierro, vitamina D o B12**, que también dan cansancio por sí mismas. Por eso no todo cansancio es la tiroides.
+Para tener buenos niveles de hierro, B12 o zinc no basta con comerlos: también hay que absorberlos. Y en Hashimoto es más frecuente que el aparato digestivo esté implicado. La autoinmunidad a veces no se queda en la tiroides y afecta también al estómago (la llamada **gastritis autoinmune**) o al intestino, como en la celiaquía. Cuando pasa, el cuerpo absorbe peor estos nutrientes, y también el propio tratamiento, aunque comas bien.
+
+Por eso, cuando en una analítica aparece una carencia, en consulta no me quedo en suplementarla: busco por qué falta. Y no olvides que estas carencias dan cansancio por sí mismas, así que no todo cansancio es la tiroides.
 
 ## Detalles que marcan la diferencia
 
@@ -122,6 +124,7 @@ Si el cansancio es lo que más te pesa, te puede interesar el artículo sobre [q
 - Kim D. The Role of Vitamin D in Thyroid Diseases. _Int J Mol Sci_. 2017;18(9):1949. doi:10.3390/ijms18091949
 - Hu S, Rayman MP. Multiple Nutritional Factors and the Risk of Hashimoto's Thyroiditis. _Thyroid_. 2017;27(5):597-610. doi:10.1089/thy.2016.0635
 - Benites-Zapata VA et al. Vitamin B12 levels in thyroid disorders: A systematic review and meta-analysis. _Front Endocrinol_. 2023.
+- Lahner E et al. Thyro-entero-gastric autoimmunity: Pathophysiology and implications for patient management. _Best Pract Res Clin Endocrinol Metab_. 2020;34(1):101373. doi:10.1016/j.beem.2019.101373
 - Rubio-Tapia A et al. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. _Am J Gastroenterol_. 2023;118(1):59-76.
 - Duntas LH, Brenta G. A Renewed Focus on the Association Between Thyroid Hormones and Lipid Metabolism. _Front Endocrinol_. 2018;9:511. doi:10.3389/fendo.2018.00511
 - Saravanan P et al. Psychological well-being in patients on 'adequate' doses of l-thyroxine: results of a large, controlled community-based questionnaire study. _Clin Endocrinol_. 2002;57(5):577-585. doi:10.1046/j.1365-2265.2002.01654.x
