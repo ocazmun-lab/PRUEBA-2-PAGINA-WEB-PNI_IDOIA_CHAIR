@@ -14,7 +14,7 @@ tags:
   - PNI
 meta_title: 'Hashimoto: analítica, síntomas y qué mirar desde la PNI | Idoia Chair'
 meta_description: Qué es Hashimoto, qué significan la TSH, la T4 libre y los anticuerpos anti-TPO, por qué puedes seguir cansada con la analítica en rango y qué mira la PNI.
-published: false
+published: true
 ---
 
 Te diagnosticaron Hashimoto, empezaste con el tratamiento, la TSH se colocó en su sitio... y sigues cansada, con frío, con el pelo que se cae y la sensación de que algo no termina de funcionar.
@@ -57,7 +57,7 @@ Si la TSH está alta y la T4 libre baja, hay hipotiroidismo. Si la TSH está alt
 
 Tu tiroides necesita ciertos nutrientes para fabricar sus hormonas, convertir la T4 en T3 y que esa hormona funcione. Por eso miro también:
 
-- **Ferritina (hierro):** la enzima que fabrica la hormona tiroidea necesita hierro para funcionar. Además, la ferritina puede estar baja aunque la hemoglobina salga bien, y por sí sola da cansancio y caída de pelo.
+- **Ferritina y hierro:** la enzima que fabrica la hormona tiroidea necesita hierro para funcionar. Además, la ferritina puede estar baja aunque la hemoglobina salga bien, y por sí sola da cansancio y caída de pelo.
 - **Selenio:** las enzimas que convierten la T4 en T3 dependen del selenio, y la tiroides es uno de los órganos con más selenio del cuerpo.
 - **Zinc:** participa en la producción de la hormona y en que tus células puedan usarla.
 - **Vitamina D:** es frecuente que esté baja en las enfermedades autoinmunes de tiroides, y tiene un papel importante en el sistema inmune.
@@ -67,7 +67,7 @@ Tu tiroides necesita ciertos nutrientes para fabricar sus hormonas, convertir la
 
 Los rangos de referencia que vienen en tu analítica son muy amplios: salen de medir a mucha gente distinta, y te dicen si un valor es claramente anormal. Pero estar dentro del rango no siempre significa que ese valor esté donde tu cuerpo funciona bien.
 
-Por eso, en consulta trabajo también con **rangos funcionales**. Son más estrechos que los del laboratorio y me ayudan a ver si un valor "normal" está en la zona baja o alta, y si eso encaja con lo que te pasa. También miro cómo se relacionan los valores entre sí (la TSH con la T4 y la T3, la T3 libre con la reversa, los nutrientes con la conversión…), cómo han cambiado de una analítica a otra y, sobre todo, cómo te encuentras tú.
+Por eso, en consulta trabajo con **rangos funcionales**. Son más estrechos que los del laboratorio y me ayudan a ver si un valor "normal" está en la zona baja o alta, y si eso encaja con lo que te pasa. También miro cómo se relacionan los valores entre sí (la TSH con la T4 y la T3, la T3 libre con la reversa, los nutrientes con la conversión…), cómo han cambiado de una analítica a otra y, sobre todo, cómo te encuentras tú.
 
 ### Otros valores que conviene mirar
 
@@ -92,7 +92,7 @@ Por eso, cuando en una analítica aparece una carencia, en consulta no me quedo 
 
 ## Detalles que marcan la diferencia
 
-- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, separado 2 horas de comida. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
+- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, separado 2 horas. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
 - **Descarta la celiaquía** antes de quitar el gluten.
 - **Revisa los nutrientes clave** si sigues cansada.
 - **Si buscas embarazo, avisa a tu endocrino.** Normalmente hay que ajustar la dosis en cuanto el test de embarazo da positivo.
