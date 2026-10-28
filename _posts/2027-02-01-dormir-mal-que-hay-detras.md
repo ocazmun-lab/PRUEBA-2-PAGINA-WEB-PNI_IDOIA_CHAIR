@@ -27,7 +27,7 @@ Dormir mal no es solo "cosa de nervios". Tu sueño depende de un reloj interno q
 
 Mientras duermes, tu cuerpo no está "apagado". Se reparan tejidos, se ordenan las hormonas y el sistema inmune hace buena parte de su trabajo de mantenimiento.
 
-Por eso, cuando el sueño falla un día tras otro, se nota en todo. Un gran análisis que reunió más de 70 estudios encontró que **dormir mal se asocia a marcadores de inflamación más altos** en sangre. Y una inflamación de fondo mantenida está detrás de muchos síntomas que parecen no tener relación entre sí.
+Por eso, cuando el sueño falla un día tras otro, se nota en todo. **Dormir mal se asocia a más inflamación en sangre.** Y una inflamación de fondo mantenida está detrás de muchos síntomas que parecen no tener relación entre sí.
 
 ## 1. La luz: tu reloj interno se pone en hora por la mañana
 
@@ -39,7 +39,7 @@ Si pasas el día en interiores, con poca luz natural, y por la noche estás dela
 
 ## 2. La cafeína dura más de lo que crees
 
-En un estudio, tomar cafeína **incluso 6 horas antes de acostarse** redujo el sueño en más de una hora. Y lo más curioso: los participantes **no se daban cuenta**.
+La cafeína tomada **incluso 6 horas antes de acostarte** puede quitarte más de una hora de sueño. Y lo más curioso: **ni te das cuenta**.
 
 Ese café de después de comer, o el de las cinco para aguantar, puede estar pasándote factura por la noche.
 
@@ -47,7 +47,7 @@ Ese café de después de comer, o el de las cinco para aguantar, puede estar pas
 
 ## 3. Lo que comes también se nota en la cama
 
-En un estudio de la Universidad de Columbia, los días en que se comía **más fibra**, el sueño era **más profundo**. Con más azúcar, había **más despertares**.
+Los días en que comes **más fibra**, el sueño suele ser **más profundo**. Con más azúcar, hay **más despertares**.
 
 Las cenas muy copiosas o muy tardías tampoco ayudan: tu cuerpo sigue trabajando en la digestión cuando debería estar descansando.
 

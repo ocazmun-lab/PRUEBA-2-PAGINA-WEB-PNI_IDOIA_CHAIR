@@ -53,7 +53,7 @@ La **dieta baja en FODMAP** es de las que más evidencia tienen para aliviar los
 
 El intestino y el cerebro están en conversación constante. Por eso las épocas de más tensión suelen notarse en la tripa.
 
-Y el movimiento ayuda más de lo que parece: en un ensayo, las personas con colon irritable que **aumentaron su actividad física** mejoraron sus síntomas mucho más que las que siguieron igual.
+Y el movimiento ayuda más de lo que parece: **aumentar la actividad física** mejora mucho los síntomas del colon irritable.
 
 **Pista:** pasas muchas horas sentada y te mueves poco.
 
@@ -64,7 +64,7 @@ Y el movimiento ayuda más de lo que parece: en un ensayo, las personas con colo
 - **No quites alimentos por tu cuenta** a largo plazo: si sospechas de alguno, hazlo con ayuda.
 - **Muévete cada día**: caminar después de comer es un buen comienzo.
 - **Cuida tu descanso**, porque dormir mal también hace al intestino más sensible.
-- Si notas que los nervios se te van a la tripa, existen **terapias psicológicas** específicas para el colon irritable que tienen buena evidencia.
+- Si notas que los nervios se te van a la tripa, existen **terapias psicológicas** específicas para el colon irritable que funcionan muy bien.
 
 ## Cuándo consultar con tu médico
 

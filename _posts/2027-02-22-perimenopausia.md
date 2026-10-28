@@ -40,7 +40,7 @@ Una de las primeras señales es que la duración de tus ciclos empieza a variar:
 
 ## 2. Sofocos y sudores nocturnos
 
-Son de los síntomas más conocidos, y no siempre duran poco: en un gran estudio que siguió a miles de mujeres durante años, quienes tenían sofocos frecuentes los tuvieron **durante bastantes años**, en muchos casos desde antes de la última regla.
+Son de los síntomas más conocidos, y no siempre duran poco: cuando son frecuentes, pueden durar **bastantes años**, en muchos casos desde antes de la última regla.
 
 **Pista:** te despiertas con calor, destapada, o tienes que cambiarte de ropa por la noche.
 
@@ -54,7 +54,7 @@ Dormir peor es muy frecuente en esta etapa, sobre todo despertarse de madrugada 
 
 Los estrógenos ayudan a proteger el hueso y el músculo. Cuando empiezan a fluctuar y a bajar, perder masa muscular y densidad ósea es más fácil, aunque no lo notes.
 
-La buena noticia es que el **entrenamiento de fuerza** es de las herramientas que más ayudan: un análisis de 19 ensayos encontró que la fuerza a intensidad moderada, **unos 3 días por semana**, mejoraba la densidad del hueso en mujeres tras la menopausia.
+La buena noticia es que el **entrenamiento de fuerza** es de las herramientas que más ayudan: la fuerza a intensidad moderada, **unos 3 días por semana**, mejora la densidad del hueso en mujeres tras la menopausia.
 
 **Pista:** no haces ningún ejercicio de fuerza y notas que cada vez te cuesta más cargar peso o subir escaleras.
 
@@ -63,7 +63,7 @@ La buena noticia es que el **entrenamiento de fuerza** es de las herramientas qu
 - **Apunta tus ciclos y tus síntomas** durante unos meses. Te ayudará a ti y a tu ginecóloga.
 - **Haz fuerza 2 o 3 días por semana**: con pesas, gomas o tu propio peso.
 - **Asegura proteína en cada comida** para cuidar tu músculo.
-- **Llena el plato de verdura, fruta, legumbres, frutos secos y aceite de oliva.**
+- **Llena el plato de verdura, fruta, frutos secos y aceite de oliva.**
 - **Cuida tu sueño**: luz natural por la mañana, cenas más tempranas y habitación fresca.
 - **Habla con tu ginecóloga** sobre lo que te pasa: hay opciones para los síntomas, y conviene valorarlas con ella.
 

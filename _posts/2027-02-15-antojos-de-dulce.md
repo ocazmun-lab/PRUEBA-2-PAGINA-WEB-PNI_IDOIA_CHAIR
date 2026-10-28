@@ -25,7 +25,7 @@ Si te pasa, no es que te falte fuerza de voluntad. Los antojos de dulce tienen d
 
 ## 1. Dormir poco cambia lo que te apetece
 
-En un estudio de la Universidad de Berkeley, se miró el cerebro de un grupo de personas después de dormir bien y después de una noche sin dormir. Tras la noche en vela, **las zonas que frenan los impulsos estaban menos activas** y aumentaba el deseo por los alimentos **más calóricos**. Lo curioso es que no tenían más hambre: les apetecían otras cosas.
+Después de una noche sin dormir, **las zonas del cerebro que frenan los impulsos están menos activas** y aumenta el deseo por los alimentos **más calóricos**. Lo curioso es que no tienes más hambre: te apetecen otras cosas.
 
 **Pista:** los días que duermes mal, el cajón de las galletas te llama más.
 
@@ -33,7 +33,7 @@ En un estudio de la Universidad de Berkeley, se miró el cerebro de un grupo de 
 
 Un desayuno a base de galletas, tostadas de pan blanco o cereales azucarados se digiere rápido y te deja con hambre pronto.
 
-En un estudio con chicas jóvenes que solían saltarse el desayuno, cuando el desayuno llevaba **más proteína** (huevos, por ejemplo), **se picaba menos dulce y menos grasa por la tarde y por la noche** que cuando se tomaban cereales o se saltaba el desayuno.
+Un desayuno con **más proteína** (huevos, por ejemplo) hace que **piques menos dulce y menos grasa por la tarde y por la noche** que si tomas cereales o te saltas el desayuno.
 
 **Pista:** desayunas solo café con algo dulce, o directamente no desayunas.
 
@@ -41,13 +41,13 @@ En un estudio con chicas jóvenes que solían saltarse el desayuno, cuando el de
 
 Después de una comida, el azúcar en sangre sube y luego baja. En algunas personas y con algunas comidas, **baja de más**.
 
-Un estudio con más de 1.000 personas, que llevaban un medidor de glucosa, encontró que quienes tenían **bajadas más grandes 2 o 3 horas después de comer** tenían **más hambre**, comían antes y **comían más** a lo largo del día.
+Cuando la glucosa **baja mucho 2 o 3 horas después de comer**, aparece **más hambre**, comes antes y **comes más** a lo largo del día.
 
 **Pista:** el antojo llega 2 o 3 horas después de comer, con cansancio o irritabilidad.
 
 ## 4. Los ultraprocesados te piden más
 
-En un ensayo de los Institutos Nacionales de Salud de Estados Unidos, las mismas personas comieron dos semanas con alimentos ultraprocesados y dos semanas con comida real. Con los ultraprocesados **comieron unas 500 kilocalorías más al día**, sin darse cuenta.
+Con una alimentación a base de ultraprocesados se acaban comiendo **unas 500 kilocalorías más al día** que con comida real, sin darse cuenta.
 
 Están pensados para que sea fácil comer mucho y rápido. Cuanto más presentes están en tu día a día, más te los pide el cuerpo.
 
