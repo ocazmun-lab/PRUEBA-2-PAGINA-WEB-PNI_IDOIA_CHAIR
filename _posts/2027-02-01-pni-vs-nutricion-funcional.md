@@ -28,7 +28,7 @@ La nutrición funcional surge de la **medicina funcional**, un modelo que se des
 
 ## Qué tienen en común
 
-- Buscan **la causa** de los síntomas, no solo taparlos.
+- Buscan **la causa** de los síntomas.
 - Ven a la persona como un **conjunto**, no como órganos separados.
 - Dan mucha importancia a **la alimentación, el intestino y los hábitos**.
 - Hacen planes **personalizados**.

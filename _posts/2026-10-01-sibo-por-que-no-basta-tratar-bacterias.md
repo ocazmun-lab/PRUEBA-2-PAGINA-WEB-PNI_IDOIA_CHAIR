@@ -30,7 +30,7 @@ Aquí aporta su mirada la **Psiconeuroinmunología (PNI)**, la disciplina que es
 
 - **La motilidad intestinal:** entre comidas, el intestino hace unas ondas de limpieza, el complejo motor migratorio, que "barren" las bacterias hacia el colon. Si ese barrido falla, se acumulan.
 - **El estrés y el sistema nervioso:** el eje intestino-cerebro influye directamente en tu digestión. En modo alerta, el cuerpo prioriza "sobrevivir" sobre "digerir", y en humanos se ha visto que distintos tipos de estrés alteran ese barrido intestinal. Por eso, desde la PNI, el estrés es una pieza más del SIBO, no un detalle aparte.
-- **La alimentación:** no solo qué comes, sino cómo y cuándo.
+- **La alimentación:** qué comes, cómo y cuándo.
 - **Tu historia digestiva completa:** infecciones, medicación y cirugías.
 
 ## ¿Cómo se diagnostica?

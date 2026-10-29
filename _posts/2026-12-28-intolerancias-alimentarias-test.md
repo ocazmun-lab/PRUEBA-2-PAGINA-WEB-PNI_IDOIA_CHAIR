@@ -46,7 +46,7 @@ Si notas que algo te sienta mal, lo más útil es:
 1. **Apuntar lo que comes y cómo te sientes** durante unas semanas.
 2. **No quitar alimentos a ciegas** ni durante mucho tiempo.
 3. **Hacer las pruebas adecuadas** antes de retirar nada, sobre todo el gluten.
-4. **Mirar qué hay detrás:** a veces el problema no es el alimento, sino un intestino más sensible o un tránsito alterado.
+4. **Mirar qué hay detrás:** a veces el problema está en un intestino más sensible o en un tránsito alterado, y el alimento solo lo destapa.
 
 ## Qué miro en consulta
 

@@ -49,7 +49,7 @@ Si tu intestino se mueve lento, el gas se queda atrapado por el camino y la trip
 
 Este es el más sorprendente. En algunas personas, al comer, el cuerpo hace justo lo contrario de lo que debería: **el diafragma baja y la pared del abdomen se relaja hacia fuera**, en lugar de sujetar. La tripa se ve abultada aunque la cantidad de gas sea normal.
 
-La buena noticia es que **se puede reeducar.** Aprender a controlar la musculatura del abdomen y del tórax reduce mucho la sensación de tripa hinchada.
+Esto **se puede reeducar.** Aprender a controlar la musculatura del abdomen y del tórax reduce mucho la sensación de tripa hinchada.
 
 **Es la tuya si:** la tripa se abulta en cuanto terminas de comer, casi como un acto reflejo, y se nota mucho por fuera.
 

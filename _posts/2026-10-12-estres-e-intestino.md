@@ -18,7 +18,7 @@ published: true
 
 ¿Se te cierra el estómago antes de una reunión? ¿Notas que en las épocas de más estrés tu digestión cambia: más hinchazón, más reflujo, más idas al baño o, al contrario, ninguna?
 
-No es casualidad, ni es "cosa tuya". Tu cerebro y tu intestino están conectados, y la ciencia lleva décadas estudiando cómo se influyen mutuamente. A esa conexión se le llama **eje intestino-cerebro**, y es uno de los mejores ejemplos de lo que estudia la Psiconeuroinmunología (PNI): cómo lo que piensas y sientes (psico) pasa por tu sistema nervioso (neuro) y tus hormonas, y llega a tu sistema inmune (inmuno) y a tu digestión.
+No es "cosa tuya". Tu cerebro y tu intestino están conectados, y la ciencia lleva décadas estudiando cómo se influyen mutuamente. A esa conexión se le llama **eje intestino-cerebro**, y es uno de los mejores ejemplos de lo que estudia la Psiconeuroinmunología (PNI): cómo lo que piensas y sientes (psico) pasa por tu sistema nervioso (neuro) y tus hormonas, y llega a tu sistema inmune (inmuno) y a tu digestión.
 
 ## Tu cerebro y tu intestino se hablan
 
@@ -66,7 +66,7 @@ Es decir: **la ansiedad y la digestión se retroalimentan**. No siempre empieza 
 
 Si el estrés forma parte del problema, hay que tenerlo en cuenta. Hasta las guías de gastroenterología lo reconocen ya: recomiendan las **psicoterapias dirigidas al intestino**, que realizan profesionales de la psicología, como parte del abordaje del colon irritable, y no como último recurso.
 
-Mi trabajo no es tratar el estrés, sino **entender cómo está afectando a tu cuerpo** y trabajar sobre esa parte física. Por eso en consulta no solo miro qué comes, también cómo vives:
+Mi trabajo es **entender cómo está afectando el estrés a tu cuerpo** y trabajar sobre esa parte física. Por eso en consulta miro qué comes y también cómo vives:
 
 - Cómo y cuándo comes: con prisa, de pie, delante de una pantalla…
 - Cómo duermes y cómo descansas.
@@ -76,7 +76,7 @@ Con eso trabajamos sobre lo que influye en tu digestión: la alimentación, los 
 
 ## Si te has reconocido
 
-Si notas que tu intestino es lo primero que te avisa en las épocas de estrés, puedo ayudarte a estudiar tu caso y trabajar sobre tu digestión desde una mirada integral.
+Si notas que tu intestino es lo primero que te avisa en las épocas de estrés, puedo ayudarte a estudiar tu caso y trabajar sobre tu digestión.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

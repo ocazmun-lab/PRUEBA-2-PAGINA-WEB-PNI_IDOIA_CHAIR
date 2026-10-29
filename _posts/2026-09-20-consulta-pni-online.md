@@ -19,7 +19,7 @@ Cada vez más personas buscan una consulta de Psiconeuroinmunología (PNI) onlin
 
 ## Cómo es una consulta online de PNI
 
-La primera consulta se realiza por videollamada y tiene una duración de 60-90 minutos. No es una charla rápida: es el tiempo necesario para revisar con calma tu historia clínica, tus hábitos de vida, tu alimentación, tu descanso, tu nivel de estrés y cualquier analítica previa que puedas aportar.
+La primera consulta se realiza por videollamada y tiene una duración de 60-90 minutos. Es el tiempo necesario para revisar con calma tu historia clínica, tus hábitos de vida, tu alimentación, tu descanso, tu nivel de estrés y cualquier analítica previa que puedas aportar.
 
 ## Qué se revisa en la primera sesión
 
@@ -28,7 +28,7 @@ La primera consulta se realiza por videollamada y tiene una duración de 60-90 m
 - Nivel de estrés y su posible relación con lo que sientes
 - Analíticas o pruebas previas, si las tienes
 
-No se trata de rellenar un cuestionario, sino de entender tu caso concreto antes de proponer nada.
+Quiero entender tu caso concreto antes de proponer nada.
 
 ## Qué recibes después
 
@@ -36,8 +36,8 @@ En los días posteriores a la consulta recibes un plan personalizado que puede i
 
 ## Precio y opciones
 
-- **Primera sesión** (60-90 min): 90€ — evaluación completa y plan personalizado.
-- **Consulta de seguimiento** (60 min): 60€ — revisión de progreso y ajustes.
+- **Primera sesión** (60-90 min): 90€. Evaluación completa y plan personalizado.
+- **Consulta de seguimiento** (60 min): 60€. Revisión de progreso y ajustes.
 - **Bono recomendado**: primera sesión + 2 seguimientos por 200€.
 
 ## Cómo reservar

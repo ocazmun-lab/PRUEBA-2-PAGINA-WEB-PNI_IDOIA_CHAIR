@@ -19,17 +19,17 @@ published: true
 
 Duermes tus 8 horas… y te levantas como si no hubieras dormido.
 
-Te dicen que es el estrés, la edad o que descanses más. Pero un cansancio que no se va con dormir no es pereza ni es "lo normal": es una señal de tu cuerpo, y merece que se estudie.
+Te dicen que es el estrés, la edad o que descanses más. Pero un cansancio que no se va con dormir es una señal de tu cuerpo, y merece que se estudie.
 
 ## El cansancio desde la PNI: una cuestión de energía
 
-La Psiconeuroinmunología (PNI) estudia cómo se comunican el sistema nervioso, el inmune, el hormonal y el digestivo. Desde esta mirada, el cansancio no es un síntoma aislado: es la forma que tiene tu cuerpo de **repartir la energía** cuando algo le exige más de lo normal.
+La Psiconeuroinmunología (PNI) estudia cómo se comunican el sistema nervioso, el inmune, el hormonal y el digestivo. Desde esta mirada, el cansancio es la forma que tiene tu cuerpo de **repartir la energía** cuando algo le exige más de lo normal.
 
 Tu energía es limitada, y tu sistema inmune y tu sistema nervioso compiten por ella. Cuando el sistema inmune se mantiene activo, aunque sea en segundo plano, el cerebro "recorta" gasto en otras áreas, y aparecen fatiga, peor sueño o bajo ánimo. Este modelo de reparto de energía entre sistemas está descrito en la investigación en neuroinmunoendocrinología.
 
 Además, las sustancias inflamatorias que produce el sistema inmune (las citoquinas) llegan al cerebro y provocan lo que se conoce como **conducta de enfermedad**: cansancio, ganas de aislarse, falta de apetito y de motivación. Es lo que sientes cuando tienes gripe, pero puede mantenerse de forma más leve cuando la inflamación no se apaga.
 
-Por eso, en consulta, la pregunta no es solo "¿qué te falta?", sino **"¿qué está consumiendo tu energía?"**. Estas son cinco de las respuestas más frecuentes.
+Por eso, en consulta, además de "¿qué te falta?", me pregunto **"¿qué está consumiendo tu energía?"**. Estas son cinco de las respuestas más frecuentes.
 
 ## 1. Tu intestino: cuando cuesta aprovechar los nutrientes
 
@@ -89,7 +89,7 @@ Si el cansancio viene acompañado de pérdida de peso sin explicación, fiebre, 
 
 ## Si te has reconocido
 
-Si llevas tiempo agotada y sientes que nadie ha mirado el conjunto, puedo ayudarte a estudiar tu caso desde la raíz, desde la mirada integral de la PNI.
+Si llevas tiempo agotada y sientes que nadie ha mirado el conjunto, puedo ayudarte a estudiar tu caso desde la raíz.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

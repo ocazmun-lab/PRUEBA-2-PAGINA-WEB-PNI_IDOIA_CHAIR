@@ -44,7 +44,7 @@ En las cenas largas no siempre es posible, pero intenta no irte a la cama nada m
 
 ## 6. Ojo con el alcohol
 
-El alcohol relaja la válvula que separa el estómago del esófago y se asocia a más reflujo. Además, empeora la calidad del sueño. No se trata de prohibir el brindis, sino de alternarlo con agua y no convertirlo en la base de la noche.
+El alcohol relaja la válvula que separa el estómago del esófago y se asocia a más reflujo. Además, empeora la calidad del sueño. Puedes brindar: alterna cada copa con agua y que no sea la base de la noche.
 
 ## ¿Y al día siguiente?
 
@@ -52,7 +52,7 @@ Nada de "compensar" con ayunos o dietas de castigo. Vuelve a tu rutina normal: c
 
 ## Cuándo consultar
 
-Si la hinchazón, el ardor o la pesadez no son solo cosa de las fiestas, sino que te acompañan casi todo el año, merece la pena mirar qué hay detrás. Puedes empezar por estos artículos sobre [gases e hinchazón](/blog/gases-hinchazon-abdominal/) y [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
+Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, y no solo en fiestas, merece la pena mirar qué hay detrás. Puedes empezar por estos artículos sobre [gases e hinchazón](/blog/gases-hinchazon-abdominal/) y [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

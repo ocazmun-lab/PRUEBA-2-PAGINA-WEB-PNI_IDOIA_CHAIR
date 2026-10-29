@@ -14,11 +14,11 @@ published: false
 
 "Come más fibra y bebe más agua." Es el consejo que te han dado mil veces. Lo has hecho, y sigues yendo al baño cada tres o cuatro días, con esfuerzo y con la sensación de que no terminas de vaciar.
 
-No es que lo estés haciendo mal. Es que **el estreñimiento no siempre es un problema de fibra.**
+Lo estás haciendo bien. Pasa que **el estreñimiento no siempre es un problema de fibra.**
 
 ## ¿Es estreñimiento? Te suena esto
 
-El estreñimiento crónico es uno de los problemas digestivos más habituales, y es más frecuente en mujeres. Pero no se trata solo de "ir poco". Los profesionales hablan de estreñimiento cuando, desde hace meses, se cumplen **dos o más** de estas cosas:
+El estreñimiento crónico es uno de los problemas digestivos más habituales, y es más frecuente en mujeres. Y no basta con "ir poco". Los profesionales hablan de estreñimiento cuando, desde hace meses, se cumplen **dos o más** de estas cosas:
 
 - Vas al baño **menos de 3 veces por semana**.
 - Tienes que **hacer mucha fuerza**.
@@ -57,13 +57,13 @@ No toda la fibra funciona igual. La fibra ayuda, pero sobre todo:
 - **En dosis de más de 10 gramos al día.**
 - **Durante al menos 4 semanas.**
 
-También vio que la fibra puede dar más gases, así que conviene introducirla poco a poco y adaptada a tu caso. Si tienes mucha hinchazón, añadir fibra sin más puede empeorarla.
+Eso sí, la fibra puede dar más gases, así que conviene introducirla poco a poco y adaptada a tu caso. Si tienes mucha hinchazón, añadir fibra sin más puede empeorarla.
 
 ## Lo que casi nadie te mira: cómo empujas
 
-En algunas personas el problema no es que el intestino se mueva poco, sino que **los músculos del suelo pélvico no se coordinan bien al ir al baño**: en lugar de relajarse, se contraen. Se llama **disinergia defecatoria**, y la fibra no la soluciona.
+En algunas personas el intestino se mueve bien, pero **los músculos del suelo pélvico no se coordinan bien al ir al baño**: en lugar de relajarse, se contraen. Se llama **disinergia defecatoria**, y la fibra no la soluciona.
 
-La buena noticia es que se puede reeducar. El entrenamiento con **biofeedback** (aprender a coordinar esos músculos con ayuda de un aparato) corrige esa descoordinación mucho mejor que la dieta, el ejercicio y los laxantes.
+Se puede reeducar. El entrenamiento con **biofeedback** (aprender a coordinar esos músculos con ayuda de un aparato) corrige esa descoordinación mucho mejor que la dieta, el ejercicio y los laxantes.
 
 **Pistas:** tienes que hacer mucha fuerza aunque las heces no sean duras, notas que no terminas de vaciar, o necesitas ayudarte con la mano o cambiar de postura.
 

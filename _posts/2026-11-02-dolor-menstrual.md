@@ -21,7 +21,7 @@ published: true
 
 El dolor menstrual afecta a entre el 45 y el 95 % de las mujeres que menstrúan. Que sea tan frecuente no significa que sea normal: **significa que se ha normalizado.** Y precisamente por eso muchas veces ni las propias mujeres ni los profesionales le dan importancia.
 
-Desde la Psiconeuroinmunología (PNI), el dolor de regla no es un problema de un solo órgano: es el resultado de varios sistemas que se hablan entre sí. Estas son 4 cosas que la ciencia sabe y casi nadie te ha contado.
+Desde la Psiconeuroinmunología (PNI), en el dolor de regla participan varios sistemas que se hablan entre sí. Estas son 4 cosas que la ciencia sabe y casi nadie te ha contado.
 
 ## 1. Duele porque hay inflamación
 
@@ -31,7 +31,7 @@ Pero eso solo es el punto de partida. Las mujeres con más inflamación en sangr
 
 ## 2. Tu intestino y tu regla van de la mano
 
-Si con la regla tienes diarrea, náuseas o hinchazón, no es casualidad: las prostaglandinas no solo actúan sobre el útero, **también sobre el intestino**, y por eso los síntomas digestivos son tan frecuentes esos días.
+Si con la regla tienes diarrea, náuseas o hinchazón, es por las prostaglandinas: actúan sobre el útero y **también sobre el intestino**, y por eso los síntomas digestivos son tan frecuentes esos días.
 
 Y la relación va más allá: **el colon irritable es bastante más frecuente en las mujeres con regla dolorosa**, y la mayoría de las mujeres con colon irritable tienen también reglas que duelen. Por eso, cuando una mujer me cuenta que le duele la regla, siempre le pregunto también por su digestión.
 

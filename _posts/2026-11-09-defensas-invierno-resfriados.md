@@ -21,7 +21,7 @@ Empieza el otoño, llegan los primeros fríos y, con ellos, la cadena de siempre
 
 No es solo cuestión de suerte. **Que un resfriado te pille o no depende, en buena parte, de cómo está tu cuerpo por dentro.** Y ahí hay piezas que sí puedes cuidar.
 
-Y el mejor momento para cuidarlas no es cuando ya estás con el pañuelo en la mano: es ahora, antes de que llegue el invierno.
+El mejor momento para cuidarlas es ahora, antes de que llegue el invierno.
 
 ## 1. El sueño: la pieza que más se subestima
 

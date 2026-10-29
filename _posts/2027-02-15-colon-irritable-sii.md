@@ -72,7 +72,7 @@ Si ves **sangre en las heces**, **pierdes peso** sin buscarlo, los síntomas **t
 
 ## Qué miro en consulta
 
-Cuando alguien llega con colon irritable, no me quedo en la etiqueta. Miro cuándo empezó, qué come y cómo come, cómo va al baño, cómo duerme, cuánto se mueve y si hay piezas como el [SIBO](/blog/sibo-que-es-sintomas/) que conviene descartar. El objetivo no es comer cada vez menos cosas, sino que tu intestino vuelva a tolerar más.
+Cuando alguien llega con colon irritable, no me quedo en la etiqueta. Miro cuándo empezó, qué come y cómo come, cómo va al baño, cómo duerme, cuánto se mueve y si hay piezas como el [SIBO](/blog/sibo-que-es-sintomas/) que conviene descartar. El objetivo es que tu intestino vuelva a tolerar más cosas.
 
 Si la hinchazón es tu síntoma principal, lee [los 4 tipos de hinchazón](/blog/gases-hinchazon-abdominal/). Y si lo tuyo es más bien el estreñimiento, te interesa [cuando la fibra y el agua no son suficientes](/blog/estrenimiento-cronico-pni/).
 

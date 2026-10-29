@@ -92,7 +92,7 @@ Por eso, cuando en una analítica aparece una carencia, en consulta no me quedo 
 
 ## Detalles que marcan la diferencia
 
-- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, separado 2 horas. Si eres de las que no perdonan el café de la mañana, como yo, la solución no es quitarlo: es esperar.
+- **Separa el tratamiento del café.** Si lo tomas con el café o justo después, absorbes en torno a un 30 % menos. Lo ideal es tomarlo en ayunas, separado 2 horas. Si eres de las que no perdonan el café de la mañana, como yo, basta con esperar.
 - **Descarta la celiaquía** antes de quitar el gluten.
 - **Revisa los nutrientes clave** si sigues cansada.
 - **Si buscas embarazo, avisa a tu endocrino.** Normalmente hay que ajustar la dosis en cuanto el test de embarazo da positivo.

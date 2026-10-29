@@ -14,7 +14,7 @@ published: false
 
 Si te has quedado lejos, tranquila: es lo más habitual. Pero ese número tiene su porqué, y tiene que ver con algo que influye en tu digestión, tus defensas y tu inflamación más de lo que imaginas.
 
-En tu intestino viven billones de bacterias, hongos y otros microorganismos. No son intrusos: son tus aliados. Juntos forman tu **microbiota**, y cada vez sabemos más de lo mucho que influyen en tu salud.
+En tu intestino viven billones de bacterias, hongos y otros microorganismos. Están de tu parte. Juntos forman tu **microbiota**, y cada vez sabemos más de lo mucho que influyen en tu salud.
 
 ## Qué hace tu microbiota por ti
 
@@ -27,7 +27,7 @@ Por eso, desde la Psiconeuroinmunología, el intestino es casi siempre una pieza
 
 ## Lo que más importa: la diversidad
 
-Una microbiota sana no es la que tiene "bacterias buenas" concretas, sino la que es **variada**. Y lo que más la hace variar es lo que comes.
+Una microbiota sana es, sobre todo, **variada**. Y lo que más la hace variar es lo que comes.
 
 ## 5 formas de cuidarla
 

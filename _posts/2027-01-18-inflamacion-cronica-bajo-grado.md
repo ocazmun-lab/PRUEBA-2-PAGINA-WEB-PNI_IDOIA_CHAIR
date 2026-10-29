@@ -12,7 +12,7 @@ published: false
 
 Te cansas aunque descanses. Te duele todo un poco, sin un motivo claro. La tripa va a su aire, la piel no termina de estar bien… y en la analítica, todo normal.
 
-Parecen síntomas sueltos, pero muchas veces comparten un mismo hilo: una **inflamación** que no da la cara. Si me has leído antes, habrás visto que esa palabra se repite en casi todos los artículos: en el SOP, en el dolor de regla, en el cansancio, en la piel… No es casualidad. Es una de las piezas centrales de la Psiconeuroinmunología.
+Parecen síntomas sueltos, pero muchas veces comparten un mismo hilo: una **inflamación** que no da la cara. Si me has leído antes, habrás visto que esa palabra se repite en casi todos los artículos: en el SOP, en el dolor de regla, en el cansancio, en la piel… Es una de las piezas centrales de la Psiconeuroinmunología.
 
 ## La inflamación buena y la que se queda
 

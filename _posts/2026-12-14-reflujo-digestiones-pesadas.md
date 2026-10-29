@@ -12,7 +12,7 @@ meta_description: "Qué es el reflujo, sus síntomas menos conocidos, por qué a
 published: false
 ---
 
-Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz tomada, con tos, o con la sensación de que la cena sigue "ahí". Si te pasa a menudo, no es "solo acidez": es tu cuerpo diciéndote que algo no está cerrando bien.
+Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz tomada, con tos, o con la sensación de que la cena sigue "ahí". Si te pasa a menudo, tu cuerpo te está diciendo que algo no está cerrando bien.
 
 ## ¿Te suena esto?
 
@@ -44,7 +44,7 @@ Por eso no hay una dieta igual para todas las personas: hay que buscar tus facto
 
 ## Lo que añade la PNI: no siempre es más ácido
 
-Con la misma cantidad de ácido, hay personas que lo notan **antes y con más intensidad**. A veces el problema no es solo cuánto ácido sube, sino **lo sensible que está el esófago**, porque el sistema nervioso amplifica la señal. Es un mecanismo parecido al que vemos en la hinchazón y en el colon irritable.
+Con la misma cantidad de ácido, hay personas que lo notan **antes y con más intensidad**. A veces cuenta tanto cuánto ácido sube como **lo sensible que está el esófago**, porque el sistema nervioso amplifica la señal. Es un mecanismo parecido al que vemos en la hinchazón y en el colon irritable.
 
 ## El diafragma: la parte que casi nadie trabaja
 

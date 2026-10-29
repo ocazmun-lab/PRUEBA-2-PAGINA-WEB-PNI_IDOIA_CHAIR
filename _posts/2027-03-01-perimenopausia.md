@@ -28,7 +28,7 @@ Puede que sí sea pronto para la menopausia. Pero no para la **perimenopausia**,
 
 La menopausia es un momento concreto: la **última regla**, que se confirma cuando llevas 12 meses sin ella. La perimenopausia es el **camino hasta ahí**, y puede durar varios años. Suele empezar a lo largo de los 40.
 
-Lo característico de esta etapa no es solo que las hormonas bajen, sino que **suben y bajan de forma irregular**. Por eso hay meses en que estás estupenda y otros en que todo se descoloca.
+Lo característico de esta etapa es que las hormonas **suben y bajan de forma irregular**. Por eso hay meses en que estás estupenda y otros en que todo se descoloca.
 
 Y como las hormonas sexuales hablan con el sistema nervioso, con el sistema inmune, con el metabolismo y con el intestino, los cambios se notan mucho más allá de la regla.
 
@@ -54,7 +54,7 @@ Dormir peor es muy frecuente en esta etapa, sobre todo despertarse de madrugada 
 
 Los estrógenos ayudan a proteger el hueso y el músculo. Cuando empiezan a fluctuar y a bajar, perder masa muscular y densidad ósea es más fácil, aunque no lo notes.
 
-La buena noticia es que el **entrenamiento de fuerza** es de las herramientas que más ayudan: la fuerza a intensidad moderada, **unos 3 días por semana**, mejora la densidad del hueso en mujeres tras la menopausia.
+El **entrenamiento de fuerza** es de las herramientas que más ayudan: la fuerza a intensidad moderada, **unos 3 días por semana**, mejora la densidad del hueso en mujeres tras la menopausia.
 
 **Pista:** no haces ningún ejercicio de fuerza y notas que cada vez te cuesta más cargar peso o subir escaleras.
 

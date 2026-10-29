@@ -43,11 +43,11 @@ En el SIBO, bacterias que deberían estar en el colon se acumulan en el intestin
 - Intolerancia a alimentos que antes tolerabas
 - Cansancio persistente y niebla mental
 
-Estos síntomas también pueden deberse a otras causas, por eso es importante un buen estudio y no autodiagnosticarse.
+Estos síntomas también pueden deberse a otras causas, por eso conviene estudiarlo bien antes de sacar conclusiones.
 
 ## Para cerrar esta primera parte
 
-El SIBO casi nunca aparece porque sí. Suele haber algo detrás que ha favorecido que las bacterias proliferen, y **entender ese "por qué" es lo que marca la diferencia** entre mejorar un tiempo o mejorar de verdad.
+El SIBO casi nunca aparece porque sí. Suele haber algo detrás que ha favorecido que las bacterias proliferen, y **si entiendes ese "por qué", la mejoría dura**.
 
 En la próxima entrada te cuento por qué tratar solo las bacterias no siempre es suficiente y qué se valora desde la Psiconeuroinmunología.
 
