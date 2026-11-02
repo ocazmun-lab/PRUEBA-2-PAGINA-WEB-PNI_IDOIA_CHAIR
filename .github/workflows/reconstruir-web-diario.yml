@@ -5,11 +5,14 @@ name: Reconstruir web cada día
 
 on:
   schedule:
-    # Los artículos se programan a las 8:00 (hora de España). GitHub usa hora UTC y a veces
-    # retrasa estas tareas, así que hay varias ejecuciones para cubrir verano, invierno y retrasos:
-    - cron: "15 6 * * *"  # 8:15 en verano (CEST)
-    - cron: "15 7 * * *"  # 8:15 en invierno (CET) / 9:15 en verano
-    - cron: "30 10 * * *" # respaldo por si GitHub se retrasa
+    # Los artículos se programan a las 8:00 (hora de España). GitHub usa hora UTC y suele retrasar
+    # estas tareas 6 horas o más. Las de madrugada arrancan de noche y, si hay artículo ese día,
+    # esperan hasta las 8:05. Las demás son respaldo por si GitHub se retrasa aún más:
+    - cron: "10 0 * * *"
+    - cron: "10 3 * * *"
+    - cron: "15 6 * * *"
+    - cron: "15 7 * * *"
+    - cron: "30 10 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +20,42 @@ permissions:
   contents: write
 
 jobs:
+  # GitHub corta cada trabajo a las 6 horas, por eso la espera va en dos tramos
+  esperar-1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    outputs:
+      objetivo: ${{ steps.hora.outputs.objetivo }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Esperar a las 8:05 si hoy sale un artículo
+        id: hora
+        run: |
+          hoy=$(TZ=Europe/Madrid date +%F)
+          objetivo=0
+          if [ "${{ github.event_name }}" = "schedule" ] \
+            && grep -lE "^date: *['\"]?$hoy" _posts/*.md | xargs -r grep -lE "^published: *true" | grep -q .; then
+            objetivo=$(TZ=Europe/Madrid date -d "$hoy 08:05" +%s)
+          fi
+          echo "objetivo=$objetivo" >> "$GITHUB_OUTPUT"
+          resto=$(( objetivo - $(date +%s) ))
+          [ "$resto" -gt 20400 ] && resto=20400
+          [ "$resto" -gt 0 ] && sleep "$resto"
+          exit 0
+
+  esperar-2:
+    needs: esperar-1
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Esperar lo que quede
+        run: |
+          resto=$(( ${{ needs.esperar-1.outputs.objetivo }} - $(date +%s) ))
+          [ "$resto" -gt 0 ] && sleep "$resto"
+          exit 0
+
   rebuild:
+    needs: esperar-2
     runs-on: ubuntu-latest
     steps:
       - name: Pedir a GitHub Pages que regenere la web
