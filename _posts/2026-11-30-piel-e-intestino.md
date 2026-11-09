@@ -3,6 +3,8 @@ title: "Acné, rojeces, piel reactiva: lo que tu piel puede estar contando de tu
 excerpt: "La piel y el intestino están más conectados de lo que parece. Qué dice la ciencia sobre el eje intestino-piel y qué se puede mirar desde la PNI."
 date: 2026-11-30 08:00:00 +01:00
 slug: "piel-e-intestino"
+image: "/img/blog/piel-intestino-acne-rosacea-pni.jpg"
+image_alt: "Mujer rascándose el brazo junto a una ilustración del intestino conectado con la rosácea, la psoriasis y la piel atópica, y un desayuno con fruta y yogur"
 category: "Inmune"
 tags: ["piel", "acné", "rosácea", "eje intestino-piel", "PNI"]
 meta_title: "Piel e intestino: acné, rosácea y el eje intestino-piel | Idoia Chair"
