@@ -1,6 +1,6 @@
 ---
 title: "Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer"
-excerpt: "Qué es el reflujo, por qué aparece, qué papel tiene el diafragma y qué cambios tienen respaldo científico. Te lo explico desde la PNI."
+excerpt: "El ardor que te sube a la garganta suele tener varias causas. Qué es el reflujo, qué papel tiene el diafragma y qué puedes cambiar desde hoy."
 date: 2026-12-14 08:00:00 +01:00
 slug: "reflujo-digestiones-pesadas"
 image: "/img/blog/reflujo-digestiones-pesadas.jpg"
@@ -8,7 +8,7 @@ image_alt: "Reflujo y digestiones pesadas, enfoque PNI"
 category: "Digestivo"
 tags: ["reflujo", "acidez", "digestiones pesadas", "diafragma", "PNI"]
 meta_title: "Reflujo: causas, síntomas y qué hacer | Idoia Chair"
-meta_description: "Qué es el reflujo, sus síntomas menos conocidos, por qué aparece, el papel del diafragma y qué cambios ayudan según la evidencia. Desde la Psiconeuroinmunología."
+meta_description: "Ardor, tos por la mañana o digestiones pesadas: por qué aparece el reflujo, qué papel tiene el diafragma y qué cambios te pueden ayudar."
 published: false
 ---
 

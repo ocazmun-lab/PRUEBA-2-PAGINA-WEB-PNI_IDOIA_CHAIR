@@ -1,14 +1,14 @@
 ---
 title: "Tripa plana por la mañana, «embarazada» por la noche: por qué te hinchas (y no es por tener más gases)"
-excerpt: "Por la mañana te abrochas el pantalón sin problema y por la noche no hay manera. Te explico los 4 tipos de hinchazón, cómo saber cuál es el tuyo y qué ayuda de verdad."
+excerpt: "Por la mañana te abrochas el pantalón sin problema y por la noche no hay manera. Los 4 tipos de hinchazón, cómo saber cuál es el tuyo y qué ayuda."
 date: 2026-12-07 08:00:00 +01:00
 slug: "gases-hinchazon-abdominal"
 image: "/img/blog/gases-hinchazon-abdominal.jpg"
 image_alt: "Taza de infusión caliente para la hinchazón abdominal"
 category: "Digestivo"
 tags: ["gases", "hinchazón", "digestivo", "eje intestino-cerebro", "PNI"]
-meta_title: "Gases e hinchazón abdominal: por qué pasa y qué hacer | Idoia Chair"
-meta_description: "Por qué se hincha la barriga aunque no tengas más gases: los 4 tipos de hinchazón, cómo reconocer el tuyo y qué ayuda según la evidencia."
+meta_title: "Gases e hinchazón: por qué te hinchas | Idoia Chair"
+meta_description: "Por qué se hincha la tripa aunque no tengas más gases: los 4 tipos de hinchazón, cómo reconocer el tuyo y qué te puede ayudar."
 published: false
 ---
 

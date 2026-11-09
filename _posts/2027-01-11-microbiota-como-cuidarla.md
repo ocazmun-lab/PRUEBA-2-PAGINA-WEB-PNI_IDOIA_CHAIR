@@ -1,12 +1,12 @@
 ---
 title: "Tu microbiota: qué es, por qué importa tanto y 5 formas de cuidarla"
-excerpt: "Billones de bacterias que influyen en tu digestión, tus defensas y tu inflamación. Qué dice la ciencia sobre cómo cuidarlas de verdad."
+excerpt: "¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla."
 date: 2027-01-11 08:00:00 +01:00
 slug: "microbiota-como-cuidarla"
 category: "Digestivo"
 tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]
-meta_title: "Microbiota intestinal: qué es y cómo cuidarla según la ciencia | Idoia Chair"
-meta_description: "Qué es la microbiota, por qué influye en tu digestión, tus defensas y la inflamación, y 5 formas de cuidarla con respaldo científico."
+meta_title: "Microbiota: qué es y cómo cuidarla | Idoia Chair"
+meta_description: "Qué es la microbiota, por qué influye en tu digestión, tus defensas y la inflamación, y 5 formas de cuidarla, empezando por comer 30 plantas a la semana."
 published: false
 ---
 

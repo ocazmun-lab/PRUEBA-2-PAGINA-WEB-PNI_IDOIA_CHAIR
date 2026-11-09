@@ -1,6 +1,6 @@
 ---
 title: 'Que la regla duela no es normal: 4 cosas que la ciencia sabe'
-excerpt: Inflamación, intestino, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo explico desde la Psiconeuroinmunología.
+excerpt: "Inflamación, intestino, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo cuento desde la Psiconeuroinmunología."
 date: 2026-11-02 08:00:00 +01:00
 slug: dolor-menstrual
 image: /img/blog/dolor-de-regla-causas-pni.jpg
@@ -12,8 +12,8 @@ tags:
   - hormonal
   - inflamación
   - PNI
-meta_title: 'Dolor de regla: por qué no es normal | Idoia Chair'
-meta_description: 'Por qué duele la regla: inflamación, relación con el intestino, sensibilización del sistema nervioso y endometriosis. Ideas con respaldo científico desde la PNI.'
+meta_title: "Dolor de regla: por qué no es normal | Idoia Chair"
+meta_description: "Por qué duele la regla: la inflamación, el intestino, un sistema nervioso que aprende a doler y la endometriosis. Qué puedes hacer en tu próxima regla."
 published: true
 ---
 

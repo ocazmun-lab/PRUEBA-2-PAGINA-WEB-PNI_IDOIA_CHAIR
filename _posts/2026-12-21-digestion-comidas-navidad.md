@@ -1,12 +1,12 @@
 ---
 title: "Comidas de Navidad sin acabar con la tripa a reventar: 6 claves que funcionan"
-excerpt: "No se trata de no disfrutar. Pequeños gestos con respaldo científico para que tu digestión aguante las fiestas."
+excerpt: "Estas fechas son para disfrutarlas. Seis gestos sencillos para que tu digestión aguante las comidas de Navidad, sin contar y sin culpa."
 date: 2026-12-21 08:00:00 +01:00
 slug: "digestion-comidas-navidad"
 category: "Digestivo"
 tags: ["digestión", "Navidad", "hinchazón", "reflujo", "hábitos"]
-meta_title: "Cómo hacer bien la digestión en las comidas de Navidad | Idoia Chair"
-meta_description: "Hinchazón, ardor y pesadez en las fiestas: 6 claves con respaldo científico para disfrutar de las comidas de Navidad sin acabar con malestar."
+meta_title: "Digestión en Navidad: 6 gestos que ayudan | Idoia Chair"
+meta_description: "Hinchazón, ardor y pesadez en las fiestas: 6 gestos sencillos para disfrutar de las comidas de Navidad sin acabar con la tripa a reventar."
 published: false
 ---
 

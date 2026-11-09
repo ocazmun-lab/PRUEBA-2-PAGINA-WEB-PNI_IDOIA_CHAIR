@@ -1,6 +1,6 @@
 ---
 title: 'Duermes 8 horas y te levantas agotada: 5 cosas que pueden estar detrás'
-excerpt: Un cansancio que no se va con dormir no es "lo normal". Te explico, desde la Psiconeuroinmunología, cinco causas frecuentes y qué dice la ciencia de cada una.
+excerpt: "Un cansancio que no se va durmiendo tiene explicación. Cinco causas frecuentes, del intestino a la glucosa, y qué mirar en cada una."
 date: 2026-10-19 08:00:00 +02:00
 slug: cansancio-que-hay-detras
 image: /img/blog/cansancio-cronico-causas-pni.jpg
@@ -12,8 +12,8 @@ tags:
   - inflamación
   - descanso
   - PNI
-meta_title: 'Cansancio que no se va al dormir: 5 causas desde la PNI | Idoia Chair'
-meta_description: 'Duermes bien y sigues agotada: intestino, tiroides, inflamación, descanso y glucosa. Qué explica la Psiconeuroinmunología y qué dice la evidencia de cada causa.'
+meta_title: "Cansancio que no se va al dormir: 5 causas | Idoia Chair"
+meta_description: "Duermes bien y sigues agotada: el intestino, la tiroides, la inflamación, el descanso y la glucosa pueden estar detrás. Qué mirar en cada caso."
 published: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Estreñimiento: cuando la fibra y el agua no son suficientes"
-excerpt: "Cómo saber si es estreñimiento, qué dicen tus heces según la escala de Bristol, por qué ocurre y qué ayuda según la evidencia. Desde la Psiconeuroinmunología."
+excerpt: "Cómo saber si es estreñimiento, qué dicen tus heces según la escala de Bristol, por qué pasa y qué te puede ayudar."
 date: 2027-01-25 08:00:00 +01:00
 slug: "estrenimiento-cronico-pni"
 image: "/img/blog/estrenimiento-cronico-pni.jpg"
 image_alt: "Hidratación y estreñimiento crónico, enfoque PNI"
 category: "Digestivo"
 tags: ["estreñimiento", "digestivo", "microbiota", "suelo pélvico", "PNI"]
-meta_title: "Estreñimiento crónico: más allá de la fibra y el agua | Idoia Chair"
-meta_description: "Por qué la fibra y el agua no siempre funcionan en el estreñimiento: qué fibra sí, el papel del suelo pélvico, la postura, el movimiento y el eje intestino-cerebro."
+meta_title: "Estreñimiento: más allá de la fibra | Idoia Chair"
+meta_description: "Por qué la fibra y el agua no siempre bastan: qué fibra funciona, la escala de Bristol, el suelo pélvico, la postura y el movimiento."
 published: false
 ---
 

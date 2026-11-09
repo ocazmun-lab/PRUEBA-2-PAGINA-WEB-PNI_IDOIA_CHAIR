@@ -1,6 +1,6 @@
 ---
 title: 'Estrés e intestino: por qué los nervios se te van a la tripa'
-excerpt: Tu cerebro y tu intestino se comunican en los dos sentidos. Te explico qué dice la ciencia sobre cómo el estrés cambia tu digestión, y por qué también funciona al revés.
+excerpt: "Tu cerebro y tu intestino se hablan en los dos sentidos. Qué le pasa a tu digestión con el estrés mantenido, y por qué la tripa también influye en cómo te sientes."
 date: 2026-10-12 08:00:00 +02:00
 slug: estres-e-intestino
 image: /img/blog/estres-intestino-eje-intestino-cerebro.jpg
@@ -11,8 +11,8 @@ tags:
   - eje intestino-cerebro
   - digestivo
   - PNI
-meta_title: 'Estrés e intestino: el eje intestino-cerebro desde la PNI | Idoia Chair'
-meta_description: 'Por qué el estrés afecta a tu digestión: qué es el eje intestino-cerebro, qué cambia en tu intestino con el estrés mantenido y qué explica la Psiconeuroinmunología.'
+meta_title: "Estrés e intestino: los nervios en la tripa | Idoia Chair"
+meta_description: "Por qué los nervios se notan en la digestión: qué es el eje intestino-cerebro, qué cambia en tu intestino y por qué también funciona al revés."
 published: true
 ---
 

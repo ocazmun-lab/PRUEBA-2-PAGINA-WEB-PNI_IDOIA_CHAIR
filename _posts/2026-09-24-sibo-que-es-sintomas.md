@@ -1,6 +1,6 @@
 ---
 title: 'SIBO: cuando tu barriga se hincha sin explicación (y nadie parece entenderte)'
-excerpt: 'Hinchazón, gases y digestiones pesadas que no mejoran: te explico qué es el SIBO, cuáles son sus síntomas más frecuentes y cómo reconocerlo.'
+excerpt: "Hinchazón, gases y digestiones pesadas que no mejoran. Qué es el SIBO, cuáles son sus síntomas más frecuentes y cómo reconocerlo."
 date: 2026-10-01T08:00:00
 slug: sibo-que-es-sintomas
 image: /img/blog/sibo-que-es-sintomas.jpg
@@ -11,8 +11,8 @@ tags:
   - digestivo
   - hinchazón
   - síntomas
-meta_title: 'SIBO: qué es y síntomas más frecuentes (parte 1) | Idoia Chair'
-meta_description: 'Hinchazón, gases y digestiones pesadas que no mejoran: te explico qué es el SIBO, cuáles son sus síntomas más frecuentes y cómo reconocerlo.'
+meta_title: "SIBO: qué es y cuáles son sus síntomas | Idoia Chair"
+meta_description: "Hinchazón, gases y digestiones pesadas que no mejoran: qué es el SIBO, cuáles son sus síntomas más frecuentes y cómo reconocerlo."
 published: true
 ---
 

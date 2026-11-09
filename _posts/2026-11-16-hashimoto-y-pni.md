@@ -1,6 +1,6 @@
 ---
 title: 'Hashimoto: tomas tu tratamiento y sigues cansada. Lo que conviene saber'
-excerpt: Qué es Hashimoto, cómo leer tu analítica de tiroides y qué detalles marcan la diferencia en tu día a día. Te lo explico desde la Psiconeuroinmunología.
+excerpt: "Qué es Hashimoto, cómo leer tu analítica de tiroides y qué nutrientes necesita. Por qué puedes seguir cansada aunque tomes tu tratamiento."
 date: 2026-11-16 08:00:00 +01:00
 slug: hashimoto-y-pni
 image: /img/blog/hashimoto-tiroides-autoinmune-pni.jpg
@@ -12,8 +12,8 @@ tags:
   - autoinmunidad
   - hormonal
   - PNI
-meta_title: 'Hashimoto: analítica, síntomas y qué mirar desde la PNI | Idoia Chair'
-meta_description: Qué es Hashimoto, qué significan la TSH, la T4 libre y los anticuerpos anti-TPO, por qué puedes seguir cansada con la analítica en rango y qué mira la PNI.
+meta_title: "Hashimoto: tu analítica explicada | Idoia Chair"
+meta_description: "Qué es Hashimoto, qué miden la TSH, la T4 y la T3 libres y los anticuerpos, qué nutrientes necesita tu tiroides y por qué puedes seguir cansada."
 published: true
 ---
 

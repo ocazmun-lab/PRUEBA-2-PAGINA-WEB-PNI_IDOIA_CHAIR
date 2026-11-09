@@ -5,8 +5,8 @@ date: 2027-02-22 08:00:00 +01:00
 slug: "antojos-de-dulce"
 category: "Hormonal"
 tags: ["antojos", "azúcar", "glucosa", "desayuno", "sueño"]
-meta_title: "Antojos de dulce: por qué aparecen y cómo calmarlos | Idoia Chair"
-meta_description: "Por qué te pide dulce a media tarde o después de comer: sueño, desayuno sin proteína, bajadas de glucosa y ultraprocesados. Qué dice la ciencia y qué hacer."
+meta_title: "Antojos de dulce: por qué aparecen | Idoia Chair"
+meta_description: "Por qué te pide dulce a media tarde: el sueño, un desayuno sin proteína, las bajadas de glucosa y los ultraprocesados. Qué puedes cambiar."
 published: false
 ---
 

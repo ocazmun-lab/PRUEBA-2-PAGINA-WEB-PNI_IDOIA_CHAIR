@@ -1,12 +1,12 @@
 ---
 title: "Test de intolerancias: por qué no te dicen lo que crees (y qué pruebas sí sirven)"
-excerpt: "Alergia, intolerancia y sensibilidad no son lo mismo. Qué pruebas tienen respaldo, cuáles no, y por qué no conviene quitar alimentos a ciegas."
+excerpt: "Alergia, intolerancia y celiaquía son cosas distintas. Qué pruebas sirven, cuáles no y por qué no conviene quitar alimentos a ciegas."
 date: 2026-12-28 08:00:00 +01:00
 slug: "intolerancias-alimentarias-test"
 category: "Digestivo"
 tags: ["intolerancias", "alergias", "lactosa", "test IgG", "digestivo"]
-meta_title: "Test de intolerancias alimentarias: cuáles sirven y cuáles no | Idoia Chair"
-meta_description: "Diferencia entre alergia, intolerancia y sensibilidad, por qué los test de IgG no diagnostican intolerancias y qué pruebas sí tienen respaldo científico."
+meta_title: "Test de intolerancias: cuáles sirven | Idoia Chair"
+meta_description: "Diferencias entre alergia, intolerancia y celiaquía, por qué los test de IgG no diagnostican intolerancias y qué pruebas sí sirven."
 published: false
 ---
 

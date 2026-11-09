@@ -1,12 +1,12 @@
 ---
 title: "Por qué abandonas los propósitos en febrero (y cómo crear hábitos que se quedan)"
-excerpt: "Un hábito no tarda 21 días en formarse. Qué dice la ciencia sobre crear hábitos de salud que duren, sin dietas de castigo ni cambios imposibles."
+excerpt: "Un hábito no tarda 21 días en formarse. Cómo crear hábitos de salud que duren, sin dietas de castigo ni cambios imposibles."
 date: 2027-01-04 08:00:00 +01:00
 slug: "habitos-ano-nuevo"
 category: "Consulta y método"
 tags: ["hábitos", "año nuevo", "propósitos", "salud", "PNI"]
-meta_title: "Cómo crear hábitos saludables que duren todo el año | Idoia Chair"
-meta_description: "Por qué fallan los propósitos de año nuevo y cómo crear hábitos de salud que se mantengan, según la evidencia científica."
+meta_title: "Cómo crear hábitos que duren | Idoia Chair"
+meta_description: "Por qué los propósitos de año nuevo se abandonan en febrero y cómo crear hábitos de salud que se queden, empezando muy pequeño y de uno en uno."
 published: false
 ---
 

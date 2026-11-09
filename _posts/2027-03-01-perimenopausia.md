@@ -5,8 +5,8 @@ date: 2027-03-01 08:00:00 +01:00
 slug: "perimenopausia"
 category: "Hormonal"
 tags: ["perimenopausia", "menopausia", "hormonas", "sueño", "fuerza"]
-meta_title: "Perimenopausia: síntomas, cuándo empieza y qué puedes hacer | Idoia Chair"
-meta_description: "Qué es la perimenopausia, cuándo empieza, sus síntomas (reglas irregulares, sofocos, sueño, ánimo) y qué puedes cuidar: fuerza, alimentación y descanso."
+meta_title: "Perimenopausia: síntomas y qué puedes hacer | Idoia Chair"
+meta_description: "Qué es la perimenopausia, cuándo empieza, cómo se nota (reglas irregulares, sofocos, sueño, ánimo) y qué puedes cuidar: fuerza, comida y descanso."
 published: false
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "PNI y nutrición funcional: en qué se diferencian (y en qué se parecen)"
-excerpt: "Si dudas entre un enfoque y otro, te explico de dónde viene cada uno, qué comparten y qué aporta específicamente la Psiconeuroinmunología."
+excerpt: "Si dudas entre un enfoque y otro, te cuento de dónde viene cada uno, en qué se parecen y qué aporta la Psiconeuroinmunología."
 date: 2027-02-01 08:00:00 +01:00
 slug: "pni-vs-nutricion-funcional"
 image: "/img/blog/pni-vs-nutricion-funcional.jpg"
 image_alt: "Comparativa entre PNI y nutrición funcional"
 category: "Consulta y método"
 tags: ["PNI", "nutrición funcional", "salud integrativa"]
-meta_title: "PNI y nutrición funcional: diferencias y similitudes | Idoia Chair"
-meta_description: "Qué es la Psiconeuroinmunología, qué es la nutrición funcional, qué tienen en común y cómo elegir según lo que te pasa."
+meta_title: "PNI y nutrición funcional: diferencias | Idoia Chair"
+meta_description: "Qué es la Psiconeuroinmunología, qué es la nutrición funcional, en qué se parecen, en qué se diferencian y cómo elegir según lo que te pasa."
 published: false
 ---
 

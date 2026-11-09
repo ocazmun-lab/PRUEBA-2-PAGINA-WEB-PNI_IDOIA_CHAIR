@@ -1,6 +1,6 @@
 ---
 title: 'SIBO: por qué tratar solo las bacterias no siempre es suficiente'
-excerpt: ¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo.
+excerpt: "¿Has tratado el SIBO y los síntomas han vuelto? Por qué pasa y qué mira la Psiconeuroinmunología para encontrar la causa de fondo."
 date: 2026-10-08T10:00:00
 slug: sibo-por-que-no-basta-tratar-bacterias
 image: /img/blog/sibo-iceberg-factores-ocultos.jpg
@@ -11,8 +11,8 @@ tags:
   - digestivo
   - PNI
   - hinchazón
-meta_title: 'SIBO: por qué tratar solo las bacterias no basta (parte 2) | Idoia Chair'
-meta_description: ¿Has tratado el SIBO y los síntomas han vuelto? Descubre por qué pasa y qué mira la Psiconeuroinmunología para buscar la causa de fondo.
+meta_title: "SIBO: por qué vuelve después del tratamiento | Idoia Chair"
+meta_description: "¿Has tratado el SIBO y los síntomas han vuelto? Por qué pasa y qué mira la Psiconeuroinmunología para encontrar la causa de fondo."
 published: true
 ---
 
