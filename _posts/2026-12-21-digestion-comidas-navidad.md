@@ -10,49 +10,49 @@ meta_description: "Hinchazón, ardor y pesadez en las fiestas: 6 claves con resp
 published: false
 ---
 
-Comida de empresa, cena con amigas, Nochebuena, Navidad, Nochevieja, Año Nuevo, Reyes… En pocas semanas encadenas más comidas copiosas que en el resto del año. Y tu digestión lo nota: hinchazón, ardor, pesadez, noches en las que no hay manera de dormir.
+Comida de empresa, cena con amigas, Nochebuena, Navidad, Nochevieja, Año Nuevo, Reyes… En pocas semanas encadenas más comilonas que en el resto del año. Y tu digestión lo nota: hinchazón, ardor, pesadez y alguna noche en la que no hay manera de dormir.
 
-Vamos a dejar algo claro desde el principio: **estas fechas son para disfrutar**, no para contar ni para sentirte culpable. Lo que te propongo son gestos sencillos para que tu cuerpo lo lleve mejor.
+Estas fechas son para disfrutarlas, sin contar y sin culpa. Lo que te propongo son unos gestos sencillos para que tu cuerpo lo lleve mejor.
 
 ## 1. No llegues con hambre de lobo
 
-Es muy común "guardarse" para la cena y pasar el día casi sin comer. El resultado suele ser llegar con muchísima hambre, comer muy rápido y mucha más cantidad de la que tu estómago gestiona con comodidad.
+Es muy habitual "guardarse" para la cena y pasar el día casi sin comer. Luego llegas con muchísima hambre, comes muy rápido y mucho más de lo que tu estómago lleva con comodidad.
 
-Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con hambre, pero no con un hambre voraz.
+Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con hambre, sin ir desesperada.
 
 ## 2. Come despacio y mastica
 
-Parece un consejo de abuela, pero funciona: cuando comes despacio, **comes menos y te quedas igual de saciada** que cuando comes rápido.
+Parece un consejo de abuela, y funciona: cuando comes despacio, **comes menos y te quedas igual de llena** que cuando comes rápido.
 
-Además, masticar bien es el primer paso de la digestión: cuanto mejor llega el alimento al estómago, menos trabajo tiene después. Suelta los cubiertos entre bocado y bocado y disfruta de la conversación.
+Masticar bien también ayuda, porque al estómago le llega el trabajo medio hecho. Suelta los cubiertos entre bocado y bocado y aprovecha la conversación.
 
 ## 3. Elige, no lo pruebes todo
 
-En las comidas de fiesta hay de todo y en cantidad. No hace falta probarlo todo "por si acaso": elige lo que de verdad te apetece y disfrútalo con calma. Así comes con más placer y con menos mezcla.
+En las comidas de fiesta hay de todo y en cantidad. No hace falta probarlo todo "por si acaso". Elige lo que de verdad te apetece y cómetelo con calma.
 
 ## 4. Da un paseo después de comer
 
-Es uno de los gestos más sencillos y más útiles. **Caminar un poco después de comer reduce la subida de glucosa** frente a quedarte sentada. Y moverte también ayuda a que el gas avance y a sentirte menos pesada.
+Caminar un poco después de comer hace que el azúcar en sangre suba menos que si te quedas sentada. También ayuda a que el gas avance y a sentirte menos pesada.
 
-Basta con 10-15 minutos: una vuelta a la manzana, recoger la mesa, jugar con los peques.
+Con 10 o 15 minutos basta: una vuelta a la manzana, recoger la mesa o jugar con los peques.
 
 ## 5. Deja un rato antes de tumbarte
 
-Si sueles tener ardor o reflujo, este punto es para ti. **Acostarte menos de 3 horas después de cenar hace que tengas mucho más reflujo** que si dejas más margen.
+Si sueles tener ardor o reflujo, este es para ti. Si te acuestas menos de 3 horas después de cenar, tienes bastante más reflujo que si dejas más margen.
 
-En las cenas largas no siempre es posible, pero intenta no irte a la cama nada más levantarte de la mesa.
+En las cenas largas no siempre se puede, pero intenta no irte a la cama nada más levantarte de la mesa.
 
 ## 6. Ojo con el alcohol
 
-El alcohol relaja la válvula que separa el estómago del esófago y se asocia a más reflujo. Además, empeora la calidad del sueño. Puedes brindar: alterna cada copa con agua y que no sea la base de la noche.
+El alcohol relaja la válvula que separa el estómago del esófago y da más reflujo. Además, hace que duermas peor. Puedes brindar, claro: alterna cada copa con agua y que no sea lo que más bebes en toda la noche.
 
 ## ¿Y al día siguiente?
 
-Nada de "compensar" con ayunos o dietas de castigo. Vuelve a tu rutina normal: comidas sencillas, verdura, agua, movimiento y descanso. Tu cuerpo sabe recuperarse.
+Nada de "compensar" con ayunos o dietas de castigo. Vuelve a lo de siempre: comidas sencillas, verdura, agua, moverte y dormir. Tu cuerpo sabe recuperarse.
 
 ## Cuándo consultar
 
-Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, y no solo en fiestas, merece la pena mirar qué hay detrás. Puedes empezar por estos artículos sobre [gases e hinchazón](/blog/gases-hinchazon-abdominal/) y [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
+Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, fuera de las fiestas, merece la pena mirar qué hay detrás. Puedes empezar por los artículos sobre [gases e hinchazón](/blog/gases-hinchazon-abdominal/) y [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

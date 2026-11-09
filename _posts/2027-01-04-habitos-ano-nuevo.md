@@ -12,51 +12,51 @@ published: false
 
 1 de enero: este año sí. Dieta estricta, gimnasio cinco días a la semana, cero dulce. Febrero: todo ha vuelto a ser como antes… y encima con la sensación de haber fallado.
 
-No es falta de fuerza de voluntad. **El problema suele ser el planteamiento.**
+Casi nunca es falta de fuerza de voluntad. **Suele fallar el planteamiento.**
 
 ## Un hábito no se crea en 21 días
 
-Seguro que has oído que un hábito tarda 21 días en formarse. No es así. De media, un hábito nuevo tarda **unos 2 meses** en volverse automático, y puede ir **de unas pocas semanas a más de 8 meses**, según la persona y lo que intenta cambiar.
+Seguro que has oído que un hábito tarda 21 días en formarse. De media tarda unos 2 meses en volverse automático, y puede ir de unas pocas semanas a más de 8 meses, según la persona y lo que intenta cambiar.
 
-Es decir: si a las tres semanas todavía te cuesta, no estás haciendo nada mal. Es lo normal.
+Si a las tres semanas todavía te cuesta, lo estás haciendo bien. Es lo normal.
 
-Y una buena noticia: **saltarte un día no echa por tierra el proceso.** Lo que cuenta es retomarlo.
+Y saltarte un día no echa por tierra el proceso. Lo que cuenta es retomarlo al siguiente.
 
 ## Por qué fallan los cambios radicales
 
-Las dietas muy restrictivas funcionan a corto plazo, pero la mayoría de las personas recupera el peso perdido en los años siguientes. Cuando el cambio es tan grande que no encaja en tu vida, tarde o temprano se rompe.
+Las dietas muy restrictivas funcionan unas semanas, y la mayoría de las personas recupera el peso en los años siguientes. Si el cambio es tan grande que no cabe en tu vida, tarde o temprano se rompe.
 
-Desde la PNI lo vemos así: tu cuerpo necesita **constancia**, no heroicidades de unas semanas.
+Desde la PNI lo vemos así: a tu cuerpo le sirve lo que haces casi todos los días durante meses, más que el esfuerzo enorme de unas semanas.
 
 ## Cómo crear hábitos que se quedan
 
 ### 1. Empieza muy pequeño
-Mejor añadir una ración de verdura a la cena que "cambiar toda la alimentación". Mejor caminar 15 minutos que apuntarte a cinco clases a la semana. Lo pequeño se mantiene; lo grande se abandona.
+Añade una ración de verdura a la cena antes de intentar "cambiar toda la alimentación". Camina 15 minutos antes de apuntarte a cinco clases a la semana. Lo pequeño se mantiene.
 
 ### 2. Decide cuándo y dónde
-Cuando concretas **"cuando pase X, haré Y"**, cumples mucho más tus objetivos que si solo tienes la intención. Por ejemplo: "cuando deje a los niños en el cole, daré un paseo de 15 minutos".
+Si concretas "cuando pase X, haré Y", cumples mucho más que si solo tienes la intención. Por ejemplo: "cuando deje a los niños en el cole, daré un paseo de 15 minutos".
 
 ### 3. Engánchalo a algo que ya haces
-Los hábitos nuevos se asientan mejor si van pegados a uno que ya tienes: después del café, al llegar a casa, al recoger la cena.
+Un hábito nuevo se asienta mejor si va pegado a uno que ya tienes: después del café, al llegar a casa o al recoger la cena.
 
-### 4. Suma, no restes
-En lugar de centrarte en todo lo que vas a quitar, piensa en lo que vas a añadir: más verdura, más agua, más movimiento, más horas de sueño. Lo que añades va desplazando poco a poco a lo demás.
+### 4. Piensa en lo que añades
+Fíjate más en lo que vas a sumar que en lo que vas a quitar: más verdura, más agua, más movimiento, más horas de sueño. Lo que añades va dejando menos sitio a lo demás.
 
-### 5. Uno detrás de otro
-No intentes cambiar cinco cosas a la vez. Elige uno, consolídalo y después pasa al siguiente.
+### 5. De uno en uno
+No intentes cambiar cinco cosas a la vez. Elige una, consolídala y después pasa a la siguiente.
 
-## Los hábitos que más suman
+## Por dónde empezar
 
-Si no sabes por dónde empezar, estos son los que más impacto tienen en tu salud desde la mirada de la PNI:
+Si no sabes cuál elegir, desde la PNI estos son los que más se notan en tu salud:
 
-- **Dormir lo suficiente** y con regularidad.
-- **Comer más comida de verdad** y menos ultraprocesados.
-- **Moverte cada día**, y añadir algo de fuerza.
-- **Cuidar tu intestino**, con verdura variada y alimentos fermentados.
+- Dormir lo suficiente y a horas parecidas.
+- Comer más comida de verdad y menos ultraprocesados.
+- Moverte cada día y añadir algo de fuerza.
+- Cuidar tu intestino con verdura variada y algún fermentado.
 
 ## Qué hago en consulta
 
-En consulta no te doy un plan imposible de cumplir. Partimos de cómo es tu vida real y elegimos los cambios que más impacto van a tener en tu caso, de uno en uno y a tu ritmo. Así es como los cambios se quedan.
+Partimos de tu vida real, con tus horarios y tu trabajo, y elegimos los cambios que más se van a notar en tu caso. De uno en uno y a tu ritmo, que es como se quedan.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

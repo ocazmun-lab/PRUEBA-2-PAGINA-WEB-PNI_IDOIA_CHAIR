@@ -12,70 +12,70 @@ meta_description: "Qué es el reflujo, sus síntomas menos conocidos, por qué a
 published: false
 ---
 
-Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz tomada, con tos, o con la sensación de que la cena sigue "ahí". Si te pasa a menudo, tu cuerpo te está diciendo que algo no está cerrando bien.
+Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz tomada, con tos, o con la sensación de que la cena sigue "ahí". Si te pasa a menudo, algo no está cerrando bien.
 
 ## ¿Te suena esto?
 
 El reflujo no siempre se nota como ardor. Estos son sus síntomas más habituales:
 
-- **Ardor** detrás del esternón, sobre todo después de comer.
-- **Sabor ácido o amargo** en la boca, sobre todo al tumbarte.
-- **Tos, carraspera o ronquera**, a menudo por las mañanas.
-- **Digestiones pesadas**: la sensación de que la comida se queda en el estómago durante horas.
+- Ardor detrás del esternón, sobre todo después de comer.
+- Sabor ácido o amargo en la boca, sobre todo al tumbarte.
+- Tos, carraspera o ronquera, muchas veces por la mañana.
+- Digestiones pesadas, con la sensación de que la comida se queda horas en el estómago.
 
 ## Qué es el reflujo: una puerta que no cierra bien
 
-El estómago está preparado para el ácido: tiene su propia capa de protección. El esófago no. Por eso, cuando el contenido del estómago sube, irrita y quema.
+El estómago está preparado para el ácido y tiene su propia capa de protección. El esófago no la tiene. Por eso, cuando el contenido del estómago sube, irrita y quema.
 
-Entre los dos hay una válvula, el esfínter esofágico inferior, que se abre para dejar pasar la comida y se cierra para que no vuelva a subir. Ese cierre no depende solo de la válvula: **el diafragma**, el músculo con el que respiras, la rodea y la ayuda a mantenerse cerrada.
+Entre los dos hay una válvula, el esfínter esofágico inferior, que se abre para dejar pasar la comida y se cierra para que no vuelva a subir. A esa válvula la ayuda **el diafragma**, el músculo con el que respiras, que la rodea y la mantiene cerrada.
 
-## Por qué aparece: casi siempre es una suma
+## Por qué aparece
 
-Hay varios factores que favorecen el reflujo, y casi nunca hay uno solo:
+Casi siempre se juntan varias cosas:
 
-- **Comidas copiosas o cenar tarde.**
-- **Más presión en el abdomen**: sobrepeso, embarazo o ropa ajustada.
-- **Hernia de hiato**, cuando parte del estómago sube por encima del diafragma.
-- **Tabaco y alcohol.**
-- **Un estómago que se vacía despacio.**
-- **Alimentos que te sientan mal a ti**, que no son los mismos para todo el mundo.
+- Comidas muy abundantes o cenar tarde.
+- Más presión en el abdomen, por sobrepeso, embarazo o ropa ajustada.
+- Una hernia de hiato, cuando parte del estómago sube por encima del diafragma.
+- Tabaco y alcohol.
+- Un estómago que se vacía despacio.
+- Alimentos que te sientan mal a ti, que no tienen por qué ser los mismos que a tu vecina.
 
-Por eso no hay una dieta igual para todas las personas: hay que buscar tus factores.
+Por eso no hay una dieta del reflujo que valga para todo el mundo. Hay que buscar lo tuyo.
 
-## Lo que añade la PNI: no siempre es más ácido
+## Lo que añade la PNI: a veces el esófago está más sensible
 
-Con la misma cantidad de ácido, hay personas que lo notan **antes y con más intensidad**. A veces cuenta tanto cuánto ácido sube como **lo sensible que está el esófago**, porque el sistema nervioso amplifica la señal. Es un mecanismo parecido al que vemos en la hinchazón y en el colon irritable.
+Con la misma cantidad de ácido, hay personas que lo notan antes y con más intensidad. En ellas cuenta tanto el ácido que sube como lo sensible que está el esófago, porque el sistema nervioso amplifica la señal. Pasa algo parecido en la hinchazón y en el colon irritable.
 
-## El diafragma: la parte que casi nadie trabaja
+## El diafragma, la parte que casi nadie trabaja
 
-Como el diafragma ayuda a cerrar la válvula, entrenarlo puede ayudar. Unas semanas de **ejercicios de respiración abdominal** pueden reducir el ácido que sube, mejorar cómo te encuentras y hacer que necesites menos tratamiento con el tiempo. Es una herramienta que trabajo en consulta.
+Si el diafragma ayuda a cerrar la válvula, entrenarlo ayuda. Unas semanas de ejercicios de respiración abdominal pueden reducir el ácido que sube, hacer que te encuentres mejor y que con el tiempo necesites menos tratamiento. Es algo que trabajo en consulta.
 
 ## Digestiones pesadas: descarta el Helicobacter
 
-Si lo que tienes es sobre todo pesadez, saciedad rápida o dolor en la boca del estómago, conviene **descartar una infección por *Helicobacter pylori*** antes de hablar de "dispepsia funcional". Es una prueba sencilla que puede pedirte tu médico.
+Si lo tuyo es sobre todo pesadez, llenarte enseguida o dolor en la boca del estómago, conviene descartar una infección por *Helicobacter pylori* antes de hablar de "dispepsia funcional". Es una prueba sencilla que te puede pedir tu médico.
 
 ## Lo que puedes hacer
 
-- **Cenar 2 o 3 horas antes de acostarte.**
-- **Dormir sobre el lado izquierdo.** En esa postura el ácido sube menos tiempo y el esófago lo limpia más rápido que boca arriba o sobre el lado derecho.
-- **Elevar el cabecero de la cama** si los síntomas son nocturnos. No basta con poner más almohadas: hay que elevar la cama.
-- **Respiración diafragmática** unos minutos al día.
-- **Comer despacio y en raciones más pequeñas**, e identificar tus alimentos desencadenantes en lugar de seguir listas generales.
-- **Perder peso** si hay sobrepeso, y dejar el tabaco.
+- Cenar 2 o 3 horas antes de acostarte.
+- Dormir sobre el lado izquierdo. En esa postura el ácido sube menos tiempo y el esófago lo limpia más rápido que boca arriba o sobre el lado derecho.
+- Si te pasa por la noche, elevar el cabecero de la cama unos centímetros. Con más almohadas solo doblas el cuello.
+- Hacer respiración diafragmática unos minutos al día.
+- Comer despacio y en platos más pequeños, y apuntar qué alimentos te sientan mal a ti.
+- Perder peso si te sobra, y dejar el tabaco.
 
-Si llevas tiempo con protector, no lo dejes de golpe por tu cuenta: puede dar un efecto rebote. Revísalo con tu médico.
+Si llevas tiempo con protector, no lo dejes de golpe por tu cuenta, porque puede dar efecto rebote. Háblalo con tu médico.
 
 ## Qué miro en consulta
 
-En consulta busco qué combinación de factores hay en tu caso: cómo y a qué hora comes y cenas, cómo es tu digestión, si se ha descartado el *Helicobacter*, desde cuándo te pasa y qué has probado ya, y cómo funcionan tu respiración, tu diafragma y tu postura.
+En consulta busco qué se junta en tu caso: cómo y a qué hora comes y cenas, cómo haces la digestión, si se ha descartado el *Helicobacter*, desde cuándo te pasa y qué has probado ya, y cómo funcionan tu respiración, tu diafragma y tu postura.
 
-Con eso trabajamos la alimentación y los ritmos de comida, el diafragma y la respiración, siempre en coordinación con tu médico.
+Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la respiración, siempre de acuerdo con tu médico.
 
-## Cuándo acudir al médico
+## Cuándo ir al médico
 
-Consulta cuanto antes si tienes **dificultad o dolor al tragar, pérdida de peso sin explicación, vómitos, sangre en el vómito o heces negras, anemia**, o si los síntomas empiezan a partir de los 60 años.
+Ve cuanto antes si te cuesta o te duele tragar, si pierdes peso sin explicación, si vomitas, si hay sangre en el vómito o las heces son negras, si tienes anemia o si los síntomas empiezan a partir de los 60 años.
 
-Si además notas gases o hinchazón, puede interesarte el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/), y si llevas años con protector, el de [SIBO](/blog/sibo-que-es-sintomas/).
+Si además notas gases o hinchazón, te puede interesar el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/). Y si llevas años con protector, el de [SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

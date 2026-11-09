@@ -10,47 +10,46 @@ meta_description: "Diferencia entre alergia, intolerancia y sensibilidad, por qu
 published: false
 ---
 
-Te haces un test de intolerancias, te sale una lista de 20 alimentos "prohibidos" y empiezas a quitarlos. Al principio parece que mejoras un poco, pero con el tiempo comes cada vez menos cosas, te agobia salir a comer fuera… y los síntomas siguen.
+Te haces un test de intolerancias, te sale una lista de 20 alimentos "prohibidos" y empiezas a quitarlos. Al principio parece que mejoras un poco. Con el tiempo comes cada vez menos cosas, te agobia salir a comer fuera… y los síntomas siguen.
 
-Es una historia que veo muy a menudo en consulta. Y tiene una explicación.
+Lo veo muy a menudo en consulta, y tiene una explicación.
 
-## Alergia, intolerancia y sensibilidad: no es lo mismo
+## Alergia, intolerancia y celiaquía son cosas distintas
 
-- **Alergia alimentaria:** el sistema inmune reacciona contra un alimento, a veces con síntomas inmediatos e intensos (picor, ronchas, hinchazón de labios, dificultad para respirar). La diagnostica el alergólogo.
-- **Intolerancia:** el cuerpo no digiere o no absorbe bien un componente del alimento. El ejemplo más claro es la **lactosa**: si falta la enzima que la digiere, llega al intestino grueso, fermenta y produce gases, hinchazón o diarrea.
-- **Celiaquía:** no es una intolerancia ni una alergia, sino una enfermedad autoinmune desencadenada por el gluten. Tiene su propio diagnóstico médico.
+En una **alergia alimentaria**, el sistema inmune reacciona contra un alimento, a veces con síntomas inmediatos e intensos: picor, ronchas, labios hinchados o dificultad para respirar. La diagnostica el alergólogo.
+
+En una **intolerancia**, el cuerpo no digiere o no absorbe bien un componente del alimento. El ejemplo más claro es la lactosa: si falta la enzima que la digiere, llega al intestino grueso, fermenta y da gases, hinchazón o diarrea.
+
+La **celiaquía** es una enfermedad autoinmune que desencadena el gluten. Tiene su propio diagnóstico médico.
 
 ## El problema de los test de IgG
 
-Muchos test de "intolerancias" que se venden miden unos anticuerpos llamados **IgG** frente a decenas de alimentos. Suena muy científico, pero **no sirven para diagnosticar intolerancias.**
+Muchos test de "intolerancias" que se venden miden unos anticuerpos llamados IgG frente a decenas de alimentos. Suena muy científico, pero no sirven para diagnosticar intolerancias.
 
-¿Por qué? Porque tener IgG frente a un alimento suele indicar simplemente que **lo comes a menudo**: es una respuesta normal del cuerpo al contacto con ese alimento, no una señal de que te siente mal. Por eso estos test suelen "salir positivos" justo con lo que más comes.
+Tener IgG frente a un alimento suele indicar que lo comes a menudo. Es la respuesta normal del cuerpo cuando ve ese alimento con frecuencia, y no quiere decir que te siente mal. Por eso estos test suelen "salir positivos" justo con lo que más comes.
 
-El riesgo es quitar alimentos que no te hacen daño, empobrecer tu alimentación y tu microbiota, y no encontrar la causa real.
+El riesgo es quitar alimentos que no te hacen daño, comer cada vez peor, empobrecer tu microbiota y no encontrar la causa.
 
-## Qué pruebas sí tienen respaldo
+## Qué pruebas sí sirven
 
-- **Lactosa y fructosa:** la prueba del aliento (test de hidrógeno y metano) mide los gases que se producen cuando ese azúcar no se absorbe bien.
-- **Celiaquía:** análisis de sangre con anticuerpos específicos y, si hace falta, biopsia. Importante: **hay que hacerla sin haber quitado el gluten antes**, porque si no puede dar un falso negativo.
-- **Alergias:** pruebas cutáneas o IgE en sangre, interpretadas siempre por el alergólogo según tus síntomas.
-- **SIBO:** también se estudia con prueba del aliento. Te lo explico en [este artículo sobre SIBO](/blog/sibo-que-es-sintomas/).
+- Para la lactosa y la fructosa, la prueba del aliento, que mide los gases que se producen cuando ese azúcar no se absorbe bien.
+- Para la celiaquía, un análisis de sangre con anticuerpos específicos y, si hace falta, una biopsia. Hay que hacerla **sin haber quitado el gluten antes**, porque si no puede dar un falso negativo.
+- Para las alergias, pruebas en la piel o IgE en sangre, que interpreta el alergólogo según tus síntomas.
+- El SIBO también se estudia con una prueba del aliento. Te lo explico en [este artículo sobre SIBO](/blog/sibo-que-es-sintomas/).
 
-## La intolerancia a la lactosa es más frecuente de lo que parece
+## La intolerancia a la lactosa es muy frecuente
 
-Se calcula que alrededor de **2 de cada 3 adultos en el mundo** digieren mal la lactosa, aunque varía mucho según el origen. Y no siempre hay que quitar todos los lácteos: el yogur natural y los quesos curados tienen muy poca lactosa y muchas personas los toleran bien.
+Alrededor de 2 de cada 3 adultos en el mundo digieren mal la lactosa, aunque cambia mucho según de dónde vengas. Y no siempre hay que quitar todos los lácteos: el yogur natural y los quesos curados tienen muy poca lactosa y muchas personas los toleran bien.
 
 ## Antes de quitar nada
 
-Si notas que algo te sienta mal, lo más útil es:
+Si notas que algo te sienta mal, apunta durante unas semanas lo que comes y cómo te encuentras. No quites alimentos a ciegas ni durante mucho tiempo, y hazte las pruebas adecuadas antes de retirar nada, sobre todo el gluten.
 
-1. **Apuntar lo que comes y cómo te sientes** durante unas semanas.
-2. **No quitar alimentos a ciegas** ni durante mucho tiempo.
-3. **Hacer las pruebas adecuadas** antes de retirar nada, sobre todo el gluten.
-4. **Mirar qué hay detrás:** a veces el problema está en un intestino más sensible o en un tránsito alterado, y el alimento solo lo destapa.
+Y mira qué hay detrás. A veces el problema está en un intestino más sensible o que va lento, y el alimento solo lo destapa.
 
 ## Qué miro en consulta
 
-En consulta no te doy una lista de prohibidos. Estudio tu historia digestiva, cuándo aparecen los síntomas y con qué, y solo pido las pruebas que tienen sentido en tu caso. Si hace falta retirar algo, es de forma temporal y guiada, y después lo reintroducimos.
+En consulta repaso tu historia digestiva, cuándo aparecen los síntomas y con qué, y solo pido las pruebas que tienen sentido en tu caso. Si hace falta retirar algo, es durante un tiempo y con un plan, y después lo volvemos a introducir.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

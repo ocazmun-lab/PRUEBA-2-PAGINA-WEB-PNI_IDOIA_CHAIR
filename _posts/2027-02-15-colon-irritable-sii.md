@@ -14,67 +14,67 @@ Llevas años con la tripa a su aire. Unos días, diarrea; otros, estreñimiento.
 
 Te han hecho pruebas, todo ha salido "bien" y al final alguien te ha dicho: *"es colon irritable, tendrás que aprender a vivir con ello"*.
 
-Es verdad que el colon irritable no se cura con una pastilla. Pero "es lo que hay" se queda muy corto. Hoy sabemos bastante sobre qué lo mantiene, y muchas de esas piezas se pueden trabajar.
+El colon irritable no se cura con una pastilla, eso es verdad. Pero hoy sabemos bastante sobre qué lo mantiene, y muchas de esas cosas se pueden trabajar.
 
 ## ¿Te suena esto?
 
-- **Dolor o molestia en la tripa** que cambia cuando vas al baño.
-- **Diarrea, estreñimiento, o los dos** según la semana.
-- **Hinchazón** que va a más a lo largo del día.
-- **Urgencia** por ir al baño, sobre todo después de comer.
+- Dolor o molestia en la tripa que cambia cuando vas al baño.
+- Diarrea, estreñimiento, o los dos según la semana.
+- Hinchazón que va a más a lo largo del día.
+- Prisa por ir al baño, sobre todo después de comer.
 
 ## Qué es el colon irritable
 
-El síndrome del intestino irritable (SII) es uno de los problemas digestivos más frecuentes. Hoy se clasifica como un **trastorno de la interacción entre el intestino y el cerebro**: el intestino no tiene una lesión visible, pero **funciona de otra manera**. Se mueve distinto, es más sensible y se comunica de otra forma con el sistema nervioso.
+El síndrome del intestino irritable (SII) es uno de los problemas digestivos más frecuentes. Hoy se considera un **trastorno de la comunicación entre el intestino y el cerebro**. El intestino no tiene ninguna lesión que se vea, y aun así se mueve distinto, es más sensible y se comunica de otra forma con el sistema nervioso.
 
-El diagnóstico lo hace tu médico, y antes conviene descartar otras causas, como la **celiaquía** o la enfermedad inflamatoria intestinal.
+El diagnóstico lo hace tu médico, y antes hay que descartar otras causas, como la celiaquía o la enfermedad inflamatoria intestinal.
 
 ## 1. Un intestino más sensible
 
-En muchas personas con colon irritable, el intestino **siente más**. Una cantidad normal de gas o el movimiento normal de la digestión se notan como dolor o como una hinchazón muy molesta. No es que te lo imagines: las señales que llegan desde el intestino se procesan de forma más intensa.
+En muchas personas con colon irritable, el intestino siente más. Una cantidad normal de gas o el movimiento normal de la digestión se notan como dolor o como una hinchazón muy molesta. Te lo notas de verdad: las señales que llegan desde el intestino se procesan con más intensidad.
 
-**Pista:** notas tu tripa a todas horas, incluso con comidas que a otras personas no les hacen nada.
+Te pasa si notas la tripa a todas horas, incluso con comidas que a otras personas no les hacen nada.
 
 ## 2. Una gastroenteritis que lo cambió todo
 
-A veces todo empieza después de una **infección intestinal**. Un gran análisis encontró que **más de 1 de cada 10 personas** desarrolla colon irritable en el año siguiente a una gastroenteritis. La infección pasa, pero el intestino se queda más sensible y con la microbiota alterada.
+A veces todo empieza después de una infección intestinal. Más de 1 de cada 10 personas desarrolla colon irritable en el año siguiente a una gastroenteritis. La infección pasa, y el intestino se queda más sensible y con la microbiota alterada.
 
-**Pista:** recuerdas que todo empezó tras una gastroenteritis o una intoxicación alimentaria.
+Te pasa si recuerdas que todo empezó tras una gastroenteritis o una intoxicación.
 
 ## 3. Lo que comes
 
-Hay alimentos ricos en ciertos azúcares que fermentan mucho, los llamados **FODMAP** (algunas frutas, legumbres, lácteos con lactosa, trigo, cebolla, ajo…). En un intestino sensible, ese gas extra se nota más.
+Hay alimentos con ciertos azúcares que fermentan mucho, los llamados FODMAP: algunas frutas, las legumbres, los lácteos con lactosa, el trigo, la cebolla, el ajo… En un intestino sensible, ese gas de más se nota.
 
-La **dieta baja en FODMAP** es de las que más evidencia tienen para aliviar los síntomas, sobre todo la hinchazón. Pero tiene letra pequeña: **es temporal**, hay que **reintroducir los alimentos** después para saber cuáles te sientan mal de verdad, y conviene hacerla **con un profesional**. Quitar alimentos a largo plazo empobrece tu microbiota.
+La dieta baja en FODMAP es de las que mejor funcionan para aliviar los síntomas, sobre todo la hinchazón. Tiene su letra pequeña: es temporal, después hay que volver a introducir los alimentos para saber cuáles te sientan mal de verdad, y conviene hacerla con un profesional. Quitar alimentos durante mucho tiempo empobrece tu microbiota.
 
-**Pista:** has ido quitando alimentos por tu cuenta y cada vez comes menos cosas.
+Te pasa si has ido quitando alimentos por tu cuenta y cada vez comes menos cosas.
 
-## 4. El eje intestino-cerebro y el movimiento
+## 4. El intestino, el cerebro y el movimiento
 
-El intestino y el cerebro están en conversación constante. Por eso las épocas de más tensión suelen notarse en la tripa.
+El intestino y el cerebro se hablan todo el rato. Por eso las épocas de más tensión suelen notarse en la tripa.
 
-Y el movimiento ayuda más de lo que parece: **aumentar la actividad física** mejora mucho los síntomas del colon irritable.
+Y moverte ayuda más de lo que parece: aumentar la actividad física mejora mucho los síntomas.
 
-**Pista:** pasas muchas horas sentada y te mueves poco.
+Te pasa si pasas muchas horas sentada y te mueves poco.
 
 ## Lo que puedes hacer desde hoy
 
-- **Come con calma** y a horarios regulares. Comer deprisa te hace tragar más aire.
-- **Lleva un diario** de lo que comes y cómo te sienta durante unas semanas.
-- **No quites alimentos por tu cuenta** a largo plazo: si sospechas de alguno, hazlo con ayuda.
-- **Muévete cada día**: caminar después de comer es un buen comienzo.
-- **Cuida tu descanso**, porque dormir mal también hace al intestino más sensible.
-- Si notas que los nervios se te van a la tripa, existen **terapias psicológicas** específicas para el colon irritable que funcionan muy bien.
+- Come con calma y a horas parecidas. Comiendo deprisa tragas más aire.
+- Apunta durante unas semanas lo que comes y cómo te sienta.
+- No quites alimentos por tu cuenta durante mucho tiempo. Si sospechas de alguno, hazlo con ayuda.
+- Muévete cada día. Caminar después de comer es un buen comienzo.
+- Duerme bien, porque dormir mal también hace al intestino más sensible.
+- Si notas que los nervios se te van a la tripa, hay terapias psicológicas específicas para el colon irritable que funcionan muy bien.
 
-## Cuándo consultar con tu médico
+## Cuándo ir al médico
 
-Si ves **sangre en las heces**, **pierdes peso** sin buscarlo, los síntomas **te despiertan por la noche**, han empezado **después de los 50**, tienes **anemia** o hay antecedentes en tu familia de cáncer de colon, celiaquía o enfermedad inflamatoria intestinal, consúltalo con tu médico antes de nada.
+Ve a tu médico antes de nada si ves **sangre en las heces**, pierdes peso sin buscarlo, los síntomas te despiertan por la noche, han empezado después de los 50, tienes anemia o en tu familia ha habido cáncer de colon, celiaquía o enfermedad inflamatoria intestinal.
 
 ## Qué miro en consulta
 
-Cuando alguien llega con colon irritable, no me quedo en la etiqueta. Miro cuándo empezó, qué come y cómo come, cómo va al baño, cómo duerme, cuánto se mueve y si hay piezas como el [SIBO](/blog/sibo-que-es-sintomas/) que conviene descartar. El objetivo es que tu intestino vuelva a tolerar más cosas.
+Cuando llegas con colon irritable, miro más allá de la etiqueta: cuándo empezó, qué comes y cómo comes, cómo vas al baño, cómo duermes, cuánto te mueves y si hay algo como un [SIBO](/blog/sibo-que-es-sintomas/) que conviene descartar. Lo que buscamos es que tu intestino vuelva a tolerar más cosas.
 
-Si la hinchazón es tu síntoma principal, lee [los 4 tipos de hinchazón](/blog/gases-hinchazon-abdominal/). Y si lo tuyo es más bien el estreñimiento, te interesa [cuando la fibra y el agua no son suficientes](/blog/estrenimiento-cronico-pni/).
+Si la hinchazón es lo que más te molesta, lee [los 4 tipos de hinchazón](/blog/gases-hinchazon-abdominal/). Y si lo tuyo es más bien el estreñimiento, te interesa [cuando la fibra y el agua no son suficientes](/blog/estrenimiento-cronico-pni/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

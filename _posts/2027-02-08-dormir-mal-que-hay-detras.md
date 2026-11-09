@@ -12,69 +12,68 @@ published: false
 
 Te metes en la cama agotada. Y entonces, o no hay manera de dormirse, o caes rendida… y a las 3 de la madrugada tienes los ojos como platos.
 
-Al día siguiente, café para arrancar, más café para aguantar la tarde y la sensación de ir siempre con el depósito en reserva.
+Al día siguiente, café para arrancar, más café para aguantar la tarde y la sensación de ir siempre en reserva.
 
-Dormir mal no es solo "cosa de nervios". Tu sueño depende de un reloj interno que se ajusta cada día con lo que haces: la luz que ves, cuándo comes, cuánto te mueves. Y ahí hay piezas que sí puedes cuidar.
+Dormir mal tiene poco de "cosa de nervios". Tu sueño depende de un reloj interno que se pone en hora cada día con lo que haces: la luz que ves, cuándo comes, cuánto te mueves. Y eso lo puedes cambiar.
 
 ## ¿Te suena esto?
 
-- Tardas **más de media hora** en dormirte casi todas las noches.
-- Te despiertas **de madrugada** y te cuesta volver a dormirte.
-- Te levantas **sin sensación de haber descansado**.
-- Por la tarde tienes un **bajón** que solo arreglas con café o algo dulce.
+- Tardas más de media hora en dormirte casi todas las noches.
+- Te despiertas de madrugada y te cuesta volver a dormirte.
+- Te levantas sin sensación de haber descansado.
+- Por la tarde tienes un bajón que solo arreglas con café o algo dulce.
 
-## Por qué el sueño importa tanto
+## Por qué importa tanto dormir
 
-Mientras duermes, tu cuerpo no está "apagado". Se reparan tejidos, se ordenan las hormonas y el sistema inmune hace buena parte de su trabajo de mantenimiento.
+Mientras duermes, tu cuerpo sigue trabajando: repara tejidos, ordena las hormonas y el sistema inmune hace buena parte de su mantenimiento.
 
-Por eso, cuando el sueño falla un día tras otro, se nota en todo. **Dormir mal se asocia a más inflamación en sangre.** Y una inflamación de fondo mantenida está detrás de muchos síntomas que parecen no tener relación entre sí.
+Por eso, cuando el sueño falla un día tras otro, se nota en todo. Dormir mal se asocia a más inflamación en sangre, y una inflamación de fondo está detrás de muchos síntomas que parecen sueltos.
 
-## 1. La luz: tu reloj interno se pone en hora por la mañana
+## 1. La luz pone en hora tu reloj por la mañana
 
-Tu cuerpo tiene un reloj que marca cuándo toca estar despierta y cuándo toca dormir. La señal que más lo ajusta es **la luz**.
+Tu cuerpo tiene un reloj que marca cuándo toca estar despierta y cuándo dormir. Lo que más lo ajusta es la luz.
 
-Si pasas el día en interiores, con poca luz natural, y por la noche estás delante de pantallas y luces fuertes, ese reloj recibe señales confusas: de día, poca luz; de noche, demasiada.
+Si pasas el día dentro, con poca luz natural, y por la noche estás delante de pantallas y luces fuertes, el reloj se lía: poca luz de día y demasiada de noche.
 
-**Pista:** apenas sales a la calle por la mañana y te acuestas con el móvil en la mano.
+Te pasa si apenas sales a la calle por la mañana y te acuestas con el móvil en la mano.
 
 ## 2. La cafeína dura más de lo que crees
 
-La cafeína tomada **incluso 6 horas antes de acostarte** puede quitarte más de una hora de sueño. Y lo más curioso: **ni te das cuenta**.
+La cafeína tomada incluso 6 horas antes de acostarte puede quitarte más de una hora de sueño. Y lo más curioso es que **ni te das cuenta**.
 
-Ese café de después de comer, o el de las cinco para aguantar, puede estar pasándote factura por la noche.
+El café de después de comer, o el de las cinco para aguantar, te puede estar pasando factura por la noche.
 
-**Pista:** tomas café, té o refrescos de cola después de comer.
+Te pasa si tomas café, té o refrescos de cola después de comer.
 
 ## 3. Lo que comes también se nota en la cama
 
-Los días en que comes **más fibra**, el sueño suele ser **más profundo**. Con más azúcar, hay **más despertares**.
+Los días en que comes más fibra, el sueño suele ser más profundo. Con más azúcar, te despiertas más veces.
 
-Las cenas muy copiosas o muy tardías tampoco ayudan: tu cuerpo sigue trabajando en la digestión cuando debería estar descansando.
+Las cenas muy abundantes o muy tardías tampoco ayudan, porque tu cuerpo sigue haciendo la digestión cuando debería descansar.
 
-**Pista:** cenas tarde, deprisa, o lo que pillas porque llegas sin hambre "de verdad".
+Te pasa si cenas tarde, deprisa o lo primero que pillas.
 
 ## 4. Moverte de día para dormir de noche
 
-El ejercicio regular **mejora la calidad del sueño** y ayuda a dormirse antes. No hace falta un entrenamiento intenso: caminar a buen ritmo, subir escaleras o hacer algo de fuerza, de forma constante, ya suma.
+El ejercicio regular hace que duermas mejor y que te duermas antes. Con caminar a buen ritmo, subir escaleras o hacer algo de fuerza, de forma constante, ya se nota.
 
-**Pista:** llegas a la noche cansada de cabeza, pero tu cuerpo apenas se ha movido.
+Te pasa si llegas a la noche con la cabeza agotada y el cuerpo casi sin haberse movido.
 
 ## Lo que puedes hacer desde hoy
 
-- **Sal a la luz natural por la mañana**, aunque sea un paseo de 10 o 15 minutos.
-- **Deja la cafeína después de comer.** Si te cuesta, pásala a media mañana.
-- **Cena algo más pronto y más ligero**, con verdura y algo de proteína.
-- **Baja las luces y aparta las pantallas** en la última hora del día.
-- **Intenta acostarte y levantarte a horas parecidas**, también el fin de semana.
-- **Muévete cada día.**
+- Sal a la luz natural por la mañana, aunque sea un paseo de 10 o 15 minutos.
+- Deja la cafeína después de comer. Si te cuesta, pásala a media mañana.
+- Cena algo antes y más ligero, con verdura y algo de proteína.
+- Baja las luces y aparta las pantallas en la última hora del día.
+- Acuéstate y levántate a horas parecidas, también el fin de semana.
 
-## Cuándo consultar con tu médico
+## Cuándo ir al médico
 
-Si roncas fuerte y te dicen que haces pausas al respirar, si te duermes durante el día sin querer, si notas las piernas inquietas al acostarte, o si el insomnio dura meses y te afecta mucho en tu día a día, coméntalo con tu médico. Y si lo que no te deja dormir son las preocupaciones, la psicología tiene herramientas muy eficaces para el insomnio.
+Si roncas fuerte y te dicen que haces pausas al respirar, si te duermes de día sin querer, si notas las piernas inquietas al acostarte o si el insomnio dura meses y te afecta mucho, coméntalo con tu médico. Y si lo que no te deja dormir son las preocupaciones, la psicología tiene herramientas muy eficaces para el insomnio.
 
 ## Qué miro en consulta
 
-Cuando alguien me cuenta que duerme mal, no me quedo solo en el sueño. Miro sus horarios de comida y de luz, cómo cena, cuánto se mueve, cómo está su digestión y si hay algo que pueda estar manteniendo una inflamación de fondo. Muchas veces, ordenar el día es lo que ordena la noche.
+Cuando me cuentas que duermes mal, miro también tus horarios de comida y de luz, cómo cenas, cuánto te mueves, cómo haces la digestión y si algo puede estar manteniendo una inflamación de fondo. Muchas veces, ordenar el día ordena la noche.
 
 Si el cansancio te acompaña aunque duermas tus horas, te puede interesar [qué hay detrás del cansancio que no se va](/blog/cansancio-que-hay-detras/). Y si quieres entender mejor la inflamación de fondo, lee [inflamación de bajo grado: el fuego silencioso](/blog/inflamacion-cronica-bajo-grado/).
 

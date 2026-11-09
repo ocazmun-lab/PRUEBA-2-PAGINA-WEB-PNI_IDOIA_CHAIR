@@ -14,63 +14,63 @@ Son las cinco de la tarde. Has comido hace un rato y, de repente, solo puedes pe
 
 Te lo comes, te sientes culpable y te prometes que mañana no. Y mañana, a la misma hora, vuelta a empezar.
 
-Si te pasa, no es que te falte fuerza de voluntad. Los antojos de dulce tienen detrás piezas muy concretas: cómo duermes, cómo comes y qué le pasa a tu azúcar en sangre a lo largo del día. Y esas piezas se pueden cuidar.
+Si te pasa, la fuerza de voluntad tiene poco que ver. Detrás de los antojos de dulce suele haber cosas muy concretas: cómo duermes, cómo comes y qué le pasa a tu azúcar en sangre a lo largo del día. Y todo eso se puede cambiar.
 
 ## ¿Te suena esto?
 
-- Te pide dulce **siempre a la misma hora**, sobre todo a media tarde o después de cenar.
-- Necesitas **"algo de postre"** para sentir que has terminado de comer.
-- Los días que **duermes peor**, picas más.
-- Después del dulce llega un **bajón** de energía.
+- Te pide dulce siempre a la misma hora, sobre todo a media tarde o después de cenar.
+- Necesitas "algo de postre" para sentir que has terminado de comer.
+- Los días que duermes peor, picas más.
+- Después del dulce llega un bajón de energía.
 
 ## 1. Dormir poco cambia lo que te apetece
 
-Después de una noche sin dormir, **las zonas del cerebro que frenan los impulsos están menos activas** y aumenta el deseo por los alimentos **más calóricos**. Lo curioso es que no tienes más hambre: te apetecen otras cosas.
+Después de una noche sin dormir, las zonas del cerebro que frenan los impulsos están menos activas y te apetecen más los alimentos más calóricos. Lo curioso es que no tienes más hambre. Te apetecen otras cosas.
 
-**Pista:** los días que duermes mal, el cajón de las galletas te llama más.
+Te pasa si los días que duermes mal el cajón de las galletas te llama más.
 
 ## 2. Un desayuno que no te sostiene
 
-Un desayuno a base de galletas, tostadas de pan blanco o cereales azucarados se digiere rápido y te deja con hambre pronto.
+Unas galletas, unas tostadas de pan blanco o unos cereales azucarados se digieren rápido y te dejan con hambre enseguida.
 
-Un desayuno con **más proteína** (huevos, por ejemplo) hace que **piques menos dulce y menos grasa por la tarde y por la noche** que si tomas cereales o te saltas el desayuno.
+Con un desayuno con más proteína, por ejemplo huevos, **picas menos dulce por la tarde y por la noche** que si tomas cereales o no desayunas.
 
-**Pista:** desayunas solo café con algo dulce, o directamente no desayunas.
+Te pasa si desayunas solo café con algo dulce, o directamente no desayunas.
 
 ## 3. Las bajadas de azúcar después de comer
 
-Después de una comida, el azúcar en sangre sube y luego baja. En algunas personas y con algunas comidas, **baja de más**.
+Después de comer, el azúcar en sangre sube y luego baja. En algunas personas y con algunas comidas, baja de más.
 
-Cuando la glucosa **baja mucho 2 o 3 horas después de comer**, aparece **más hambre**, comes antes y **comes más** a lo largo del día.
+Cuando la glucosa baja mucho 2 o 3 horas después de comer, aparece más hambre, comes antes y comes más a lo largo del día.
 
-**Pista:** el antojo llega 2 o 3 horas después de comer, con cansancio o irritabilidad.
+Te pasa si el antojo llega 2 o 3 horas después de comer, con cansancio o de mal humor.
 
 ## 4. Los ultraprocesados te piden más
 
-Con una alimentación a base de ultraprocesados se acaban comiendo **unas 500 kilocalorías más al día** que con comida real, sin darse cuenta.
+Cuando la base de lo que comes son ultraprocesados, acabas comiendo unas 500 kilocalorías más al día que con comida de verdad, y sin darte cuenta.
 
-Están pensados para que sea fácil comer mucho y rápido. Cuanto más presentes están en tu día a día, más te los pide el cuerpo.
+Están pensados para que sea fácil comer mucho y rápido. Cuantos más hay en tu día a día, más te los pide el cuerpo.
 
-**Pista:** en tu despensa hay más paquetes que comida de verdad.
+Te pasa si en tu despensa hay más paquetes que comida de verdad.
 
 ## Lo que puedes hacer desde hoy
 
-- **Pon proteína en el desayuno**: huevos, yogur natural, queso fresco…
-- **Haz comidas completas**: verdura, proteína y algo de grasa buena. Un plato solo de pasta o de pan se queda corto.
-- **No te saltes comidas** para "compensar": el antojo vuelve con más fuerza.
-- **Cuida tu sueño**: es de las piezas que más cambian lo que te apetece.
-- **Ten a mano opciones reales**: fruta, frutos secos, yogur natural, un par de onzas de chocolate negro.
-- **No te lo prohíbas todo.** Disfrutar de algo dulce de vez en cuando forma parte de comer bien.
+- Pon proteína en el desayuno: huevos, yogur natural, queso fresco…
+- Haz comidas completas, con verdura, proteína y algo de grasa buena. Un plato solo de pasta o de pan se queda corto.
+- No te saltes comidas para "compensar", porque el antojo vuelve con más fuerza.
+- Duerme bien. Es de lo que más cambia lo que te apetece.
+- Ten a mano fruta, frutos secos, yogur natural o un par de onzas de chocolate negro.
+- Y no te lo prohíbas todo. Comer algo dulce de vez en cuando también es comer bien.
 
-## Cuándo consultar con tu médico
+## Cuándo ir al médico
 
-Si además de los antojos tienes **mucha sed**, **orinas mucho**, **pierdes peso** sin buscarlo o tienes mareos o temblores cuando pasas horas sin comer, coméntalo con tu médico para revisar tu glucosa.
+Si además de los antojos tienes mucha sed, orinas mucho, pierdes peso sin buscarlo o te mareas o tiemblas cuando pasas horas sin comer, coméntalo con tu médico para que revise tu glucosa.
 
 ## Qué miro en consulta
 
-Cuando alguien me cuenta que no puede con el dulce, no le doy una lista de prohibidos. Miro cómo duerme, qué desayuna, cómo reparte las comidas, cómo está su digestión y si sus antojos tienen hora fija. Casi siempre, cuando el día está bien organizado, el dulce deja de mandar.
+Cuando me cuentas que no puedes con el dulce, miro cómo duermes, qué desayunas, cómo repartes las comidas, cómo haces la digestión y si los antojos tienen hora fija. Casi siempre, cuando el día está bien organizado, el dulce deja de mandar.
 
-Si además de los antojos notas que la energía no te llega, lee [qué hay detrás del cansancio que no se va](/blog/cansancio-que-hay-detras/). Y si quieres que estos cambios se queden, lee [por qué abandonamos los propósitos y cómo crear hábitos que duran](/blog/habitos-ano-nuevo/).
+Si además notas que la energía no te llega, lee [qué hay detrás del cansancio que no se va](/blog/cansancio-que-hay-detras/). Y si quieres que estos cambios se queden, lee [por qué abandonamos los propósitos y cómo crear hábitos que duran](/blog/habitos-ano-nuevo/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

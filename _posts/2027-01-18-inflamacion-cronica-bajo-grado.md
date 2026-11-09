@@ -12,52 +12,52 @@ published: false
 
 Te cansas aunque descanses. Te duele todo un poco, sin un motivo claro. La tripa va a su aire, la piel no termina de estar bien… y en la analítica, todo normal.
 
-Parecen síntomas sueltos, pero muchas veces comparten un mismo hilo: una **inflamación** que no da la cara. Si me has leído antes, habrás visto que esa palabra se repite en casi todos los artículos: en el SOP, en el dolor de regla, en el cansancio, en la piel… Es una de las piezas centrales de la Psiconeuroinmunología.
+Parecen síntomas sueltos, y muchas veces tienen algo en común: una **inflamación** que no da la cara. Si me has leído antes, habrás visto que esa palabra sale en casi todos los artículos: en el SOP, en el dolor de regla, en el cansancio, en la piel… Es una de las piezas centrales de la Psiconeuroinmunología.
 
-## La inflamación buena y la que se queda
+## La inflamación que cura y la que se queda
 
-Cuando te cortas o te resfrías, tu sistema inmune pone en marcha una **inflamación aguda**: enrojecimiento, calor, hinchazón. Es intensa, dura poco y sirve para defenderte y reparar. Es buena y necesaria.
+Cuando te cortas o te resfrías, tu sistema inmune pone en marcha una inflamación aguda: la zona se pone roja, caliente e hinchada. Es intensa, dura poco y te defiende. Es necesaria.
 
-El problema aparece cuando la inflamación **no se apaga del todo**. Se queda encendida a un nivel bajo, sin dar síntomas claros, durante meses o años. Es la **inflamación crónica de bajo grado**.
+Los problemas empiezan cuando la inflamación no se apaga del todo. Se queda encendida a un nivel bajo, sin síntomas claros, durante meses o años. Es la **inflamación crónica de bajo grado**.
 
 ## Por qué importa
 
-La inflamación crónica de bajo grado está relacionada con muchas de las enfermedades más frecuentes: diabetes tipo 2, enfermedad cardiovascular, hígado graso, algunas enfermedades autoinmunes y neurodegenerativas.
+Se relaciona con muchas de las enfermedades más frecuentes: diabetes tipo 2, enfermedad cardiovascular, hígado graso y algunas enfermedades autoinmunes y neurodegenerativas.
 
-Y antes de llegar a eso, suele dar señales más sutiles.
+Antes de llegar ahí, suele dar señales más pequeñas.
 
 ## Cómo puede notarse
 
 No hay un síntoma que la confirme, pero estas pistas son frecuentes:
 
-- **Cansancio** que no se va aunque descanses.
-- **Digestiones alteradas**: hinchazón, tránsito irregular.
-- **Dolores** musculares o articulares sin causa clara.
-- **Piel reactiva** o brotes que van y vienen.
-- **Más grasa acumulada en el abdomen.**
+- Cansancio que no se va aunque descanses.
+- Digestiones alteradas, con hinchazón o un ritmo irregular en el baño.
+- Dolores musculares o de articulaciones sin causa clara.
+- Piel reactiva o brotes que van y vienen.
+- Más grasa en la tripa.
 
-En una analítica, un marcador que puede orientar es la **proteína C reactiva ultrasensible (PCR-us)**.
+En una analítica, un valor que puede orientar es la proteína C reactiva ultrasensible (PCR-us).
 
 ## Qué la alimenta
 
-- **Dormir poco o mal.** La falta de sueño se asocia a más marcadores inflamatorios.
-- **El sedentarismo.** Pasar muchas horas sentada sin moverte.
-- **La grasa abdominal**, que no es un simple almacén: produce sustancias inflamatorias.
-- **Una alimentación basada en ultraprocesados**, con poca verdura y poca fibra.
-- **Un intestino alterado**, que deja pasar más señales inflamatorias al resto del cuerpo.
-- **El estrés mantenido** también suma.
+- Dormir poco o mal.
+- Pasar muchas horas sentada.
+- La grasa de la tripa, que fabrica sustancias inflamatorias.
+- Comer muchos ultraprocesados y poca verdura y fibra.
+- Un intestino alterado, que deja pasar más señales inflamatorias al resto del cuerpo.
+- El estrés mantenido también suma.
 
 ## Qué ayuda a apagarla
 
-- **Moverte con regularidad.** Cada vez que el músculo trabaja, libera sustancias con efecto antiinflamatorio. Es uno de los antiinflamatorios naturales más potentes que tenemos.
-- **Dormir lo suficiente.**
-- **Comer comida de verdad**: verdura y fruta variadas, frutos secos, aceite de oliva virgen extra y proteína de calidad.
-- **Pescado azul**, rico en omega-3, que participa en la resolución de la inflamación.
-- **Cuidar tu microbiota**, como te explico en [este artículo](/blog/microbiota-como-cuidarla/).
+- Moverte con regularidad. Cada vez que el músculo trabaja, libera sustancias que bajan la inflamación.
+- Dormir lo suficiente.
+- Comer comida de verdad: verdura y fruta variadas, frutos secos, aceite de oliva virgen extra y proteína de calidad.
+- Tomar pescado azul, rico en omega-3, que ayuda a cerrar la inflamación.
+- Cuidar tu microbiota, como te cuento en [este artículo](/blog/microbiota-como-cuidarla/).
 
 ## Qué miro en consulta
 
-En consulta busco qué está manteniendo encendida la inflamación en tu caso: cómo duermes, cómo comes, cuánto te mueves, cómo está tu digestión y, si hace falta, tus analíticas. Cada persona tiene su propia combinación, y por eso no hay un plan igual para todas.
+En consulta busco qué mantiene encendida la inflamación en tu caso: cómo duermes, cómo comes, cuánto te mueves, cómo haces la digestión y, si hace falta, tus analíticas. Cada persona tiene su propia mezcla, y el plan se hace a partir de la tuya.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

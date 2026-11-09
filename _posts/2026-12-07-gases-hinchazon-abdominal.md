@@ -14,88 +14,87 @@ published: false
 
 Te levantas con la tripa plana. A media mañana ya notas el pantalón. Después de comer te desabrochas el botón con disimulo y, por la noche, te miras al espejo y parece que estás embarazada de cinco meses.
 
-Has quitado el pan, luego los lácteos, después las legumbres. Has probado infusiones, carbón activado y algún probiótico. Y la hinchazón sigue ahí, como si nada.
+Has quitado el pan, luego los lácteos, después las legumbres. Has probado infusiones, carbón activado y algún probiótico. Y la hinchazón sigue ahí.
 
-Si te reconoces, quédate, porque hay algo que casi nadie te cuenta: **en la mayoría de las personas que se hinchan, el problema no es que produzcan más gas.** Y eso cambia por completo lo que conviene hacer.
+Si te reconoces, hay algo que casi nadie te cuenta: **en la mayoría de las personas que se hinchan, el problema está en cómo se mueve y se percibe el gas, más que en la cantidad.** Y eso cambia lo que conviene hacer.
 
 ## ¿Te suena esto?
 
-- La tripa **crece a lo largo del día** y por la mañana vuelve a estar plana.
-- Te hinchas **nada más comer**, aunque hayas comido poco.
-- Notas **presión, gases o molestias** con comidas que a otras personas no les hacen nada.
-- Has quitado alimentos y **no terminas de notar la diferencia**.
+- La tripa crece a lo largo del día y por la mañana vuelve a estar plana.
+- Te hinchas nada más comer, aunque hayas comido poco.
+- Notas presión, gases o molestias con comidas que a otras personas no les hacen nada.
+- Has quitado alimentos y no terminas de notar la diferencia.
 
-Si has marcado alguna, sigue leyendo: al final vas a saber qué tipo de hinchazón es la tuya.
+Si has marcado alguna, sigue leyendo: al final sabrás qué tipo de hinchazón es la tuya.
 
-## El dato que lo cambia todo
+## Un experimento con gas
 
-Hay un experimento que lo explica muy bien. Se introdujo **la misma cantidad de gas**, de forma controlada, en el intestino de personas sanas y de personas con colon irritable.
+Se metió la misma cantidad de gas, de forma controlada, en el intestino de personas sanas y de personas con colon irritable. Las sanas lo eliminaban sin problema. De las que tenían colon irritable, 18 de cada 20 lo retuvieron, tuvieron molestias o las dos cosas. Con el mismo gas.
 
-Las personas sanas lo eliminaban sin problema. En cambio, **18 de cada 20 personas con colon irritable retuvieron el gas, tuvieron molestias o las dos cosas.** Con el mismo gas.
+Piensa en el tráfico de una ciudad. A veces entran los coches de siempre, pero hay un atasco. Otras veces la alarma salta con cualquier cosa. Si solo quitas alimentos, reduces los coches, y el atasco sigue ahí.
 
-Piénsalo como el tráfico de una ciudad: el problema no siempre es que entren más coches, sino que **hay un atasco** o que **la alarma salta con cualquier cosa**. Por eso quitar alimentos sin más a menudo no funciona: estás reduciendo los coches, pero el atasco sigue ahí.
-
-Entonces, ¿qué está pasando en tu caso? Hay cuatro motivos principales.
+¿Qué pasa en tu caso? Hay cuatro motivos principales.
 
 ## Los 4 tipos de hinchazón: ¿cuál es la tuya?
 
 ### 1. «Se me hincha a lo largo del día»: el gas avanza despacio
 
-Si tu intestino se mueve lento, el gas se queda atrapado por el camino y la tripa va creciendo con las horas. Por eso la hinchazón es tan frecuente cuando hay **estreñimiento**, y por eso tratarlo es el primer paso.
+Si tu intestino se mueve lento, el gas se queda atrapado por el camino y la tripa va creciendo con las horas. Por eso la hinchazón es tan frecuente cuando hay estreñimiento, y tratarlo es el primer paso.
 
-**Es la tuya si:** vas poco al baño, haces mucha fuerza o notas que no terminas de vaciar.
+Es la tuya si vas poco al baño, haces mucha fuerza o notas que no terminas de vaciar.
 
 ### 2. «Me hincho nada más comer, aunque coma poco»: tu abdomen reacciona al revés
 
-Este es el más sorprendente. En algunas personas, al comer, el cuerpo hace justo lo contrario de lo que debería: **el diafragma baja y la pared del abdomen se relaja hacia fuera**, en lugar de sujetar. La tripa se ve abultada aunque la cantidad de gas sea normal.
+En algunas personas, al comer, el cuerpo hace justo lo contrario de lo que debería: el diafragma baja y la pared del abdomen se suelta hacia fuera, cuando tendría que sujetar. La tripa se ve abultada aunque la cantidad de gas sea normal.
 
-Esto **se puede reeducar.** Aprender a controlar la musculatura del abdomen y del tórax reduce mucho la sensación de tripa hinchada.
+Esto se puede reeducar. Aprender a controlar la musculatura del abdomen y del tórax reduce mucho la sensación de tripa hinchada.
 
-**Es la tuya si:** la tripa se abulta en cuanto terminas de comer, casi como un acto reflejo, y se nota mucho por fuera.
+Es la tuya si la tripa se abulta en cuanto terminas de comer, casi como un acto reflejo, y se nota mucho por fuera.
 
 ### 3. «Cualquier cosa me sienta mal»: un intestino más sensible
 
-Tu intestino y tu cerebro están conectados y se hablan constantemente. En algunas personas, las señales que llegan desde el intestino **se amplifican**, y notan como molestia algo que otra persona ni percibe. Se llama **hipersensibilidad visceral**.
+Tu intestino y tu cerebro se hablan todo el rato. En algunas personas, las señales que llegan desde el intestino se amplifican, y notan como molestia algo que otra persona ni percibe. Se llama hipersensibilidad visceral.
 
-El sistema inmune también participa: en personas con colon irritable hay células inmunitarias (mastocitos) activadas muy cerca de los nervios del intestino, y cuantas más hay, más intenso era el dolor. Las épocas de mucha carga y mal descanso pueden subir el volumen de esas señales.
+El sistema inmune también participa. En el colon irritable hay células inmunitarias (mastocitos) activadas muy cerca de los nervios del intestino, y cuantas más hay, más duele. Las épocas de mucha carga y de dormir mal suben el volumen de esas señales.
 
-**Es la tuya si:** las molestias son desproporcionadas para lo que comes y van y vienen según la época.
+Es la tuya si las molestias son desproporcionadas para lo que comes y van y vienen según la época.
 
 ### 4. «Me pasa con alimentos concretos»: se produce más gas
 
-Aquí sí hay más gas del habitual. Ocurre cuando no absorbes bien la **lactosa** o la **fructosa**, o cuando hay un sobrecrecimiento de bacterias en el intestino delgado, el [SIBO](/blog/sibo-que-es-sintomas/).
+Aquí sí hay más gas del habitual. Pasa cuando no absorbes bien la lactosa o la fructosa, o cuando hay un sobrecrecimiento de bacterias en el intestino delgado, el [SIBO](/blog/sibo-que-es-sintomas/).
 
-**Es la tuya si:** notas un patrón claro con la leche, ciertas frutas o las legumbres.
+Es la tuya si notas un patrón claro con la leche, ciertas frutas o las legumbres.
 
-Muchas veces no hay un solo tipo, sino una mezcla de dos o tres. Y por eso las soluciones genéricas fallan.
+Muchas veces se mezclan dos o tres tipos. Por eso una dieta igual para todo el mundo se queda corta.
 
-## Lo que no suele funcionar (y por qué)
+## Lo que no suele funcionar
 
-- **Quitar alimentos a ciegas.** Si tu hinchazón es del tipo 1, 2 o 3, el problema no es el alimento. Acabas comiendo cada vez menos cosas, empobreces tu microbiota y la tripa sigue igual.
-- **El probiótico «para la hinchazón».** No se recomiendan de forma general para este síntoma, porque no hay pruebas suficientes de que funcionen. Si se usan, que sea con criterio y para un caso concreto.
+Quitar alimentos a ciegas. Si tu hinchazón es del tipo 1, 2 o 3, el problema está en otro sitio. Acabas comiendo cada vez menos cosas, empobreces tu microbiota y la tripa sigue igual.
+
+El probiótico «para la hinchazón». No se recomiendan de forma general para este síntoma, porque no hay pruebas suficientes de que funcionen. Si se usan, que sea con criterio y para un caso concreto.
 
 ## Lo que sí puede ayudar
 
-- **Un paseo después de comer.** Moverte de forma suave ayuda a que el gas avance, y se queda menos atrapado y molesta menos que si te quedas quieta.
-- **Tratar el estreñimiento**, si lo hay. Es el primer paso en la hinchazón del tipo 1.
-- **Reeducar el abdomen y el diafragma**, cuando la tripa se abulta por ese reflejo al revés.
-- **Reducir los alimentos fermentables (FODMAP) de forma temporal y guiada**, cuando hay un patrón claro con ciertos alimentos. En personas con colon irritable puede reducir los síntomas a la mitad. Pero no es para siempre: tras unas semanas se reintroducen los alimentos, poco a poco.
+- Un paseo después de comer. Moverte suave ayuda a que el gas avance, y molesta menos que si te quedas quieta en el sofá.
+- Tratar el estreñimiento, si lo hay.
+- Reeducar el abdomen y el diafragma, cuando la tripa se abulta por ese reflejo al revés.
+- Reducir los alimentos fermentables (los FODMAP) durante un tiempo y con ayuda, si hay un patrón claro con ciertos alimentos. En el colon irritable puede bajar los síntomas a la mitad. No es para siempre: a las pocas semanas se van reintroduciendo los alimentos.
 
-Y como base para todo lo anterior: comer con calma y cuidar el descanso.
+Y por debajo de todo, comer con calma y dormir bien.
 
 ## Un ejercicio para esta semana
 
-Durante 7 días, apunta en el móvil tres cosas: **a qué hora aparece la hinchazón, qué habías comido y cómo has ido al baño.** Con eso, en muchos casos ya se ve qué tipo de hinchazón predomina. Y si vienes a consulta, es oro.
+Durante 7 días, apunta en el móvil a qué hora aparece la hinchazón, qué habías comido y cómo has ido al baño. Con eso muchas veces ya se ve qué tipo predomina. Y si vienes a consulta, es oro.
 
-## Cuándo acudir al médico
+## Cuándo ir al médico
 
-Consulta con tu médico si la hinchazón viene acompañada de **pérdida de peso sin explicación, sangre en heces, anemia, vómitos**, o si es un síntoma nuevo que ha empeorado en poco tiempo.
+Ve a tu médico si la hinchazón viene con **pérdida de peso sin explicación, sangre en las heces, anemia o vómitos**, o si es algo nuevo que ha empeorado en poco tiempo.
 
 ## Qué miro en consulta
 
-En lugar de darte una dieta genérica «antihinchazón», en consulta busco qué tipo o qué mezcla de tipos hay en tu caso: cómo es tu tránsito, cuándo aparece la hinchazón, cómo responde tu abdomen al comer, cómo descansas, tu historia digestiva y, si hace falta, las pruebas que tengan sentido para ti. Con eso trabajamos la alimentación, el movimiento, el diafragma y la musculatura abdominal.
+En consulta busco qué tipo, o qué mezcla de tipos, hay en tu caso. Miro cómo vas al baño, cuándo aparece la hinchazón, cómo responde tu abdomen al comer, cómo duermes, tu historia digestiva y, si hace falta, las pruebas que tengan sentido para ti. Con eso trabajamos la alimentación, el movimiento, el diafragma y la musculatura abdominal.
 
-Si notas que tu tripa empeora en las épocas de más carga, te puede interesar también el artículo sobre [estrés e intestino](/blog/estres-e-intestino/).
+Si tu tripa empeora en las épocas de más carga, te puede interesar el artículo sobre [estrés e intestino](/blog/estres-e-intestino/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
