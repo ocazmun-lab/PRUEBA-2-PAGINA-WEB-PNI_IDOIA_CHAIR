@@ -10,52 +10,53 @@ meta_description: "Cómo se relacionan la piel y el intestino: acné, rosácea y
 published: false
 ---
 
-Has probado cremas, limpiadoras, sérums, cambiar de maquillaje… y tu piel sigue igual. Granitos que vuelven, rojeces que aparecen sin motivo, una piel que reacciona a todo.
+Has probado cremas, limpiadoras, sérums, has cambiado de maquillaje… y tu piel sigue igual. Granitos que vuelven, rojeces que salen sin motivo, una piel que reacciona a todo.
 
-La piel es el órgano que vemos, pero no funciona sola. Y cada vez sabemos más de su relación con algo que no se ve: **tu intestino.**
+La piel es lo que ves cada mañana en el espejo, y tiene mucho que ver con algo que no ves: **tu intestino**.
 
 ## ¿Qué tienen que ver tu piel y tu intestino?
 
-El intestino y la piel tienen mucho en común: los dos son barreras entre tu cuerpo y el exterior, los dos tienen su propia microbiota y los dos están muy conectados con el sistema inmune.
+Los dos son una barrera entre tu cuerpo y el exterior, y cada uno tiene su propia microbiota, muy conectada con el sistema inmune.
 
-Cuando el intestino está alterado, puede aumentar la inflamación en el resto del cuerpo, y la piel es uno de los lugares donde se nota. A esta conexión se la llama **eje intestino-piel**.
+Cuando el intestino está alterado, puede aumentar la inflamación en el resto del cuerpo, y la piel es uno de los sitios donde se nota. A esta conexión se le llama **eje intestino-piel**.
 
 ## Lo que sabemos
 
 ### ¿Influye lo que comes en el acné?
-Comer **menos azúcares y harinas refinadas** reduce los granitos en las personas con acné. Es un cambio que suele empezar a notarse a los pocos meses.
 
-Con los lácteos hay matices: **la leche**, sobre todo la desnatada, se asocia a más acné, pero **el yogur y el queso, no**.
+Sí. Comer menos azúcar y menos harinas refinadas reduce los granitos en las personas con acné. Se nota a los pocos meses, así que no lo dejes a las dos semanas.
+
+Con los lácteos hay matices. La leche, sobre todo la desnatada, se asocia a más acné. El yogur y el queso, no.
 
 ### ¿Qué tiene que ver la rosácea con el intestino?
-En las personas con rosácea, el **SIBO** (sobrecrecimiento bacteriano en el intestino delgado) aparece con más frecuencia que en la población general. Y en muchos casos, cuando se trata el SIBO, la rosácea mejora. Es un ejemplo claro de cómo un problema digestivo puede tener reflejo en la piel.
+
+Las personas con rosácea tienen SIBO (un exceso de bacterias en el intestino delgado) con más frecuencia que el resto. Y en muchos casos, cuando se trata el SIBO, la rosácea mejora.
 
 ### ¿Puede la celiaquía dar la cara en la piel?
-La celiaquía puede manifestarse en la piel con una erupción muy concreta, la dermatitis herpetiforme. A veces es la primera señal, incluso sin síntomas digestivos. Si se sospecha, la prueba se hace siempre **sin haber quitado el gluten** antes.
 
-## Pistas de que tu piel y tu intestino pueden ir de la mano
+Sí, con una erupción muy concreta que se llama dermatitis herpetiforme. A veces es la primera señal, aunque no haya ningún síntoma digestivo. Si se sospecha, la prueba se hace **sin haber quitado el gluten** antes.
+
+## Pistas de que tu piel y tu intestino van de la mano
 
 - Tu piel empeora cuando tu digestión va peor.
-- Tienes hinchazón, gases o un tránsito alterado a menudo.
-- Has notado cambios en la piel después de tomar ciertos alimentos.
-- Los brotes coinciden con épocas de peor alimentación o peor descanso.
+- A menudo tienes hinchazón, gases o vas al baño de forma irregular.
+- Has notado cambios en la piel después de comer ciertos alimentos.
+- Los brotes coinciden con épocas en las que comes peor o duermes mal.
 
 ## Lo que puedes hacer
 
-- **Menos azúcares y harinas refinadas**, y más comida de verdad.
-- **Cuidar tu microbiota** con verdura variada y alimentos fermentados.
-- **Dormir bien**, porque cuando duermes mal tu piel se recupera peor.
-- **Observar tu patrón**: apuntar cuándo empeora tu piel y qué ha pasado esos días.
-
-## Una aclaración importante
-
-La PNI **no sustituye la valoración del dermatólogo**. Hay problemas de piel que necesitan diagnóstico y tratamiento específicos. Lo que aporta la PNI es mirar más allá de la piel, en paralelo.
+- Cambia la bollería, los cereales azucarados y el pan blanco por fruta, frutos secos o un pan de verdad.
+- Cuida tu microbiota con verdura variada y algún fermentado, como el yogur natural o el kéfir.
+- Duerme bien: cuando duermes mal, tu piel se recupera peor.
+- Apunta cuándo empeora tu piel y qué ha pasado esos días.
 
 ## Qué miro en consulta
 
-Cuando alguien viene con problemas de piel, no me quedo en la piel. Miro tu digestión, tu alimentación, tu descanso, tu ciclo si eres mujer y, si hace falta, tus analíticas. Muchas veces la piel es la parte visible de algo que pasa por dentro.
+Cuando vienes por la piel, miro también tu digestión, lo que comes, cómo descansas, tu ciclo menstrual y, si hace falta, tus analíticas. Muchas veces, lo que ves en la piel empieza en la tripa.
 
-Y si el acné va de la mano de reglas irregulares o de más vello del que te gustaría, merece la pena descartar un síndrome de ovario poliquístico: te lo cuento en [este artículo sobre el SOP](/blog/pni-y-sop/). Si lo que más te suena es la tripa, puedes empezar por [qué es el SIBO](/blog/sibo-que-es-sintomas/).
+Trabajo en paralelo con tu dermatólogo, porque hay problemas de piel que necesitan su diagnóstico y su tratamiento.
+
+Si el acné viene con reglas irregulares o con más vello del que te gustaría, conviene descartar un síndrome de ovario poliquístico. Te lo cuento en [este artículo sobre el SOP](/blog/pni-y-sop/). Si lo que más te suena es la tripa, empieza por [qué es el SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
