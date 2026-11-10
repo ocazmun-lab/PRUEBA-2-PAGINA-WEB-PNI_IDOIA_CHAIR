@@ -1,5 +1,5 @@
 ---
-title: 'Que la regla duela no es normal: 4 cosas que la ciencia sabe'
+title: "Que la regla duela no es normal: 4 cosas que casi nadie te cuenta"
 excerpt: "Inflamación, intestino, un sistema nervioso que aprende a doler y una enfermedad que tarda años en diagnosticarse. Te lo cuento desde la Psiconeuroinmunología."
 date: 2026-11-02 08:00:00 +01:00
 slug: dolor-menstrual
@@ -21,7 +21,7 @@ published: true
 
 El dolor menstrual afecta a entre el 45 y el 95 % de las mujeres que menstrúan. Que sea tan frecuente no significa que sea normal: **significa que se ha normalizado.** Y precisamente por eso muchas veces ni las propias mujeres ni los profesionales le dan importancia.
 
-Desde la Psiconeuroinmunología (PNI), en el dolor de regla participan varios sistemas que se hablan entre sí. Estas son 4 cosas que la ciencia sabe y casi nadie te ha contado.
+Desde la Psiconeuroinmunología (PNI), en el dolor de regla participan varios sistemas que se hablan entre sí. Estas son 4 cosas que casi nadie te ha contado.
 
 ## 1. Duele porque hay inflamación
 

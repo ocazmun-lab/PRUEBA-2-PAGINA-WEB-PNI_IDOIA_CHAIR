@@ -1,5 +1,5 @@
 ---
-title: "Comidas de Navidad sin acabar con la tripa a reventar: 6 claves que funcionan"
+title: "Cómo disfrutar de las comidas de Navidad sin acabar hinchada"
 excerpt: "Estas fechas son para disfrutarlas. Seis gestos sencillos para que tu digestión aguante las comidas de Navidad, sin contar y sin culpa."
 date: 2026-12-21 08:00:00 +01:00
 slug: "digestion-comidas-navidad"
