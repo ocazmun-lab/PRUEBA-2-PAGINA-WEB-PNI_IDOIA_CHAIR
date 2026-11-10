@@ -12,7 +12,7 @@ meta_description: "Granitos que vuelven, rojeces, piel reactiva: cómo influyen 
 published: false
 ---
 
-Has probado cremas, limpiadoras, sérums, has cambiado de maquillaje… y tu piel sigue igual. Granitos que vuelven, rojeces que salen sin motivo, una piel que reacciona a todo.
+Has probado cremas, sérums, geles limpiadores, has cambiado de maquillaje… y tu piel sigue igual. Granitos que vuelven, rojeces que salen sin motivo, una piel que reacciona a todo.
 
 La piel es lo que ves cada mañana en el espejo, y tiene mucho que ver con algo que no ves: **tu intestino**.
 
@@ -32,7 +32,7 @@ Con los lácteos hay matices. La leche, sobre todo la desnatada, se asocia a má
 
 ### ¿Qué tiene que ver la rosácea con el intestino?
 
-Las personas con rosácea tienen SIBO (un exceso de bacterias en el intestino delgado) con más frecuencia que el resto. Y en muchos casos, cuando se trata el SIBO, la rosácea mejora.
+Muchas personas con rosácea tienen también la tripa revuelta: hinchazón, gases, digestiones pesadas. A menudo detrás hay SIBO, que es cuando hay demasiadas bacterias en una parte del intestino donde debería haber pocas. Eso genera inflamación, y esa inflamación se puede notar en la cara. Por eso, cuando se trata el SIBO, en muchos casos las rojeces bajan.
 
 ### ¿Puede la celiaquía dar la cara en la piel?
 
