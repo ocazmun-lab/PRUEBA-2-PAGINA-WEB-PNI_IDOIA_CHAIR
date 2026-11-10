@@ -27,9 +27,9 @@ Si te reconoces, hay algo que casi nadie te cuenta: **en la mayoría de las pers
 
 Si has marcado alguna, sigue leyendo: al final sabrás qué tipo de hinchazón es la tuya.
 
-## Un experimento con gas
+## Mismo gas, distinta tripa
 
-Se metió la misma cantidad de gas, de forma controlada, en el intestino de personas sanas y de personas con colon irritable. Las sanas lo eliminaban sin problema. De las que tenían colon irritable, 18 de cada 20 lo retuvieron, tuvieron molestias o las dos cosas. Con el mismo gas.
+A dos personas les puede entrar la misma cantidad de gas. Una lo elimina sin enterarse y la otra se queda hinchada y con molestias. Con el colon irritable pasa mucho: el gas avanza peor, se queda retenido y se nota más.
 
 Piensa en el tráfico de una ciudad. A veces entran los coches de siempre, pero hay un atasco. Otras veces la alarma salta con cualquier cosa. Si solo quitas alimentos, reduces los coches, y el atasco sigue ahí.
 
@@ -71,7 +71,7 @@ Muchas veces se mezclan dos o tres tipos. Por eso una dieta igual para todo el m
 
 Quitar alimentos a ciegas. Si tu hinchazón es del tipo 1, 2 o 3, el problema está en otro sitio. Acabas comiendo cada vez menos cosas, empobreces tu microbiota y la tripa sigue igual.
 
-El probiótico «para la hinchazón». No se recomiendan de forma general para este síntoma, porque no hay pruebas suficientes de que funcionen. Si se usan, que sea con criterio y para un caso concreto.
+El probiótico «para la hinchazón». Para este síntoma hay pocas pruebas de que funcionen, así que no tiene sentido tomarlos porque sí. Si se usan, que sea con criterio y para un caso concreto.
 
 ## Lo que sí puede ayudar
 
