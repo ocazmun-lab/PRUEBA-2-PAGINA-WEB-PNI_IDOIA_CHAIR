@@ -1,7 +1,7 @@
 ---
 title: "Acné, rojeces, piel reactiva: lo que tu piel puede estar contando de tu intestino"
 excerpt: "Has probado mil cremas y tu piel sigue igual. Qué tiene que ver tu intestino con el acné, la rosácea y la piel reactiva, y qué puedes hacer."
-date: 2026-11-30 08:00:00 +01:00
+date: 2027-01-11 08:00:00 +01:00
 slug: "piel-e-intestino"
 image: "/img/blog/piel-intestino-acne-rosacea-pni.jpg"
 image_alt: "Mujer rascándose el brazo junto a una ilustración del intestino conectado con la rosácea, la psoriasis y la piel atópica, y un desayuno con fruta y yogur"

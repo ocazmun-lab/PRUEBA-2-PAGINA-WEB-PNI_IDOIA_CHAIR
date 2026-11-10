@@ -1,7 +1,7 @@
 ---
 title: "Tu microbiota: qué hace por ti y 5 formas de cuidarla"
 excerpt: "¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla."
-date: 2027-01-11 08:00:00 +01:00
+date: 2026-12-14 08:00:00 +01:00
 slug: "microbiota-como-cuidarla"
 category: "Digestivo"
 tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]

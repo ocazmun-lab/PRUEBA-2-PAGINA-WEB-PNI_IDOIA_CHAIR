@@ -1,7 +1,7 @@
 ---
 title: "Inflamación de bajo grado: el fuego silencioso que está detrás de muchos síntomas"
 excerpt: "No duele ni se ve, y se relaciona con el cansancio, la digestión, el dolor y muchas enfermedades crónicas. Qué es, qué la alimenta y qué la apaga."
-date: 2027-01-18 08:00:00 +01:00
+date: 2027-01-25 08:00:00 +01:00
 slug: "inflamacion-cronica-bajo-grado"
 category: "Inmune"
 tags: ["inflamación", "inflamación crónica", "sistema inmune", "hábitos", "PNI"]
