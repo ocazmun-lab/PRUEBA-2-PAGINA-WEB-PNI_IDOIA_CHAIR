@@ -86,4 +86,4 @@ Si la hinchazón es lo que más te molesta, lee [los 4 tipos de hinchazón](/blo
 - Johannesson E, Simrén M, Strid H, Bajor A, Sadik R. Physical activity improves symptoms in irritable bowel syndrome: a randomized controlled trial. *Am J Gastroenterol*. 2011;106(5):915-922. doi:10.1038/ajg.2010.480
 - National Institute for Health and Care Excellence (NICE). Irritable bowel syndrome in adults: diagnosis and management (CG61). Actualizada en 2017.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

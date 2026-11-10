@@ -57,4 +57,4 @@ Si quieres saber cómo es una consulta conmigo, puedes leer [cómo funciona la c
 - Ader R, Cohen N. Behaviorally conditioned immunosuppression. *Psychosom Med*. 1975;37(4):333-340.
 - Institute for Functional Medicine. What is Functional Medicine? [Enlace](https://www.ifm.org/functional-medicine/)
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

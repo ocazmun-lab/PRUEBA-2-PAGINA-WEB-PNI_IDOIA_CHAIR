@@ -86,4 +86,4 @@ Si te cuesta descansar, te puede interesar [por qué te cuesta dormirte o te des
 - Baker FC, de Zambotti M, Colrain IM, Bei B. Sleep problems during the menopausal transition: prevalence, impact, and management challenges. *Nat Sci Sleep*. 2018;10:73-95. doi:10.2147/NSS.S125807
 - Wang Z, Zan X, Li Y, et al. Comparative efficacy different resistance training protocols on bone mineral density in postmenopausal women: A systematic review and network meta-analysis. *Front Physiol*. 2023;14:1105303. doi:10.3389/fphys.2023.1105303
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

@@ -134,4 +134,4 @@ Si el cansancio es lo que más te pesa, te puede interesar el artículo sobre [q
 - Jonklaas J et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. _Thyroid_. 2014;24(12):1670-1751.
 - Alexander EK et al. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. _Thyroid_. 2017;27(3):315-389.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

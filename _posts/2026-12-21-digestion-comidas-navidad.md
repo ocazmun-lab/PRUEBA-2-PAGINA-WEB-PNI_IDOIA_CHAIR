@@ -63,4 +63,4 @@ Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, fuera d
 - Fujiwara Y et al. Association between dinner-to-bed time and gastro-esophageal reflux disease. *Am J Gastroenterol*. 2005;100(12):2633-2636.
 - Pan J et al. Alcohol consumption and the risk of gastroesophageal reflux disease: a systematic review and meta-analysis. *Alcohol Alcohol*. 2019;54(1):62-69.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

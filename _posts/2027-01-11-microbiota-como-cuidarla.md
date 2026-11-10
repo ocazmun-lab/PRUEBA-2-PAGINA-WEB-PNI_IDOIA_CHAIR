@@ -68,4 +68,4 @@ Si te interesa, puedes seguir con los artículos sobre [SIBO](/blog/sibo-que-es-
 - Chassaing B et al. Randomized Controlled-Feeding Study of Dietary Emulsifier Carboxymethylcellulose Reveals Detrimental Impacts on the Gut Microbiota and Metabolome. *Gastroenterology*. 2022;162(3):743-756.
 - Allen JM et al. Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans. *Med Sci Sports Exerc*. 2018;50(4):747-757.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

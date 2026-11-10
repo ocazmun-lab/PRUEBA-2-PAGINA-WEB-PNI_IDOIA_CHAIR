@@ -88,4 +88,4 @@ Si además notas gases o hinchazón, te puede interesar el artículo sobre [gase
 - Malfertheiner P et al. Management of *Helicobacter pylori* infection: the Maastricht VI/Florence consensus report. *Gut*. 2022;71:1724-1762.
 - Reimer C et al. Proton-pump inhibitor therapy induces acid-related symptoms in healthy volunteers after withdrawal of therapy. *Gastroenterology*. 2009;137(1):80-87.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

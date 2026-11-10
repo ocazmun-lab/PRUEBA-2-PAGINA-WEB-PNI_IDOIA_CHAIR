@@ -81,4 +81,4 @@ Si además notas que la energía no te llega, lee [qué hay detrás del cansanci
 - Wyatt P, Berry SE, Finlayson G, et al. Postprandial glycaemic dips predict appetite and energy intake in healthy individuals. *Nat Metab*. 2021;3(4):523-529. doi:10.1038/s42255-021-00383-x
 - Hall KD, Ayuketah A, Brychta R, et al. Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake. *Cell Metab*. 2019;30(1):67-77. doi:10.1016/j.cmet.2019.05.008
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

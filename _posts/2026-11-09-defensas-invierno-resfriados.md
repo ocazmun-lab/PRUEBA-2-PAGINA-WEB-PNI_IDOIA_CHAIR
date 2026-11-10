@@ -82,4 +82,4 @@ Si quieres entender mejor cómo se conectan el intestino y las defensas, puedes 
 - Wastyk HC et al. Gut-microbiota-targeted diets modulate human immune status. _Cell_. 2021;184(16):4137-4153. doi:10.1016/j.cell.2021.06.019
 - Nieman DC, Wentz LM. The compelling link between physical activity and the body's defense system. _J Sport Health Sci_. 2019;8(3):201-217. doi:10.1016/j.jshs.2018.09.009
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

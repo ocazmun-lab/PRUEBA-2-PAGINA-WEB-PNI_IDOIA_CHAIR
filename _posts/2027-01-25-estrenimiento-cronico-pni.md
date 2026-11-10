@@ -108,4 +108,4 @@ Si el estreñimiento viene con gases o hinchazón, te puede interesar el artícu
 - Lewis SJ, Heaton KW. Stool form scale as a useful guide to intestinal transit time. *Scand J Gastroenterol*. 1997;32(9):920-924.
 - Gearry R et al. Ensayo aleatorizado multicéntrico internacional: 2 kiwis verdes al día frente a psyllium en estreñimiento funcional y colon irritable con estreñimiento. *Am J Gastroenterol*. 2023.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

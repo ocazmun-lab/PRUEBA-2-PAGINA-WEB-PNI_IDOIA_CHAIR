@@ -97,5 +97,3 @@ Si el acné viene con reglas irregulares o con más vello del que te gustaría, 
 - Bhatia BK et al. Diet and psoriasis, part II: celiac disease and role of a gluten-free diet. *J Am Acad Dermatol*. 2014;71(2):350-358. doi:10.1016/j.jaad.2014.03.017
 - Ford AR et al. Dietary Recommendations for Adults With Psoriasis or Psoriatic Arthritis From the Medical Board of the National Psoriasis Foundation: A Systematic Review. *JAMA Dermatol*. 2018;154(8):934-950.
 - Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. *United European Gastroenterol J*. 2019;7(5):583-613.
-
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._

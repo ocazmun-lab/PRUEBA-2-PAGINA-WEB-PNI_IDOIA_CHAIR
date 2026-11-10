@@ -61,4 +61,4 @@ En consulta repaso tu historia digestiva, cuándo aparecen los síntomas y con q
 - Rezaie A et al. Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus. *Am J Gastroenterol*. 2017;112(5):775-784.
 - Al-Toma A et al. European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders. *United European Gastroenterol J*. 2019;7(5):583-613.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

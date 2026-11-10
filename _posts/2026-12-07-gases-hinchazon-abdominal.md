@@ -109,4 +109,4 @@ Si tu tripa empeora en las épocas de más carga, te puede interesar el artícul
 - Villoria A, Serra J, Azpiroz F, Malagelada JR. Physical activity and intestinal gas clearance in patients with bloating. *Am J Gastroenterol*. 2006;101(11):2552-2557. doi:10.1111/j.1572-0241.2006.00873.x
 - Halmos EP et al. A diet low in FODMAPs reduces symptoms of irritable bowel syndrome. *Gastroenterology*. 2014;146(1):67-75.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

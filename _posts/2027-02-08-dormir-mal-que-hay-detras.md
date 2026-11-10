@@ -87,4 +87,4 @@ Si el cansancio te acompaña aunque duermas tus horas, te puede interesar [qué 
 - St-Onge MP, Roberts A, Shechter A, Choudhury AR. Fiber and Saturated Fat Are Associated with Sleep Arousals and Slow Wave Sleep. *J Clin Sleep Med*. 2016;12(1):19-24. doi:10.5664/jcsm.5384
 - Kredlow MA, Capozzoli MC, Hearon BA, Calkins AW, Otto MW. The effects of physical activity on sleep: a meta-analytic review. *J Behav Med*. 2015;38(3):427-449. doi:10.1007/s10865-015-9617-6
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

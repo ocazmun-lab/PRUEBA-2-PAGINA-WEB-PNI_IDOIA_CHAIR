@@ -109,4 +109,4 @@ También te puede interesar: [estrés e intestino, por qué los nervios se te va
 - Wyatt P et al. Postprandial glycaemic dips predict appetite and energy intake in healthy individuals. _Nat Metab_. 2021;3(4):523-529.
 - NICE Clinical Knowledge Summaries. Tiredness/fatigue in adults.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

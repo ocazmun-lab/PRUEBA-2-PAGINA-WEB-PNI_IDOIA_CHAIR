@@ -51,4 +51,4 @@ Sí. Aunque a veces se la relacione erróneamente con pseudociencia, la psiconeu
 
 ¿Quieres profundizar en tu caso concreto? Puedes [reservar una consulta](/#contacto).
 
-_Este contenido tiene fines informativos y no sustituye una valoración médica personalizada._
+

@@ -66,4 +66,4 @@ Partimos de tu vida real, con tus horarios y tu trabajo, y elegimos los cambios 
 - Gollwitzer PM, Sheeran P. Implementation intentions and goal achievement: a meta-analysis of effects and processes. *Adv Exp Soc Psychol*. 2006;38:69-119.
 - Hall KD, Kahan S. Maintenance of Lost Weight and Long-Term Management of Obesity. *Med Clin North Am*. 2018;102(1):183-197.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

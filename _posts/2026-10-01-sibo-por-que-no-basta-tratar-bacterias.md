@@ -75,4 +75,4 @@ Puedes conocer también [cómo es una consulta de PNI online](/blog/consulta-pni
 - Koloski NA et al. The brain-gut pathway in functional gastrointestinal disorders is bidirectional: a 12-year prospective population-based study. *Gut*. 2012;61(9):1284-1290. [Enlace](https://gut.bmj.com/content/61/9/1284)
 - Rezaie A et al. Hydrogen and Methane-Based Breath Testing in Gastrointestinal Disorders: The North American Consensus. *Am J Gastroenterol*. 2017;112(5):775-784. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC5418558/)
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario. Consulta con tu médico antes de iniciar cualquier tratamiento o suplementación._
+

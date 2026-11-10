@@ -60,4 +60,4 @@ En la próxima entrada te cuento por qué tratar solo las bacterias no siempre e
 - Deloose E et al. The migrating motor complex: control mechanisms and its role in health and disease. *Nat Rev Gastroenterol Hepatol*. 2012;9(5):271-285.
 - Rao SSC et al. Brain fogginess, gas and bloating: a link between SIBO, probiotics and metabolic acidosis. *Clin Transl Gastroenterol*. 2018;9(6):162.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

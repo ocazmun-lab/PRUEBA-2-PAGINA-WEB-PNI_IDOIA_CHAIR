@@ -100,4 +100,4 @@ Si además tienes reglas irregulares, acné o caída de pelo, puede interesarte 
 - Olafsdottir LB et al. Natural History of Irritable Bowel Syndrome in Women and Dysmenorrhea: A 10-Year Follow-Up Study. *Gastroenterol Res Pract*. 2012.
 - Nagy H, Carlson K, Khan MAB. Dysmenorrhea. *StatPearls*. NCBI Bookshelf. [Enlace](https://www.ncbi.nlm.nih.gov/books/NBK560834/)
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

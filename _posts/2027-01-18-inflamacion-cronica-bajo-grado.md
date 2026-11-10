@@ -68,4 +68,4 @@ En consulta busco qué mantiene encendida la inflamación en tu caso: cómo duer
 - Gleeson M et al. The anti-inflammatory effects of exercise: mechanisms and implications for the prevention and treatment of disease. *Nat Rev Immunol*. 2011;11(9):607-615.
 - Calder PC. Omega-3 fatty acids and inflammatory processes. *Nutrients*. 2010;2(3):355-374.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+

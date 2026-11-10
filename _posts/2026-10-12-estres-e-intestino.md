@@ -92,4 +92,4 @@ Si te interesa este tema, también te puede ayudar leer [por qué tratar solo la
 - Koloski NA et al. The brain-gut pathway in functional gastrointestinal disorders is bidirectional: a 12-year prospective population-based study. _Gut_. 2012;61(9):1284-1290. [Enlace](https://gut.bmj.com/content/61/9/1284)
 - Lacy BE et al. ACG Clinical Guideline: Management of Irritable Bowel Syndrome. _Am J Gastroenterol_. 2021;116(1):17-44.
 
-_Este artículo es informativo y no sustituye la valoración de un profesional sanitario._
+
