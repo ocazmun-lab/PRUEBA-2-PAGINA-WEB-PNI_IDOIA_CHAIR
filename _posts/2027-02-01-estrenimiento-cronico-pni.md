@@ -91,7 +91,7 @@ En consulta miro cómo es tu ritmo, cómo son tus heces, qué comes y cuánta fi
 
 Con eso trabajamos la alimentación, los horarios, el movimiento, la postura, la respiración y la musculatura abdominal. Si sospecho una disinergia, te oriento hacia la reeducación del suelo pélvico.
 
-Si el estreñimiento viene con gases o hinchazón, te puede interesar el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/). Y si sospechas de un desequilibrio de bacterias, el de [SIBO](/blog/sibo-que-es-sintomas/).
+Si el estreñimiento viene con gases o hinchazón y sospechas de un desequilibrio de bacterias, te puede interesar el artículo sobre [SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

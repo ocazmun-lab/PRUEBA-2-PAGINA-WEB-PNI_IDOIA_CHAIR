@@ -1,7 +1,7 @@
 ---
 title: "Tu microbiota: qué hace por ti y 5 formas de cuidarla"
 excerpt: "¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla."
-date: 2026-12-14 08:00:00 +01:00
+date: 2026-12-07 08:00:00 +01:00
 slug: "microbiota-como-cuidarla"
 category: "Digestivo"
 tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]
@@ -56,7 +56,7 @@ Cada cepa tiene efectos distintos, así que tomar "un probiótico cualquiera" no
 
 Cuando trabajo el intestino, miro tu historia digestiva, lo que comes, cómo vas al baño y tus síntomas, y adapto los cambios a ti. Si tienes un intestino sensible, por ejemplo, hay que ir más despacio con la fibra.
 
-Si te interesa, puedes seguir con los artículos sobre [SIBO](/blog/sibo-que-es-sintomas/) y [gases e hinchazón](/blog/gases-hinchazon-abdominal/).
+Si te interesa, puedes seguir con el artículo sobre [SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

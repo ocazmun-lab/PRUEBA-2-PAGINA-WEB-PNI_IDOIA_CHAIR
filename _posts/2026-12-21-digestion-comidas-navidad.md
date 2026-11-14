@@ -52,7 +52,7 @@ Nada de "compensar" con ayunos o dietas de castigo. Vuelve a lo de siempre: comi
 
 ## Cuándo consultar
 
-Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, fuera de las fiestas, merece la pena mirar qué hay detrás. Puedes empezar por los artículos sobre [gases e hinchazón](/blog/gases-hinchazon-abdominal/) y [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
+Si la hinchazón, el ardor o la pesadez te acompañan casi todo el año, fuera de las fiestas, merece la pena mirar qué hay detrás. Puedes empezar por el artículo sobre [reflujo y digestiones pesadas](/blog/reflujo-digestiones-pesadas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

@@ -74,7 +74,7 @@ Ve a tu médico antes de nada si ves **sangre en las heces**, pierdes peso sin b
 
 Cuando llegas con colon irritable, miro más allá de la etiqueta: cuándo empezó, qué comes y cómo comes, cómo vas al baño, cómo duermes, cuánto te mueves y si hay algo como un [SIBO](/blog/sibo-que-es-sintomas/) que conviene descartar. Lo que buscamos es que tu intestino vuelva a tolerar más cosas.
 
-Si la hinchazón es lo que más te molesta, lee [los 4 tipos de hinchazón](/blog/gases-hinchazon-abdominal/). Y si lo tuyo es más bien el estreñimiento, te interesa [cuando la fibra y el agua no son suficientes](/blog/estrenimiento-cronico-pni/).
+Si lo tuyo es más bien el estreñimiento, te interesa [cuando la fibra y el agua no son suficientes](/blog/estrenimiento-cronico-pni/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 

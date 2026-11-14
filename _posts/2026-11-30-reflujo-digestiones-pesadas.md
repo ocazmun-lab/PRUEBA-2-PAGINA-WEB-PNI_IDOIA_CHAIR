@@ -1,7 +1,7 @@
 ---
 title: "Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer"
 excerpt: "El ardor que te sube a la garganta suele tener varias causas. Qué es el reflujo, qué papel tiene el diafragma y qué puedes cambiar desde hoy."
-date: 2026-12-07 08:00:00 +01:00
+date: 2026-11-30 08:00:00 +01:00
 slug: "reflujo-digestiones-pesadas"
 image: "/img/blog/reflujo-digestiones-pesadas.jpg"
 image_alt: "Reflujo y digestiones pesadas, enfoque PNI"
@@ -75,7 +75,7 @@ Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la r
 
 Ve cuanto antes si te cuesta o te duele tragar, si pierdes peso sin explicación, si vomitas, si hay sangre en el vómito o las heces son negras, si tienes anemia o si los síntomas empiezan a partir de los 60 años.
 
-Si además notas gases o hinchazón, te puede interesar el artículo sobre [gases e hinchazón abdominal](/blog/gases-hinchazon-abdominal/). Y si llevas años con protector, el de [SIBO](/blog/sibo-que-es-sintomas/).
+Si llevas años con protector, te puede interesar el artículo sobre [SIBO](/blog/sibo-que-es-sintomas/).
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
