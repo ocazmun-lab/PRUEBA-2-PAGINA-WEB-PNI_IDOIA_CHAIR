@@ -1,14 +1,14 @@
 ---
 title: "Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer"
-excerpt: "El ardor que te sube a la garganta suele tener varias causas. Qué es el reflujo, qué papel tiene el diafragma y qué puedes cambiar desde hoy."
+excerpt: "El ardor que te sube a la garganta suele tener varias causas. Cómo funciona la válvula entre el estómago y el esófago, qué la afloja, qué pasa si tienes poco ácido y qué puedes cambiar desde hoy."
 date: 2026-11-30 08:00:00 +01:00
 slug: "reflujo-digestiones-pesadas"
 image: "/img/blog/reflujo-digestiones-pesadas.jpg"
-image_alt: "Reflujo y digestiones pesadas, enfoque PNI"
+image_alt: "Mujer preparando verduras en la encimera de una cocina luminosa"
 category: "Digestivo"
 tags: ["reflujo", "acidez", "digestiones pesadas", "diafragma", "PNI"]
 meta_title: "Reflujo: causas, síntomas y qué hacer | Idoia Chair"
-meta_description: "Ardor, tos por la mañana o digestiones pesadas: por qué aparece el reflujo, qué papel tiene el diafragma y qué cambios te pueden ayudar."
+meta_description: "Ardor, tos por la mañana o digestiones pesadas: cómo funciona la válvula del estómago, qué la afloja, qué pasa con poco ácido y qué te puede ayudar."
 published: false
 ---
 
@@ -51,6 +51,10 @@ Hay cosas que bajan la fuerza con la que cierra: las comidas muy grasas, el alco
 
 Casi nunca hay una sola causa. Lo habitual es que se junten dos o tres: cenas grandes y tarde, algo de presión en la tripa y un diafragma que no aprieta lo suficiente. A eso se suman los alimentos que te sientan mal a ti, que no tienen por qué ser los mismos que a tu vecina. Por eso no hay una dieta del reflujo que valga para todo el mundo. Hay que buscar lo tuyo.
 
+## El diafragma, la parte que casi nadie trabaja
+
+Si el diafragma ayuda a cerrar la válvula, entrenarlo ayuda. Unas semanas de ejercicios de respiración abdominal pueden reducir el ácido que sube, hacer que te encuentres mejor y que con el tiempo necesites menos tratamiento. Es algo que trabajo en consulta.
+
 ## Lo que añade la PNI: a veces el esófago está más sensible
 
 Con la misma cantidad de ácido, hay personas que lo notan antes y con más intensidad. En ellas cuenta tanto el ácido que sube como lo sensible que está el esófago, porque el sistema nervioso amplifica la señal. Pasa algo parecido en la hinchazón y en el colon irritable.
@@ -66,10 +70,6 @@ Con poco ácido, la comida se queda más tiempo en el estómago y las digestione
 Y aunque lo que sube sea poco ácido, puede seguir molestando. Por eso hay personas que toman protector y siguen con tos, carraspera o la sensación de que la comida les vuelve a la boca.
 
 Lo que no conviene es tomar ácido clorhídrico o betaína por tu cuenta. No está demostrado que mejore el reflujo, y si hay una úlcera o una gastritis puede empeorarla. Tiene más sentido mirar si hay algo que te esté bajando el ácido y cómo están tus nutrientes en la analítica.
-
-## El diafragma, la parte que casi nadie trabaja
-
-Si el diafragma ayuda a cerrar la válvula, entrenarlo ayuda. Unas semanas de ejercicios de respiración abdominal pueden reducir el ácido que sube, hacer que te encuentres mejor y que con el tiempo necesites menos tratamiento. Es algo que trabajo en consulta.
 
 ## Digestiones pesadas: descarta el Helicobacter
 
@@ -97,8 +97,6 @@ Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la r
 
 Ve cuanto antes si te cuesta o te duele tragar, si pierdes peso sin explicación, si vomitas, si hay sangre en el vómito o las heces son negras, si tienes anemia o si los síntomas empiezan a partir de los 60 años.
 
-Si llevas años con protector, te puede interesar el artículo sobre [SIBO](/blog/sibo-que-es-sintomas/).
-
 👉 [**Reserva tu primera consulta**](/#contacto)
 
 ## Referencias
@@ -112,7 +110,7 @@ Si llevas años con protector, te puede interesar el artículo sobre [SIBO](/blo
 - Katz PO et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. *Am J Gastroenterol*. 2022;117(1):27-56. doi:10.14309/ajg.0000000000001538
 - Fass R et al. The effect of auditory stress on perception of intraesophageal acid in patients with gastroesophageal reflux disease. *Gastroenterology*. 2008;134(3):696-705.
 - Eherer AJ et al. Positive effect of abdominal breathing exercise on gastroesophageal reflux disease: a randomized, controlled study. *Am J Gastroenterol*. 2012;107(3):372-378. doi:10.1038/ajg.2011.420
-- Schuitenmaker JM et al. Estudio de la postura al dormir y el reflujo nocturno con monitorización simultánea de pH-impedancia. *Am J Gastroenterol*. 2022.
+- Schuitenmaker JM et al. Associations Between Sleep Position and Nocturnal Gastroesophageal Reflux: A Study Using Concurrent Monitoring of Sleep Position and Esophageal pH and Impedance. *Am J Gastroenterol*. 2022;117(2):346-351.
 - Malfertheiner P et al. Management of *Helicobacter pylori* infection: the Maastricht VI/Florence consensus report. *Gut*. 2022;71:1724-1762.
 - Reimer C et al. Proton-pump inhibitor therapy induces acid-related symptoms in healthy volunteers after withdrawal of therapy. *Gastroenterology*. 2009;137(1):80-87.
 
