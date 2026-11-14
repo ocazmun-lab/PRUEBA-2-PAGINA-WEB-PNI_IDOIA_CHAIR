@@ -19,7 +19,7 @@ Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz
 El reflujo no siempre se nota como ardor. Estos son sus síntomas más habituales:
 
 - Ardor detrás del esternón, sobre todo después de comer.
-- Sabor ácido o amargo en la boca, sobre todo al tumbarte.
+- Sabor ácido o amargo en la boca, o la sensación de que la comida te vuelve a subir, sobre todo al tumbarte.
 - Tos, carraspera o ronquera, muchas veces por la mañana.
 - Digestiones pesadas, con la sensación de que la comida se queda horas en el estómago.
 
