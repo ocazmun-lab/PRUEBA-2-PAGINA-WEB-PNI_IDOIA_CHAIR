@@ -3,8 +3,8 @@ title: "Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer"
 excerpt: "El ardor que te sube a la garganta suele tener varias causas. Cómo funciona la válvula entre el estómago y el esófago, qué la afloja, qué pasa si tienes poco ácido y qué puedes cambiar desde hoy."
 date: 2026-11-30 08:00:00 +01:00
 slug: "reflujo-digestiones-pesadas"
-image: "/img/blog/reflujo-digestiones-pesadas.jpg"
-image_alt: "Mujer preparando verduras en la encimera de una cocina luminosa"
+image: "/img/blog/reflujo-acidez-ardor-pni.jpg"
+image_alt: "Hombre con la mano en el estómago después de comer, junto a una ilustración del ácido subiendo al esófago y los síntomas del reflujo: acidez, regurgitación, pesadez y ardor en el pecho"
 category: "Digestivo"
 tags: ["reflujo", "acidez", "digestiones pesadas", "diafragma", "PNI"]
 meta_title: "Reflujo: causas, síntomas y qué hacer | Idoia Chair"
