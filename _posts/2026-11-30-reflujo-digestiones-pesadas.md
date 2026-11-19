@@ -1,14 +1,19 @@
 ---
-title: "Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer"
-excerpt: "El ardor que te sube a la garganta suele tener varias causas. Cómo funciona la válvula entre el estómago y el esófago, qué la afloja, qué pasa si tienes poco ácido y qué puedes cambiar desde hoy."
+title: 'Reflujo: por qué el ardor te sube a la garganta y qué puedes hacer'
+excerpt: El ardor que te sube a la garganta suele tener varias causas. Cómo funciona la válvula entre el estómago y el esófago, qué la afloja, qué pasa si tienes poco ácido y qué puedes cambiar desde hoy.
 date: 2026-11-30 08:00:00 +01:00
-slug: "reflujo-digestiones-pesadas"
-image: "/img/blog/reflujo-acidez-ardor-pni.jpg"
-image_alt: "Hombre con la mano en el estómago después de comer, junto a una ilustración del ácido subiendo al esófago y los síntomas del reflujo: acidez, regurgitación, pesadez y ardor en el pecho"
-category: "Digestivo"
-tags: ["reflujo", "acidez", "digestiones pesadas", "diafragma", "PNI"]
-meta_title: "Reflujo: causas, síntomas y qué hacer | Idoia Chair"
-meta_description: "Ardor, tos por la mañana o digestiones pesadas: cómo funciona la válvula del estómago, qué la afloja, qué pasa con poco ácido y qué te puede ayudar."
+slug: reflujo-digestiones-pesadas
+image: /img/blog/reflujo-acidez-ardor-pni.jpg
+image_alt: 'Hombre con la mano en el estómago después de comer, junto a una ilustración del ácido subiendo al esófago y los síntomas del reflujo: acidez, regurgitación, pesadez y ardor en el pecho'
+category: Digestivo
+tags:
+  - reflujo
+  - acidez
+  - digestiones pesadas
+  - diafragma
+  - PNI
+meta_title: 'Reflujo: causas, síntomas y qué hacer | Idoia Chair'
+meta_description: 'Ardor, tos por la mañana o digestiones pesadas: cómo funciona la válvula del estómago, qué la afloja, qué pasa con poco ácido y qué te puede ayudar.'
 published: false
 ---
 
@@ -53,7 +58,7 @@ Casi nunca hay una sola causa. Lo habitual es que se junten dos o tres: cenas gr
 
 ## El diafragma, la parte que casi nadie trabaja
 
-Si el diafragma ayuda a cerrar la válvula, entrenarlo ayuda. Unas semanas de ejercicios de respiración abdominal pueden reducir el ácido que sube, hacer que te encuentres mejor y que con el tiempo necesites menos tratamiento. Es algo que trabajo en consulta.
+Si el diafragma ayuda a cerrar la válvula, entrenarlo ayuda. Unas semanas de ejercicios de respiración abdominal pueden reducir el ácido que sube, hacer que te encuentres mejor y que con el tiempo necesites menos tratamiento. 
 
 ## Lo que añade la PNI: a veces el esófago está más sensible
 
@@ -63,7 +68,7 @@ Con la misma cantidad de ácido, hay personas que lo notan antes y con más inte
 
 Quizá has leído que el reflujo viene de tener poco ácido en el estómago, no mucho. Una parte de eso es cierta.
 
-El estómago puede fabricar menos ácido del que necesita. A esto se le llama hipoclorhidria. Pasa con la edad, cuando el *Helicobacter* lleva años inflamando el estómago, cuando llevas mucho tiempo con protector y en la gastritis autoinmune, que es bastante más frecuente si tienes [Hashimoto](/blog/hashimoto-y-pni/).
+El estómago puede fabricar menos ácido del que necesita. A esto se le llama hipoclorhidria. Pasa con la edad, cuando el _Helicobacter_ lleva años inflamando el estómago, cuando llevas mucho tiempo con "protector de estomago" y en la gastritis autoinmune, que es bastante más frecuente si tienes [Hashimoto](/blog/hashimoto-y-pni/).
 
 Con poco ácido, la comida se queda más tiempo en el estómago y las digestiones se hacen pesadas. Además se absorben peor la vitamina B12, el hierro, el calcio y el magnesio, y es más fácil que las bacterias crezcan donde no deben, como pasa en el [SIBO](/blog/sibo-que-es-sintomas/).
 
@@ -73,7 +78,7 @@ Lo que no conviene es tomar ácido clorhídrico o betaína por tu cuenta. No est
 
 ## Digestiones pesadas: descarta el Helicobacter
 
-Si lo tuyo es sobre todo pesadez, llenarte enseguida o dolor en la boca del estómago, conviene descartar una infección por *Helicobacter pylori* antes de hablar de "dispepsia funcional". Es una prueba sencilla que te puede pedir tu médico.
+Si lo tuyo es sobre todo pesadez, llenarte enseguida o dolor en la boca del estómago, conviene descartar una infección por _Helicobacter pylori_ antes de hablar de "dispepsia funcional". Es una prueba sencilla.
 
 ## Lo que puedes hacer
 
@@ -85,33 +90,27 @@ Si lo tuyo es sobre todo pesadez, llenarte enseguida o dolor en la boca del est�
 - Comer despacio y en platos más pequeños, y apuntar qué alimentos te sientan mal a ti.
 - Perder peso si te sobra, y dejar el tabaco.
 
-Si llevas tiempo con protector, no lo dejes de golpe por tu cuenta, porque puede dar efecto rebote. Háblalo con tu médico.
+Si llevas tiempo con protector, no lo dejes de golpe por tu cuenta, porque puede dar efecto rebote.
 
 ## Qué miro en consulta
 
-En consulta busco qué se junta en tu caso: cómo y a qué hora comes y cenas, cómo haces la digestión, si se ha descartado el *Helicobacter*, si llevas tiempo con protector y cómo están tu B12 y tu hierro, desde cuándo te pasa y qué has probado ya, y cómo funcionan tu respiración, tu diafragma y tu postura.
+En consulta busco qué se junta en tu caso: cómo y a qué hora comes y cenas, cómo haces la digestión, si se ha descartado el _Helicobacter_, si llevas tiempo con protector y cómo están tu B12 y tu hierro, desde cuándo te pasa y qué has probado ya, cómo funcionan tu respiración, tu diafragma y tu postura.
 
-Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la respiración, siempre de acuerdo con tu médico.
+Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la respiración.
 
-## Cuándo ir al médico
-
-Ve cuanto antes si te cuesta o te duele tragar, si pierdes peso sin explicación, si vomitas, si hay sangre en el vómito o las heces son negras, si tienes anemia o si los síntomas empiezan a partir de los 60 años.
-
-👉 [**Reserva tu primera consulta**](/#contacto)
+👉 **[Reserva tu primera consulta](/#contacto)**
 
 ## Referencias
 
-- Mittal RK, Balaban DH. The esophagogastric junction. *N Engl J Med*. 1997;336(13):924-932. doi:10.1056/NEJM199703273361306
-- Physiology, Lower Esophageal Sphincter. *StatPearls*. NCBI Bookshelf. [Enlace](https://www.statpearls.com/ArticleLibrary/viewarticle/24441)
-- Cellini M et al. Hashimoto's Thyroiditis and Autoimmune Gastritis. *Front Endocrinol*. 2017;8:92. doi:10.3389/fendo.2017.00092
-- Heidelbaugh JJ. Proton pump inhibitors and risk of vitamin and mineral deficiency: evidence and clinical implications. *Ther Adv Drug Saf*. 2013;4(3):125-133. doi:10.1177/2042098613482484
-- Storr MA. What is nonacid reflux disease? *Can J Gastroenterol*. 2011;25(1):35-38. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC3027332)
-- Yago MR et al. Gastric reacidification with betaine HCl in healthy volunteers with rabeprazole-induced hypochlorhydria. *Mol Pharm*. 2013. [Enlace](https://pubmed.ncbi.nlm.nih.gov/23980906/)
-- Katz PO et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. *Am J Gastroenterol*. 2022;117(1):27-56. doi:10.14309/ajg.0000000000001538
-- Fass R et al. The effect of auditory stress on perception of intraesophageal acid in patients with gastroesophageal reflux disease. *Gastroenterology*. 2008;134(3):696-705.
-- Eherer AJ et al. Positive effect of abdominal breathing exercise on gastroesophageal reflux disease: a randomized, controlled study. *Am J Gastroenterol*. 2012;107(3):372-378. doi:10.1038/ajg.2011.420
-- Schuitenmaker JM et al. Associations Between Sleep Position and Nocturnal Gastroesophageal Reflux: A Study Using Concurrent Monitoring of Sleep Position and Esophageal pH and Impedance. *Am J Gastroenterol*. 2022;117(2):346-351.
-- Malfertheiner P et al. Management of *Helicobacter pylori* infection: the Maastricht VI/Florence consensus report. *Gut*. 2022;71:1724-1762.
-- Reimer C et al. Proton-pump inhibitor therapy induces acid-related symptoms in healthy volunteers after withdrawal of therapy. *Gastroenterology*. 2009;137(1):80-87.
-
-
+- Mittal RK, Balaban DH. The esophagogastric junction. _N Engl J Med_. 1997;336(13):924-932. doi:10.1056/NEJM199703273361306
+- Physiology, Lower Esophageal Sphincter. _StatPearls_. NCBI Bookshelf. [Enlace](https://www.statpearls.com/ArticleLibrary/viewarticle/24441)
+- Cellini M et al. Hashimoto's Thyroiditis and Autoimmune Gastritis. _Front Endocrinol_. 2017;8:92. doi:10.3389/fendo.2017.00092
+- Heidelbaugh JJ. Proton pump inhibitors and risk of vitamin and mineral deficiency: evidence and clinical implications. _Ther Adv Drug Saf_. 2013;4(3):125-133. doi:10.1177/2042098613482484
+- Storr MA. What is nonacid reflux disease? _Can J Gastroenterol_. 2011;25(1):35-38. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC3027332)
+- Yago MR et al. Gastric reacidification with betaine HCl in healthy volunteers with rabeprazole-induced hypochlorhydria. _Mol Pharm_. 2013. [Enlace](https://pubmed.ncbi.nlm.nih.gov/23980906/)
+- Katz PO et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. _Am J Gastroenterol_. 2022;117(1):27-56. doi:10.14309/ajg.0000000000001538
+- Fass R et al. The effect of auditory stress on perception of intraesophageal acid in patients with gastroesophageal reflux disease. _Gastroenterology_. 2008;134(3):696-705.
+- Eherer AJ et al. Positive effect of abdominal breathing exercise on gastroesophageal reflux disease: a randomized, controlled study. _Am J Gastroenterol_. 2012;107(3):372-378. doi:10.1038/ajg.2011.420
+- Schuitenmaker JM et al. Associations Between Sleep Position and Nocturnal Gastroesophageal Reflux: A Study Using Concurrent Monitoring of Sleep Position and Esophageal pH and Impedance. _Am J Gastroenterol_. 2022;117(2):346-351.
+- Malfertheiner P et al. Management of _Helicobacter pylori_ infection: the Maastricht VI/Florence consensus report. _Gut_. 2022;71:1724-1762.
+- Reimer C et al. Proton-pump inhibitor therapy induces acid-related symptoms in healthy volunteers after withdrawal of therapy. _Gastroenterology_. 2009;137(1):80-87.
