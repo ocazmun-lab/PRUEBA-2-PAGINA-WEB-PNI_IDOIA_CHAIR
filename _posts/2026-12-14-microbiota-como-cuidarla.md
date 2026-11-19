@@ -6,13 +6,13 @@ slug: "microbiota-como-cuidarla"
 category: "Digestivo"
 tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]
 meta_title: "Microbiota: qué es y cómo cuidarla | Idoia Chair"
-meta_description: "Qué es la microbiota, por qué influye en tu digestión, tus defensas y la inflamación, y 5 formas de cuidarla, empezando por comer 30 plantas a la semana."
+meta_description: "Qué es la microbiota, por qué influye en tu digestión y tus defensas, qué la desequilibra y 5 formas de cuidarla, empezando por comer más plantas distintas."
 published: false
 ---
 
-¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, frutos secos, semillas, especias… ¿Llegas a 30?
+¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, frutos secos, semillas, especias… ¿Llegas a 15?
 
-Si te has quedado lejos, tranquila, es lo más habitual. Ese número tiene su porqué, y tiene que ver con algo que influye en tu digestión, tus defensas y tu inflamación.
+Si te has quedado lejos, tranquila, es lo más habitual. Contarlas tiene su porqué, y tiene que ver con algo que influye en tu digestión, tus defensas y tu inflamación.
 
 En tu intestino viven billones de bacterias, hongos y otros microorganismos, y la mayoría trabajan a tu favor. Juntos forman tu **microbiota**.
 
@@ -25,14 +25,16 @@ En tu intestino viven billones de bacterias, hongos y otros microorganismos, y l
 
 Por eso, desde la Psiconeuroinmunología, casi siempre miro el intestino, aunque el síntoma esté en otro sitio.
 
-## Lo que más importa es la variedad
+## Qué la desequilibra
 
-Una microbiota sana es, sobre todo, variada. Y lo que más la hace variar es lo que comes.
+Hay cosas del día a día que le quitan variedad: los antibióticos, sobre todo si se repiten; comer siempre lo mismo y con pocos vegetales; el alcohol; dormir mal. Muchas veces se juntan varias.
 
 ## 5 formas de cuidarla
 
-### 1. Come 30 plantas distintas a la semana
-Las personas que comen más de 30 vegetales distintos a la semana tienen una microbiota más variada que las que comen 10 o menos.
+Una microbiota sana es, sobre todo, variada. Y lo que más la hace variar es lo que comes.
+
+### 1. Come 15 plantas distintas a la semana
+Cuantos más vegetales distintos comes, más variada es tu microbiota. Empieza por 15 a la semana y, cuando lo tengas, ve sumando.
 
 Cuentan todas: verduras, frutas, frutos secos, semillas, especias y cereales. Si un día pones en la ensalada lechuga, tomate, zanahoria, nueces y orégano, ya llevas cinco.
 
@@ -56,7 +58,7 @@ Cada cepa tiene efectos distintos, así que tomar "un probiótico cualquiera" no
 
 Cuando trabajo el intestino, miro tu historia digestiva, lo que comes, cómo vas al baño y tus síntomas, y adapto los cambios a ti. Si tienes un intestino sensible, por ejemplo, hay que ir más despacio con la fibra.
 
-Si te interesa, puedes seguir con el artículo sobre [SIBO](/blog/sibo-que-es-sintomas/).
+Si te interesa, puedes seguir con los artículos sobre [SIBO](/blog/sibo-que-es-sintomas/) y sobre [cómo preparar tus defensas](/blog/defensas-invierno-resfriados/), que también tienen mucho que ver con el intestino.
 
 👉 [**Reserva tu primera consulta**](/#contacto)
 
@@ -66,6 +68,9 @@ Si te interesa, puedes seguir con el artículo sobre [SIBO](/blog/sibo-que-es-si
 - Makki K, Deehan EC, Walter J, Bäckhed F. The Impact of Dietary Fiber on Gut Microbiota in Host Health and Disease. *Cell Host Microbe*. 2018;23(6):705-715.
 - Wastyk HC et al. Gut-microbiota-targeted diets modulate human immune status. *Cell*. 2021;184(16):4137-4153.
 - Chassaing B et al. Randomized Controlled-Feeding Study of Dietary Emulsifier Carboxymethylcellulose Reveals Detrimental Impacts on the Gut Microbiota and Metabolome. *Gastroenterology*. 2022;162(3):743-756.
+- Dethlefsen L, Relman DA. Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation. *Proc Natl Acad Sci USA*. 2011;108(Suppl 1):4554-4561.
+- Engen PA, Green SJ, Voigt RM, Forsyth CB, Keshavarzian A. The Gastrointestinal Microbiome: Alcohol Effects on the Composition of Intestinal Microbiota. *Alcohol Res*. 2015;37(2):223-236.
+- Smith RP et al. Gut microbiome diversity is associated with sleep physiology in humans. *PLoS One*. 2019;14(10):e0222394.
 - Allen JM et al. Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans. *Med Sci Sports Exerc*. 2018;50(4):747-757.
 
 
