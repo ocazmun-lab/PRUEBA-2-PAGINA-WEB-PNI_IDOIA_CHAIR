@@ -14,7 +14,7 @@ tags:
   - PNI
 meta_title: 'Reflujo: causas, síntomas y qué hacer | Idoia Chair'
 meta_description: 'Ardor, tos por la mañana o digestiones pesadas: cómo funciona la válvula del estómago, qué la afloja, qué pasa con poco ácido y qué te puede ayudar.'
-published: false
+published: true
 ---
 
 Cenas, te acuestas… y el ardor te sube a la garganta. O te levantas con la voz tomada, con tos, o con la sensación de que la cena sigue "ahí". Si te pasa a menudo, algo no está cerrando bien.
