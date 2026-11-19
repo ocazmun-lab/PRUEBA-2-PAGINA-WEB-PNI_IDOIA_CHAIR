@@ -67,9 +67,7 @@ Te pasa si llegas a la noche con la cabeza agotada y el cuerpo casi sin haberse 
 - Baja las luces y aparta las pantallas en la última hora del día.
 - Acuéstate y levántate a horas parecidas, también el fin de semana.
 
-## Cuándo ir al médico
-
-Si roncas fuerte y te dicen que haces pausas al respirar, si te duermes de día sin querer, si notas las piernas inquietas al acostarte o si el insomnio dura meses y te afecta mucho, coméntalo con tu médico. Y si lo que no te deja dormir son las preocupaciones, la psicología tiene herramientas muy eficaces para el insomnio.
+Y si lo que no te deja dormir son las preocupaciones, la psicología tiene herramientas muy eficaces para el insomnio.
 
 ## Qué miro en consulta
 

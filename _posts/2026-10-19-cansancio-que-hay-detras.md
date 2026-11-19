@@ -85,8 +85,6 @@ En consulta lo veo a menudo: no hay un único culpable, sino **varias causas que
 
 Con esa información, la valoración será mucho más precisa.
 
-Si el cansancio viene acompañado de pérdida de peso sin explicación, fiebre, sudores nocturnos, falta de aire o sangrado, consulta con tu médico sin esperar.
-
 ## Si te has reconocido
 
 Si llevas tiempo agotada y sientes que nadie ha mirado el conjunto, puedo ayudarte a estudiar tu caso desde la raíz.

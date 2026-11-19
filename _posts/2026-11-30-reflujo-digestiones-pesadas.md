@@ -68,7 +68,7 @@ Con la misma cantidad de ácido, hay personas que lo notan antes y con más inte
 
 Quizá has leído que el reflujo viene de tener poco ácido en el estómago, no mucho. Una parte de eso es cierta.
 
-El estómago puede fabricar menos ácido del que necesita. A esto se le llama hipoclorhidria. Pasa con la edad, cuando el _Helicobacter_ lleva años inflamando el estómago, cuando llevas mucho tiempo con "protector de estomago" y en la gastritis autoinmune, que es bastante más frecuente si tienes [Hashimoto](/blog/hashimoto-y-pni/).
+El estómago puede fabricar menos ácido del que necesita. A esto se le llama hipoclorhidria. Pasa con la edad, cuando el _Helicobacter_ lleva años inflamando el estómago, cuando llevas mucho tiempo con "protector de estómago" y en la gastritis autoinmune, que es bastante más frecuente si tienes [Hashimoto](/blog/hashimoto-y-pni/).
 
 Con poco ácido, la comida se queda más tiempo en el estómago y las digestiones se hacen pesadas. Además se absorben peor la vitamina B12, el hierro, el calcio y el magnesio, y es más fácil que las bacterias crezcan donde no deben, como pasa en el [SIBO](/blog/sibo-que-es-sintomas/).
 
@@ -94,7 +94,7 @@ Si llevas tiempo con protector, no lo dejes de golpe por tu cuenta, porque puede
 
 ## Qué miro en consulta
 
-En consulta busco qué se junta en tu caso: cómo y a qué hora comes y cenas, cómo haces la digestión, si se ha descartado el _Helicobacter_, si llevas tiempo con protector y cómo están tu B12 y tu hierro, desde cuándo te pasa y qué has probado ya, cómo funcionan tu respiración, tu diafragma y tu postura.
+En consulta busco qué se junta en tu caso: cómo y a qué hora comes y cenas, cómo haces la digestión, si se ha descartado el _Helicobacter_, si llevas tiempo con protector y cómo están tu B12 y tu hierro, desde cuándo te pasa y qué has probado ya y cómo funcionan tu respiración, tu diafragma y tu postura.
 
 Con eso trabajamos la alimentación, los horarios de comida, el diafragma y la respiración.
 

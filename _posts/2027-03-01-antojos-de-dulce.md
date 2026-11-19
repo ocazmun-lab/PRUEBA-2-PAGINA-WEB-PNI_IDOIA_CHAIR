@@ -62,10 +62,6 @@ Te pasa si en tu despensa hay más paquetes que comida de verdad.
 - Ten a mano fruta, frutos secos, yogur natural o un par de onzas de chocolate negro.
 - Y no te lo prohíbas todo. Comer algo dulce de vez en cuando también es comer bien.
 
-## Cuándo ir al médico
-
-Si además de los antojos tienes mucha sed, orinas mucho, pierdes peso sin buscarlo o te mareas o tiemblas cuando pasas horas sin comer, coméntalo con tu médico para que revise tu glucosa.
-
 ## Qué miro en consulta
 
 Cuando me cuentas que no puedes con el dulce, miro cómo duermes, qué desayunas, cómo repartes las comidas, cómo haces la digestión y si los antojos tienen hora fija. Casi siempre, cuando el día está bien organizado, el dulce deja de mandar.

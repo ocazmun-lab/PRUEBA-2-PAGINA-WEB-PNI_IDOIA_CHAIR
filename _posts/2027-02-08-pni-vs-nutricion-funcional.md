@@ -42,7 +42,7 @@ Si lo que buscas es sobre todo una pauta de alimentación, por ejemplo para camb
 
 Si arrastras síntomas digestivos, hormonales o de cansancio que no terminan de explicarse, y notas que empeoran cuando duermes mal o tienes más carga, la PNI mira más cosas a la vez.
 
-Muchas veces se complementan. Lo importante es que el profesional mire el conjunto y trabaje de acuerdo con tu médico.
+Muchas veces se complementan. Lo importante es que el profesional mire el conjunto.
 
 ## Cómo trabajo yo
 

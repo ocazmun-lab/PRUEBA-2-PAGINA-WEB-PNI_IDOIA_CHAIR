@@ -27,7 +27,7 @@ El colon irritable no se cura con una pastilla, eso es verdad. Pero hoy sabemos 
 
 El síndrome del intestino irritable (SII) es uno de los problemas digestivos más frecuentes. Hoy se considera un **trastorno de la comunicación entre el intestino y el cerebro**. El intestino no tiene ninguna lesión que se vea, y aun así se mueve distinto, es más sensible y se comunica de otra forma con el sistema nervioso.
 
-El diagnóstico lo hace tu médico, y antes hay que descartar otras causas, como la celiaquía o la enfermedad inflamatoria intestinal.
+Antes de hablar de colon irritable hay que descartar otras causas, como la celiaquía o la enfermedad inflamatoria intestinal.
 
 ## 1. Un intestino más sensible
 
@@ -65,10 +65,6 @@ Te pasa si pasas muchas horas sentada y te mueves poco.
 - Muévete cada día. Caminar después de comer es un buen comienzo.
 - Duerme bien, porque dormir mal también hace al intestino más sensible.
 - Si notas que los nervios se te van a la tripa, hay terapias psicológicas específicas para el colon irritable que funcionan muy bien.
-
-## Cuándo ir al médico
-
-Ve a tu médico antes de nada si ves **sangre en las heces**, pierdes peso sin buscarlo, los síntomas te despiertan por la noche, han empezado después de los 50, tienes anemia o en tu familia ha habido cáncer de colon, celiaquía o enfermedad inflamatoria intestinal.
 
 ## Qué miro en consulta
 

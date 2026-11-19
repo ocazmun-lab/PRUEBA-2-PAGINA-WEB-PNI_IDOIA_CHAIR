@@ -57,7 +57,7 @@ No existe una fórmula que garantice el resultado en todos los casos: lo que sí
 
 ## ¿Cuándo tiene sentido consultar?
 
-Si llevas tiempo con hinchazón, gases o digestiones pesadas y sientes que los tratamientos puntuales no han llegado al fondo del problema, una valoración más completa puede ayudarte a entender mejor tu caso. Si tienes sangre en heces, fiebre, pérdida de peso sin explicación o dolor intenso, **acude cuanto antes a tu médico**.
+Si llevas tiempo con hinchazón, gases o digestiones pesadas y sientes que los tratamientos puntuales no han llegado al fondo del problema, una valoración más completa puede ayudarte a entender mejor tu caso.
 
 **Si te has sentido identificada o identificado, puedo ayudarte a estudiar tu caso y valorar qué camino tiene sentido para ti.**
 

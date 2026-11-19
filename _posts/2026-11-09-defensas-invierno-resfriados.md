@@ -33,7 +33,7 @@ Mientras duermes, tu sistema inmune hace buena parte de su trabajo de mantenimie
 
 Desde el otoño hay menos horas de sol y pasamos más tiempo dentro, así que es frecuente que la vitamina D baje. Y la vitamina D participa en cómo se defiende tu cuerpo: **cuando está baja y se corrige, hay menos infecciones respiratorias.**
 
-Lo importante es saber cómo está la tuya. Pídele a tu médico que la incluya en tu próxima analítica.
+Lo importante es saber cómo está la tuya, así que conviene incluirla en tu próxima analítica.
 
 **Pista:** apenas te da el sol entre semana o en tu última analítica salió baja.
 
@@ -60,7 +60,7 @@ No hace falta entrenar para una maratón: caminar a buen ritmo, subir escaleras 
 ## Lo que puedes hacer desde hoy
 
 - **Protege tus horas de sueño**, sobre todo en las épocas de más carga.
-- **Revisa tu vitamina D** con tu médico.
+- **Revisa tu vitamina D** en tu próxima analítica.
 - **Añade algo fermentado a tu día**: un yogur natural, un poco de kéfir o de chucrut.
 - **Llena el plato de fruta y verdura de temporada, y ve variando**, que alimentan a tu microbiota.
 - **Muévete a diario**, aunque haga frío.

@@ -81,10 +81,6 @@ Que el intestino se mueva depende de muchas cosas: el sistema nervioso que lo co
 - Moverte cada día, sobre todo con ejercicio aeróbico como caminar a buen ritmo.
 - Reeducar el suelo pélvico con un fisioterapeuta especializado si hay disinergia.
 
-## Cuándo ir al médico
-
-Ve si el estreñimiento es nuevo y ha cambiado tu ritmo de siempre, si hay **sangre en las heces, pérdida de peso sin explicación, anemia** o dolor fuerte, o si en tu familia ha habido cáncer de colon.
-
 ## Qué miro en consulta
 
 En consulta miro cómo es tu ritmo, cómo son tus heces, qué comes y cuánta fibra tomas y de qué tipo, cuánto te mueves, cómo te sientas en el baño y cómo empujas. Y tu historia: tiroides, hierro, digestión y desde cuándo te pasa.

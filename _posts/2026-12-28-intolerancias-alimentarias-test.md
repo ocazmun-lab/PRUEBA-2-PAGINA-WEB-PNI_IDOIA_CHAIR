@@ -20,7 +20,7 @@ En una **alergia alimentaria**, el sistema inmune reacciona contra un alimento, 
 
 En una **intolerancia**, el cuerpo no digiere o no absorbe bien un componente del alimento. El ejemplo más claro es la lactosa: si falta la enzima que la digiere, llega al intestino grueso, fermenta y da gases, hinchazón o diarrea.
 
-La **celiaquía** es una enfermedad autoinmune que desencadena el gluten. Tiene su propio diagnóstico médico.
+La **celiaquía** es una enfermedad autoinmune que desencadena el gluten. Tiene su propio diagnóstico.
 
 ## El problema de los test de IgG
 
