@@ -27,7 +27,16 @@ Por eso, desde la Psiconeuroinmunología, casi siempre miro el intestino, aunque
 
 ## Qué la desequilibra
 
-Hay cosas del día a día que le quitan variedad: los antibióticos, sobre todo si se repiten; comer siempre lo mismo y con pocos vegetales; el alcohol; dormir mal. Muchas veces se juntan varias.
+Tu microbiota cambia con lo que haces cada día. Estas son las cosas que más le quitan variedad:
+
+- **Los antibióticos.** Eliminan las bacterias que causan la infección y, de paso, muchas de las que te cuidan. Después de una tanda la microbiota suele recuperarse en unas semanas, pero si las tandas se repiten, a veces no vuelve del todo a como estaba.
+- **Comer siempre lo mismo y con poca fibra.** Las bacterias que viven de la fibra se quedan sin alimento y van desapareciendo. Algunas buscan otra cosa que comer y empiezan a gastar la capa de moco que protege la pared del intestino.
+- **El alcohol.** Cambia qué bacterias predominan y hace la pared del intestino más permeable, lo que favorece la inflamación.
+- **Dormir mal y los horarios desordenados.** Tu microbiota también tiene su ritmo de día y de noche. Los turnos, las cenas muy tarde o los cambios de hora constantes lo desordenan.
+- **Algunos medicamentos.** Por ejemplo, el protector de estómago tomado durante mucho tiempo: al bajar el ácido, llegan al intestino bacterias que normalmente se quedarían en la boca. Lo cuento en el artículo sobre [reflujo](/blog/reflujo-digestiones-pesadas/).
+- **El estrés mantenido.** Intestino y cerebro se hablan en los dos sentidos, y eso también se nota en la microbiota.
+
+Muchas veces se juntan varias, y la microbiota se va empobreciendo poco a poco.
 
 ## 5 formas de cuidarla
 
@@ -45,7 +54,17 @@ La fibra es el alimento de tus bacterias. Cuando la fermentan, fabrican esas sus
 Tomar algún fermentado cada día hace tu microbiota más variada y ayuda a bajar la inflamación. Por ejemplo, un yogur natural, un poco de kéfir, chucrut, kimchi o encurtidos fermentados.
 
 ### 4. Menos ultraprocesados
-Algunos aditivos muy usados, como ciertos emulsionantes, alteran la microbiota. Otra razón para que la base de lo que comes sea comida de verdad.
+Los ultraprocesados son productos hechos a partir de ingredientes que no tendrías en tu cocina: emulsionantes, edulcorantes, aromas, almidones modificados. La bollería, los cereales de desayuno, las salsas de bote o muchos platos preparados lo son.
+
+Hacen daño a tu microbiota de tres maneras:
+
+- **Desplazan la comida de verdad.** Cuando son la base de lo que comes, apenas entra fibra y tus bacterias pasan hambre.
+- **Los emulsionantes.** Algunos, como la carboximetilcelulosa (E-466), reducen la variedad de bacterias y hacen que se acerquen más a la pared del intestino, donde pueden irritarla.
+- **Los edulcorantes.** La sucralosa y la sacarina cambian la microbiota y, en algunas personas, empeoran cómo manejan el azúcar.
+
+Para reconocerlos, mira la lista de ingredientes. Si es larga, tiene números E o nombres que no usarías al cocinar, es un ultraprocesado.
+
+Uno de vez en cuando no pasa nada. Lo que cuenta es que la base de tu semana sea comida de verdad: verdura, fruta, huevos, pescado, carne, frutos secos y aceite de oliva.
 
 ### 5. Muévete
 El ejercicio también cambia la microbiota: en pocas semanas aumentan las bacterias que fabrican esos ácidos grasos. Si lo dejas, el efecto se pierde.
@@ -71,6 +90,12 @@ Si te interesa, puedes seguir con los artículos sobre [SIBO](/blog/sibo-que-es-
 - Dethlefsen L, Relman DA. Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation. *Proc Natl Acad Sci USA*. 2011;108(Suppl 1):4554-4561.
 - Engen PA, Green SJ, Voigt RM, Forsyth CB, Keshavarzian A. The Gastrointestinal Microbiome: Alcohol Effects on the Composition of Intestinal Microbiota. *Alcohol Res*. 2015;37(2):223-236.
 - Smith RP et al. Gut microbiome diversity is associated with sleep physiology in humans. *PLoS One*. 2019;14(10):e0222394.
+- Desai MS et al. A Dietary Fiber-Deprived Gut Microbiota Degrades the Colonic Mucus Barrier and Enhances Pathogen Susceptibility. *Cell*. 2016;167(5):1339-1353.
+- Bishehsari F et al. Alcohol and Gut-Derived Inflammation. *Alcohol Res*. 2017;38(2):163-171.
+- Thaiss CA et al. Transkingdom control of microbiota diurnal oscillations promotes metabolic homeostasis. *Cell*. 2014;159(3):514-529.
+- Imhann F et al. Proton pump inhibitors affect the gut microbiome. *Gut*. 2016;65(5):740-748.
+- Suez J et al. Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. *Cell*. 2022;185(18):3307-3328.
+- Monteiro CA et al. Ultra-processed foods: what they are and how to identify them. *Public Health Nutr*. 2019;22(5):936-941.
 - Allen JM et al. Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans. *Med Sci Sports Exerc*. 2018;50(4):747-757.
 
 
