@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué te pide dulce a media tarde? 4 razones con explicación"
 excerpt: "Los antojos de dulce tienen explicación: cómo duermes, cómo desayunas, las bajadas de azúcar y los ultraprocesados. Qué puedes cambiar sin prohibirte nada."
-date: 2027-02-22 08:00:00 +01:00
+date: 2027-03-01 08:00:00 +01:00
 slug: "antojos-de-dulce"
 category: "Hormonal"
 tags: ["antojos", "azúcar", "glucosa", "desayuno", "sueño"]

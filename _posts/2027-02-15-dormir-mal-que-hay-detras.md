@@ -1,7 +1,7 @@
 ---
 title: "Te cuesta dormirte o te despiertas de madrugada: lo que hay detrás"
 excerpt: "Dormir mal tiene poco de cosa de nervios. La luz, los horarios, lo que comes y cuánto te mueves influyen en tu descanso. Qué puedes cambiar desde hoy."
-date: 2027-02-08 08:00:00 +01:00
+date: 2027-02-15 08:00:00 +01:00
 slug: "dormir-mal-que-hay-detras"
 category: "Inmune"
 tags: ["sueño", "insomnio", "ritmos circadianos", "inflamación", "PNI"]
