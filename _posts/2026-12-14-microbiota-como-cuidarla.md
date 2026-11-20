@@ -3,8 +3,8 @@ title: 'Tu microbiota: qué hace por ti y 5 formas de cuidarla'
 excerpt: ¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla.
 date: 2026-12-14 08:00:00 +01:00
 slug: microbiota-como-cuidarla
-image: ''
-image_alt: ''
+image: /img/blog/microbiota-intestinal-bacterias-pni.jpg
+image_alt: Intestino rodeado de bacterias de colores, con una lupa sobre la microbiota, junto a yogur, arándanos, avena y ajo
 category: Digestivo
 tags:
   - microbiota
