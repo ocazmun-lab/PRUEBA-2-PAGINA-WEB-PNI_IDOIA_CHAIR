@@ -1,13 +1,20 @@
 ---
-title: "Tu microbiota: qué hace por ti y 5 formas de cuidarla"
-excerpt: "¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla."
+title: 'Tu microbiota: qué hace por ti y 5 formas de cuidarla'
+excerpt: ¿Cuántas plantas distintas comes a la semana? Qué hace tu microbiota por ti y 5 formas sencillas de cuidarla.
 date: 2026-12-14 08:00:00 +01:00
-slug: "microbiota-como-cuidarla"
-category: "Digestivo"
-tags: ["microbiota", "intestino", "fibra", "fermentados", "PNI"]
-meta_title: "Microbiota: qué es y cómo cuidarla | Idoia Chair"
-meta_description: "Qué es la microbiota, por qué influye en tu digestión y tus defensas, qué la desequilibra y 5 formas de cuidarla, empezando por comer más plantas distintas."
-published: false
+slug: microbiota-como-cuidarla
+image: ''
+image_alt: ''
+category: Digestivo
+tags:
+  - microbiota
+  - intestino
+  - fibra
+  - fermentados
+  - PNI
+meta_title: 'Microbiota: qué es y cómo cuidarla | Idoia Chair'
+meta_description: Qué es la microbiota, por qué influye en tu digestión y tus defensas, qué la desequilibra y 5 formas de cuidarla, empezando por comer más plantas distintas.
+published: true
 ---
 
 ¿Cuántas plantas distintas has comido esta semana? Cuéntalas: verduras, frutas, frutos secos, semillas, especias… ¿Llegas a 15?
@@ -97,5 +104,3 @@ Si te interesa, puedes seguir con los artículos sobre [SIBO](/blog/sibo-que-es-
 - Suez J et al. Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. *Cell*. 2022;185(18):3307-3328.
 - Monteiro CA et al. Ultra-processed foods: what they are and how to identify them. *Public Health Nutr*. 2019;22(5):936-941.
 - Allen JM et al. Exercise Alters Gut Microbiota Composition and Function in Lean and Obese Humans. *Med Sci Sports Exerc*. 2018;50(4):747-757.
-
-
