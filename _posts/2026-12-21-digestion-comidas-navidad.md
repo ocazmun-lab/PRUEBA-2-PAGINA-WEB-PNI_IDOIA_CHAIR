@@ -6,7 +6,7 @@ slug: "digestion-comidas-navidad"
 category: "Digestivo"
 tags: ["digestión", "Navidad", "hinchazón", "reflujo", "microbiota", "PNI"]
 meta_title: "Digestión en Navidad: 8 gestos desde la PNI | Idoia Chair"
-meta_description: "Por qué te hinchas más en las fiestas y 8 gestos desde la PNI: comer en calma, el orden del plato, el paseo, el alcohol, tus horarios y tu microbiota."
+meta_description: "Por qué te hinchas más en las fiestas y 8 gestos desde la PNI: comer en calma, empezar por la proteína, el paseo, el alcohol, tus horarios y tu microbiota."
 published: false
 ---
 
@@ -28,11 +28,11 @@ Si se juntan varias en el mismo día, que en estas fechas es lo normal, la tripa
 
 ## 8 gestos desde la PNI
 
-### 1. No llegues con hambre de lobo
+### 1. No te saltes comidas ese día
 
 Es muy habitual "guardarse" para la cena y pasar el día casi sin comer. Luego llegas con muchísima hambre, comes muy rápido y mucho más de lo que tu estómago lleva con comodidad.
 
-Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con hambre, sin ir desesperada.
+Haz tus comidas normales durante el día, con algo de proteína y verdura. Llegarás a la mesa con apetito, pero tranquila.
 
 ### 2. Siéntate a comer en calma
 
@@ -40,9 +40,9 @@ Tu cuerpo digiere bien cuando está en modo descanso. Ese modo lo dirige el nerv
 
 Antes del primer bocado, haz tres o cuatro respiraciones lentas, soltando el aire despacio. Luego come despacio y mastica bien: comes menos y te quedas igual de llena. Soltar los cubiertos entre bocado y bocado y aprovechar la conversación ayuda mucho.
 
-### 3. Empieza por la verdura
+### 3. Empieza por la proteína
 
-El orden del plato cuenta. Si empiezas por la ensalada o la verdura y dejas para después el pan, las patatas o el dulce, el azúcar en sangre sube menos y de forma más suave. Llegas al postre más tranquila y con menos sueño después de comer.
+El orden en que comes cuenta. Si empiezas por el marisco, el pescado, la carne o el jamón y dejas para el final el pan, las patatas y los dulces, el azúcar en sangre sube menos y de forma más suave. Además, la proteína sacia, y llegas al turrón con menos ansia.
 
 ### 4. Elige lo que de verdad te apetece
 
