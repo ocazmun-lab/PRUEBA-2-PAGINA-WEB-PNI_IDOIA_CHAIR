@@ -3,8 +3,8 @@ title: Cómo disfrutar de las comidas de Navidad sin acabar hinchada
 excerpt: Estas fechas son para disfrutarlas. Qué le pasa a tu digestión en las fiestas y 8 gestos desde la PNI para llevarlo mejor, sin contar y sin culpa.
 date: 2026-12-21 08:00:00 +01:00
 slug: digestion-comidas-navidad
-image: ''
-image_alt: ''
+image: /img/blog/navidad-comidas-digestion-pni.jpg
+image_alt: Mesa de Navidad con amigos brindando con cava, pavo asado y frutos rojos, y un dibujo del intestino y su microbiota
 category: Digestivo
 tags:
   - digestión
