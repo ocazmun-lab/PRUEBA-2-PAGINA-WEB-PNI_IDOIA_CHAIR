@@ -8,7 +8,7 @@ theme: null
 autora:
   nombre: "Idoia Chair"
   cargo: "Fisioterapeuta y osteópata especializada en Psiconeuroinmunología clínica"
-  foto: "/idoia-PNI.jpeg"
+  foto: "/img/idoia-chair-pni.jpg"
   instagram: "https://www.instagram.com/idoiachairpni"
 
 markdown: kramdown
