@@ -2,13 +2,12 @@
 layout: base
 title: "Psiconeuroinmunología en Zaragoza PNI online | Idoia Chair"
 description: "Consulta de Psiconeuroinmunología (PNI) en Zaragoza: online y a domicilio. Salud digestiva, hormonal e inmunológica. Primera sesión 90€."
-keywords: "PNI Zaragoza, psiconeuroinmunología, salud integrativa, consulta digestiva online, PNI online, PNI a domicilio Zaragoza, nutrición funcional, SIBO, Hashimoto, problemas digestivos, consulta salud hormonal"
 author: "Idoia Chair"
 robots: "index, follow"
 canonical: "https://idoiachairpni.es/"
 og_title: "Idoia Chair - PNI y Salud Integrativa en Zaragoza"
 og_description: "Consulta de Psiconeuroinmunología. Abordaje integral para problemas digestivos, hormonales e inmunológicos, en Zaragoza y online."
-og_image: "https://idoiachairpni.es/img/og-image.png"
+og_image: "https://idoiachairpni.es/img/og-image.jpg"
 og_url: "https://idoiachairpni.es/"
 og_type: "website"
 faq_schema: true
@@ -16,9 +15,10 @@ schema: |
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
+    "@id": "https://idoiachairpni.es/#consulta",
     "name": "Idoia Chair - PNI y Salud Integrativa",
-    "description": "Consulta de Psiconeuroinmunología en Zaragoza. Especializada en salud digestiva, hormonal e inmunológica.",
-    "url": "https://idoiachairpni.es",
+    "description": "Consulta de Psiconeuroinmunología en Zaragoza, online y a domicilio. Salud digestiva, hormonal e inmunológica.",
+    "url": "https://idoiachairpni.es/",
     "telephone": "+34604811712",
     "address": {
       "@type": "PostalAddress",
@@ -26,12 +26,29 @@ schema: |
       "addressRegion": "Aragón",
       "addressCountry": "ES"
     },
-    "priceRange": "60€-90€",
-    "areaServed": "Zaragoza y alrededores",
+    "areaServed": [
+      {"@type": "City", "name": "Zaragoza"},
+      {"@type": "Country", "name": "España"}
+    ],
+    "priceRange": "60€-200€",
     "openingHours": "Mo-Fr 09:00-20:00",
-    "image": "https://idoiachairpni.es/img/og-image.png",
-    "medicalSpecialty": "Psiconeuroinmunología",
+    "image": "https://idoiachairpni.es/img/og-image.jpg",
+    "logo": "https://idoiachairpni.es/img/logo-idoia-chair.png",
     "paymentAccepted": "Transferencia bancaria, Bizum",
+    "knowsAbout": ["Psiconeuroinmunología", "Salud digestiva", "SIBO", "Salud hormonal", "Tiroides", "Sistema inmunitario"],
+    "founder": {
+      "@type": "Person",
+      "@id": "https://idoiachairpni.es/#idoia-chair",
+      "name": "Idoia Chair",
+      "jobTitle": "Fisioterapeuta y osteópata especializada en Psiconeuroinmunología clínica",
+      "image": "https://idoiachairpni.es/idoia-PNI.jpeg",
+      "sameAs": ["https://www.instagram.com/idoiachairpni"]
+    },
+    "makesOffer": [
+      {"@type": "Offer", "name": "Primera consulta de PNI (60-90 min)", "price": "90", "priceCurrency": "EUR"},
+      {"@type": "Offer", "name": "Consulta de seguimiento (60 min)", "price": "60", "priceCurrency": "EUR"},
+      {"@type": "Offer", "name": "Bono primera sesión + 2 seguimientos", "price": "200", "priceCurrency": "EUR"}
+    ],
     "sameAs": ["https://www.instagram.com/idoiachairpni"]
   }
 ---
@@ -65,21 +82,33 @@ schema: |
           <img src="{{ '/img/salud-intestinal-pni-idoia-chair.png' | relative_url }}" alt="Tratamiento problemas digestivos PNI Zaragoza - SIBO, disbiosis, Helicobacter" width="72" height="72">
           <h3>Sistema digestivo</h3>
           <p>Acidez o reflujo, digestiones lentas y pesadas, alteraciones de la microbiota, gastritis, Helicobacter Pylori, disbiosis, SIBO, parásitos, abdomen hinchado, estreñimiento, diarrea, gases.</p>
+          {% assign rel = site.posts | where: "category", "Digestivo" %}{% if rel.size > 0 %}
+          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/desordenes-endocrinos-pni-idoia-chair.png' | relative_url }}" alt="Desórdenes endocrinos PNI Idoia Chair" width="72" height="72">
           <h3>Desórdenes endocrinos</h3>
           <p>Hipo/Hipertiroidismo, enfermedad de Hashimoto, enfermedad de Graves.</p>
+          {% assign rel = site.posts | where: "category", "Hormonal" %}{% if rel.size > 0 %}
+          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-inmunologica-pni-idoia-chair.png' | relative_url }}" alt="Salud inmunológica PNI Idoia Chair" width="72" height="72">
           <h3>Sistema inmunológico</h3>
           <p>Infecciones recurrentes, alergias, dermatitis.</p>
+          {% assign rel = site.posts | where: "category", "Inmune" %}{% if rel.size > 0 %}
+          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-hormonal-pni-idoia-chair.png' | relative_url }}" alt="Equilibrio hormonal PNI Idoia Chair" width="72" height="72">
           <h3>Desórdenes hormonales</h3>
           <p>Dolor menstrual, SOP, amenorrea.</p>
+          {% assign rel = site.posts | where: "category", "Hormonal" %}{% if rel.size > 0 %}
+          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-musculoesqueletica-pni-idoia-chair.png' | relative_url }}" alt="Salud musculoesquelética PNI Idoia Chair" width="72" height="72">
@@ -200,7 +229,7 @@ schema: |
           <p class="about-intro">Soy Idoia Chair, especialista en Psiconeuroinmunología Clínica.</p>
           <p>Como fisioterapeuta y osteópata, mi enfoque va más allá del tratamiento sintomático. La Psiconeuroinmunología me ha permitido entender de una manera más profunda la conexión entre los distintos sistemas del cuerpo y la Salud Integral.</p>
           <p>Mi misión es ayudarte a encontrar la causa raíz de tus problemas de salud, no solo aliviar los síntomas. Trabajo de forma personalizada, evaluando todos los sistemas del cuerpo para diseñar un plan terapéutico único para ti.</p>
-          <p class="location">Consulta online</p>
+          <p class="location">Consulta online y a domicilio en Zaragoza</p>
           <ul>
             <li>Evaluación integral y plan personalizado</li>
             <li>Seguimiento y ajuste de tratamientos</li>
@@ -270,6 +299,7 @@ schema: |
             </svg>
             WhatsApp
           </a>
+          <p>O llámame: <a class="contact-phone" href="tel:+34604811712">604 811 712</a></p>
           <p>Sígueme en Instagram:</p>
           <a class="instagram-link" href="https://www.instagram.com/idoiachairpni" target="_blank" rel="noopener">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">

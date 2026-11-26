@@ -4,11 +4,10 @@
 {% include analytics.html %}
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
-{% if page.keywords %}  <meta name="keywords" content="{{ page.keywords }}">
-{% endif %}{% if page.author %}  <meta name="author" content="{{ page.author }}">
-{% endif %}  <meta name="robots" content="{{ page.robots }}">
-{% if page.canonical %}  <link rel="canonical" href="{{ page.canonical }}">
-{% endif %}{% if page.schema %}  <script type="application/ld+json">
+{% if page.author %}  <meta name="author" content="{{ page.author }}">
+{% endif %}  <meta name="robots" content="{{ page.robots | default: 'index, follow' }}">
+  <link rel="canonical" href="{{ page.canonical | default: page.url | absolute_url }}">
+{% if page.schema %}  <script type="application/ld+json">
 {{ page.schema }}
   </script>
 {% endif %}{% if page.faq_schema %}  <script type="application/ld+json">
