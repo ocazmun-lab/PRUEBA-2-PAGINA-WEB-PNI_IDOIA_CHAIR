@@ -100,7 +100,8 @@
   </article>
 
   {% assign relacionados = site.posts | where: "category", page.category | where_exp: "p", "p.url != page.url" %}
-  {% if relacionados.size < 3 %}{% assign relacionados = site.posts | where_exp: "p", "p.url != page.url" %}{% endif %}
+  {% assign otros = site.posts | where_exp: "p", "p.category != page.category" %}
+  {% assign relacionados = relacionados | concat: otros %}
   {% if relacionados.size > 0 %}
   <section class="section related-posts" aria-label="Artículos relacionados">
     <h2>Sigue leyendo</h2>
