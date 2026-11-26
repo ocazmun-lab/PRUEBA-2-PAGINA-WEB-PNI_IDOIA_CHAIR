@@ -4,6 +4,13 @@ lang: es
 timezone: Europe/Madrid
 theme: null
 
+# Datos de la autora: se usan en la firma de los artículos y en los datos para Google.
+autora:
+  nombre: "Idoia Chair"
+  cargo: "Fisioterapeuta y osteópata especializada en Psiconeuroinmunología clínica"
+  foto: "/idoia-PNI.jpeg"
+  instagram: "https://www.instagram.com/idoiachairpni"
+
 markdown: kramdown
 kramdown:
   input: GFM

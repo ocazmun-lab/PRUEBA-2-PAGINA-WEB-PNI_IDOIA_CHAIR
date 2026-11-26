@@ -8,13 +8,13 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{{ page.meta_title | default: page.title }}">
   <meta property="og:description" content="{{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 }}">
-  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/og-image.png' | absolute_url }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/og-image.jpg' | absolute_url }}{% endif %}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="article">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.meta_title | default: page.title }}">
   <meta name="twitter:description" content="{{ page.meta_description | default: page.excerpt | strip_html | truncate: 160 }}">
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/og-image.png' | absolute_url }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/img/og-image.jpg' | absolute_url }}{% endif %}">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -32,10 +32,16 @@
     "@type": "BlogPosting",
     "headline": {{ page.title | jsonify }},
     "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "inLanguage": "es-ES",
     "author": {
       "@type": "Person",
-      "name": "Idoia Chair"
+      "@id": "{{ '/' | absolute_url }}#idoia-chair",
+      "name": {{ site.autora.nombre | jsonify }},
+      "jobTitle": {{ site.autora.cargo | jsonify }},
+      "url": "{{ '/#sobre-mi' | absolute_url }}",
+      "image": "{{ site.autora.foto | absolute_url }}",
+      "sameAs": ["{{ site.autora.instagram }}"]
     },
     "publisher": {
       "@type": "Organization",
@@ -68,21 +74,52 @@
   <article class="container">
     {% if page.category %}<p class="post-category">{{ page.category }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
+    <p class="post-meta">Por <a href="{{ '/#sobre-mi' | relative_url }}">{{ site.autora.nombre }}</a> · {{ page.date | date: "%d/%m/%Y" }}</p>
 
     {% if page.image %}
-    <img class="post-featured-image" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+    <img class="post-featured-image" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" width="1200" height="800" fetchpriority="high" decoding="async">
     {% endif %}
 
     <div class="post-content">
       {{ content }}
     </div>
 
+    <aside class="post-author" aria-label="Sobre la autora">
+      <img src="{{ site.autora.foto | relative_url }}" alt="{{ site.autora.nombre }}" width="96" height="96" loading="lazy" decoding="async">
+      <div>
+        <p class="post-author-name">{{ site.autora.nombre }}</p>
+        <p class="post-author-role">{{ site.autora.cargo }}</p>
+        <p class="post-author-bio">Paso consulta de PNI online y a domicilio en Zaragoza. <a href="{{ '/#sobre-mi' | relative_url }}">Más sobre mí</a></p>
+      </div>
+    </aside>
+
     <div class="post-cta">
       <p>¿Quieres resolver esto en tu caso?</p>
       <a href="{{ '/#contacto' | relative_url }}" class="btn">Reserva tu consulta</a>
     </div>
   </article>
+
+  {% assign relacionados = site.posts | where: "category", page.category | where_exp: "p", "p.url != page.url" %}
+  {% assign otros = site.posts | where_exp: "p", "p.category != page.category" %}
+  {% assign relacionados = relacionados | concat: otros %}
+  {% if relacionados.size > 0 %}
+  <section class="section related-posts" aria-label="Artículos relacionados">
+    <h2>Sigue leyendo</h2>
+    <div class="blog-grid">
+      {% for post in relacionados limit:3 %}
+      <article class="blog-card">
+        <a href="{{ post.url | relative_url }}">
+          {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" width="1200" height="800" loading="lazy" decoding="async">{% endif %}
+          <div class="blog-card-body">
+            {% if post.category %}<span class="blog-card-category">{{ post.category }}</span>{% endif %}
+            <h3>{{ post.title }}</h3>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
 </main>
 
 {% include footer.html %}
