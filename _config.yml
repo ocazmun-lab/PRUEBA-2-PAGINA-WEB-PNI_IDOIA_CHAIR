@@ -5,12 +5,9 @@ timezone: Europe/Madrid
 theme: null
 
 # Datos de la autora: se usan en la firma de los artículos y en los datos para Google.
-# Rellena "colegiada" con tu número de colegiada (ej: "Fisioterapeuta colegiada nº 1234 COFiSA")
-# y aparecerá automáticamente en todos los artículos.
 autora:
   nombre: "Idoia Chair"
   cargo: "Fisioterapeuta y osteópata especializada en Psiconeuroinmunología clínica"
-  colegiada: ""
   foto: "/idoia-PNI.jpeg"
   instagram: "https://www.instagram.com/idoiachairpni"
 
