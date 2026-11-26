@@ -82,33 +82,21 @@ schema: |
           <img src="{{ '/img/salud-intestinal-pni-idoia-chair.png' | relative_url }}" alt="Tratamiento problemas digestivos PNI Zaragoza - SIBO, disbiosis, Helicobacter" width="72" height="72">
           <h3>Sistema digestivo</h3>
           <p>Acidez o reflujo, digestiones lentas y pesadas, alteraciones de la microbiota, gastritis, Helicobacter Pylori, disbiosis, SIBO, parásitos, abdomen hinchado, estreñimiento, diarrea, gases.</p>
-          {% assign rel = site.posts | where: "category", "Digestivo" %}{% if rel.size > 0 %}
-          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
-          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/desordenes-endocrinos-pni-idoia-chair.png' | relative_url }}" alt="Desórdenes endocrinos PNI Idoia Chair" width="72" height="72">
           <h3>Desórdenes endocrinos</h3>
           <p>Hipo/Hipertiroidismo, enfermedad de Hashimoto, enfermedad de Graves.</p>
-          {% assign rel = site.posts | where: "category", "Hormonal" %}{% if rel.size > 0 %}
-          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
-          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-inmunologica-pni-idoia-chair.png' | relative_url }}" alt="Salud inmunológica PNI Idoia Chair" width="72" height="72">
           <h3>Sistema inmunológico</h3>
           <p>Infecciones recurrentes, alergias, dermatitis.</p>
-          {% assign rel = site.posts | where: "category", "Inmune" %}{% if rel.size > 0 %}
-          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
-          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-hormonal-pni-idoia-chair.png' | relative_url }}" alt="Equilibrio hormonal PNI Idoia Chair" width="72" height="72">
           <h3>Desórdenes hormonales</h3>
           <p>Dolor menstrual, SOP, amenorrea.</p>
-          {% assign rel = site.posts | where: "category", "Hormonal" %}{% if rel.size > 0 %}
-          <p class="item-links">En el blog: {% for post in rel limit:2 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
-          {% endif %}
         </article>
         <article class="item">
           <img src="{{ '/img/salud-musculoesqueletica-pni-idoia-chair.png' | relative_url }}" alt="Salud musculoesquelética PNI Idoia Chair" width="72" height="72">
@@ -260,6 +248,27 @@ schema: |
         {% endif %}
         {% endfor %}
       </div>
+    </section>
+
+    <section id="blog" class="section home-blog" aria-labelledby="home-blog-title">
+      <div class="section-head">
+        <h2 id="home-blog-title">¿Quieres saber más sobre la PNI?</h2>
+        <p class="lead">En el blog explico cómo trabajo y qué hay detrás de síntomas como el cansancio, la tripa hinchada o una regla que duele.</p>
+      </div>
+      <div class="blog-grid">
+        {% for post in site.posts limit:3 %}
+        <article class="blog-card">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" width="1200" height="800" loading="lazy" decoding="async">{% endif %}
+            <div class="blog-card-body">
+              {% if post.category %}<span class="blog-card-category">{{ post.category }}</span>{% endif %}
+              <h3>{{ post.title }}</h3>
+            </div>
+          </a>
+        </article>
+        {% endfor %}
+      </div>
+      <p class="home-blog-more"><a class="btn btn-outline" href="{{ '/blog/' | relative_url }}">Ver todos los artículos</a></p>
     </section>
 
     <section id="contacto" class="band contact">

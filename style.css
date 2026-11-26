@@ -797,8 +797,6 @@ footer{background:var(--primario);color:#fff;padding:2rem 0 2rem;font-size:0.92r
 /* ========================================
    SEO: enlaces al blog, firma de autora, relacionados
    ======================================== */
-.item-links{font-size:0.88rem;margin:0.4rem 0 0;color:var(--texto-suave)}
-.item-links a{color:var(--primario);font-weight:600}
 .contact-phone{color:var(--primario);font-weight:700;text-decoration:none}
 .contact-phone:hover{text-decoration:underline}
 footer .footer-inner p a{color:inherit}
@@ -825,3 +823,17 @@ footer .footer-inner p a{color:inherit}
 .related-posts{max-width:1100px;margin:0 auto;padding-top:0}
 .related-posts h2{color:var(--primario);text-align:center}
 .blog-card h3{font-size:1.1rem;margin:0;color:var(--texto);line-height:1.35}
+
+/* Portada: bloque del blog antes de contacto */
+.home-blog .section-head{margin-inline:auto;text-align:center}
+.home-blog .lead{margin-inline:auto}
+.home-blog-more{text-align:center;margin:2rem 0 0}
+.btn-outline{background:transparent;color:var(--primario);border:2px solid var(--primario)}
+.btn-outline:hover{background:var(--primario);color:#fff}
+@media (max-width:600px){
+  .home-blog .blog-grid{grid-template-columns:1fr;gap:0.9rem}
+  .home-blog .blog-card a{display:flex;align-items:center}
+  .home-blog .blog-card img{width:104px;flex:0 0 104px;aspect-ratio:1/1;height:104px}
+  .home-blog .blog-card-body{padding:0.8rem 1rem}
+  .home-blog .blog-card h3{font-size:1rem}
+}
